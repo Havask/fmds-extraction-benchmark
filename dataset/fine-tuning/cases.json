@@ -1,0 +1,2004 @@
+{
+  "cases": [
+    {
+      "case": "Case 1",
+      "description": "En pasient kom inn 12.05.2024 klokken 14:30 med sårskader etter et fall på sykkel i Alver kommune. Pasienten hadde brukt hjelm og beskyttelse under sykkelturen, som fant sted på en grusvei i skogen. Skadene ble vurdert som moderate. Ved undersøkelse ble det funnet dype kutt og sår på høyre kne og underarm, samt skrubbsår på hoften. Takket være hjelmen ble hodeskader unngått. Pasienten fikk renset sårene grundig og ble sydd i kneet og underarmen. Enkelte mindre sår ble stripset. Etter en observasjonsperiode og smertestillende ble pasienten utskrevet i god allmenntilstand med råd om sårstell og oppfølging av fastlege."
+    },
+    {
+      "case": "Case 2",
+      "description": "På kvelden 28.09.2024 kuttet en person i Lillesand seg dypt i fingeren under matlaging hjemme. Skaden skjedde rundt klokken 18:00 og var ikke alvorlig nok for ambulanse. Pasienten kom selv til legevakten med et dypt kutt på pekefingeren som blødde kraftig. Såret ble vurdert, renset og sydd med tre sting. Pasienten fikk stivkrampesprøyte, og en bandasje ble lagt på. Ved utskrivelse ble det gitt råd om sårstell hjemme og å unngå tung belastning på fingeren. Oppfølging hos fastlege for fjerning av sting ble avtalt etter 10 dager."
+    },
+    {
+      "case": "Case 3",
+      "description": "En 62 år gammel mann ble skadet 15.03.2025 kl. 14:30 i sin bolig i Gjesdal, da han falt fra en gardintrapp under rensing av takrenner. Trappen veltet da han lente seg for langt til siden. Pasienten falt omtrent to meter og landet på venstre hofte og side. Han klarte ikke å reise seg grunnet sterke smerter i bekkenregionen, og naboen ringte 113. Skader: Bekkenbrudd (ramus inferior på venstre side), forstuing av venstre ankel, samt mindre skrubbsår og blåmerker. Videre forløp: Ambulanse fraktet pasienten til akuttmottaket. Røntgen bekreftet et stabilt bekkenbrudd, og CT utelukket indre blødninger. Han ble innlagt for observasjon, smertelindring og startet tidlig mobilisering med fysioterapeut. Etter fire dager ble han utskrevet med videre oppfølging."
+    },
+    {
+      "case": "Case 4",
+      "description": "Tidlig om morgenen 08.01.2025 kl. 07:45 falt en 81 år gammel kvinne på et islagt fortau utenfor en butikk i Bodø. Hun gikk med stokk, men snublet i en snøhaug og landet på venstre side. Hun klarte ikke å reise seg. Skader: Røntgen viste et ukomplisert brudd i venstre hofte (collum femoris), i tillegg til en overfladisk hodekontusjon og forslått venstre håndledd. Videre forløp: Pasienten ble innlagt, operert med innsetting av halvprotese og overført til geriatrisk rehabilitering etter tre døgn. Oppfølging via fysioterapeut og kommunale tjenester ble etablert ved utskrivning."
+    },
+    {
+      "case": "Case 5",
+      "description": "En arbeidsulykke fant sted 14.02.2025 kl. 11:20 ved en fabrikk i Sarpsborg, da en 41 år gammel arbeider fikk høyre underarm i klem i en hydraulisk presse. Maskinen, som ikke var tilstrekkelig sikret, startet plutselig mens han forsøkte å fjerne en blokkering. Skader: Åpent underarmsbrudd med knusning av radius og ulna, omfattende bløtdelsskader og tegn til iskemi i fingrene. Videre forløp: Akutt overføring til traumesenter for dekompresjon og ekstern fiksasjon. Senere ble det utført mikrovaskulær rekonstruksjon. Langvarig oppfølging og mulig delvis amputasjon vurderes."
+    }, 
+    {
+      "case": "Case 6",
+      "description": "Sent på kvelden 21.06.2025, kl. 23:50, ble en 19 år gammel mann skadet i Drammen da han veltet på en el-sparkesykkel. Han kjørte i høy fart uten hjelm, traff en fortauskant og slo hodet i asfalten. Skader: Hjernerystelse med kortvarig bevisstløshet, skrubbsår i ansiktet og forslått høyre skulder. Videre løp: CT av hodet var normal. Han ble lagt inn for observasjon i 24 timer og utskrevet med råd om hjelmbruk og ro. Kontroll hos fastlege ble avtalt etter tre dager."
+    },
+    {
+      "case": "Case 7",
+      "description": "Under en ridetime i Ringsaker 17.05.2025 kl. 15:10 ble en 12 år gammel gutt sparket i brystet av en hest som ble skremt. Gutten ble kastet bakover og ble liggende med pustevansker og sterke smerter. Skader: CT av thorax viste 4 ribbensbrudd på venstre side, hemothorax (blod i lungesekken) og en lungeskade. Han hadde også blåmerker på venstre lår. Videre forløp: Pasienten ble innlagt på barneintensiv og fikk dren for å tømme lungesekken. Han ble overvåket i fire døgn før han ble overført til barnekirurgisk avdeling, med videre oppfølging poliklinisk."
+    },
+    {
+      "case": "Case 8",
+      "description": "En alvorlig trafikkulykke skjedde natt til 12.03.2025 kl. 01:30 på en vei i Ullensaker. En 23 år gammel mann mistet kontrollen over bilen i høy fart, kjørte av veien og traff et tre. Han ble sittende fastklemt i 20 minutter før nødetatene fikk ham løs. Skader: Brudd i høyre lårben, hodeskade med subduralt hematom, lungeskade med pneumothorax og en leverkontusjon. Videre forløp: Traumealarm ble utløst. Pasienten ble lagt inn på intensivavdeling, operert for femurfraktur og fikk dren for pneumothorax. Lang rehabilitering er planlagt."
+    },
+    {
+      "case": "Case 9",
+      "description": "En 45 år gammel maler falt fra et stillas i Bergen 19.04.2025 kl. 09:00. Han mistet balansen 4 meter over bakken og landet på ryggen på et betonggulv. Skader: Kraniebrudd med blødning, fraktur i L3-virvelen, pneumothorax og flere ribbensbrudd. Videre forløp: Han ble umiddelbart overført til traumesykehus, intubert ved ankomst. CT viste behov for overvåkning. Ryggfrakturen ble behandlet konservativt, og han ble innlagt på nevrokirurgisk avdeling i 5 døgn. Fortsatt rehabilitering er planlagt."
+    },
+    {
+      "case": "Case 10",
+      "description": "Den 10.02.2025 kl. 22:15 ble en 36 år gammel kvinne i Ålesund fysisk angrepet av samboeren. Hun ble slått gjentatte ganger i ansiktet og sparket i magen. Skader: Brudd i nesen, blåmerker rundt begge øynene og mistanke om miltkontusjon. Videre forløp: Pasienten kom til akuttmottaket sammen med politiet. CT av abdomen og hode ble tatt. Hun ble innlagt for observasjon og fikk oppfølging av sosionom og kriseteam. Forholdet ble anmeldt, og samtale med psykolog ble planlagt."
+    },
+    {
+      "case": "Case 11",
+      "description": "En 27 år gammel kvinne i Bærum pådro seg brannskader 02.01.2025 kl. 18:40 da en panne med matolje tok fyr. Hun fikk oljen over seg da hun forsøkte å slukke flammene med vann. Skader: 2. grads forbrenning på høyre underarm og øvre del av brystet (ca. 15 % av kroppsoverflaten). Ingen inhalasjonsskade. Videre forløp: Innlagt på kirurgisk avdeling for sårstell og smertelindring. En plastikkirurg vurderte sårene som overfladiske. Hun ble utskrevet etter 3 dager med poliklinisk oppfølging."
+    },
+    {
+      "case": "Case 12",
+      "description": "En 31 år gammel mann snublet og falt ned en metalltrapp i et lagerbygg i Lørenskog morgenen 25.05.2025 kl. 08:15. Han bar en eske, rullet ned 6 trinn og traff et rekkverk. Skader: Brudd i venstre overarm (humerus) og overflatiske skrubbsår. Videre forløp: Røntgen bekreftet et ukomplisert brudd. Han ble behandlet konservativt med fatle og smertestillende, med videre oppfølging hos fysioterapeut og ortoped."
+    },
+    {
+      "case": "Case 13",
+      "description": "En 6 år gammel gutt falt fra toppen av et klatrestativ (ca. 2 meter) på en lekeplass i Asker 14.06.2025 kl. 11:25. Han landet med armene først. Skader: Forstuing av høyre håndledd og mindre skrubbsår på knærne. Videre forløp: Etter undersøkelse på legevakt og røntgen ble brudd utelukket. Han ble utskrevet med støttebandasje og anbefaling om kontroll hos fastlege."
+    },
+    {
+      "case": "Case 14",
+      "description": "Den 29.03.2025 ble en 78 år gammel mann i Trondheim funnet forvirret og svett av ektefellen kl. 06:30. Årsaken var at han ved en feil hadde tatt dobbel dose blodtrykksmedisin. Skader: Ingen fysiske skader, men lavt blodtrykk (85/50) og forvirring. Videre forløp: Innlagt for overvåkning og intravenøs væske. Stabilisert etter 12 timer og utskrevet etter ett døgn. Fastlegen ble informert, og bruk av multidose ble vurdert."
+    },
+    {
+      "case": "Case 15",
+      "description": "Under arbeid med en sirkelsag i et verksted i Skien 20.04.2025 kl. 14:50, kuttet en 34 år gammel mann seg i venstre håndflate. Han forsøkte å fjerne sagflis mens sagen fortsatt var på. Skader: Et 6 cm dypt kutt med delvis avskåret fleksorsene i ringfingeren. Videre forløp: Pasienten ble henvist til håndkirurgi og operert samme dag. Etter sutur av sene og hud fikk han gips og planlagt oppfølging med ergoterapeut."
+    },
+    {
+      "case": "Case 16",
+      "description": "En 58 år gammel kvinne i Færder falt under hagearbeid 03.07.2025 kl. 19:10 da hun snublet i en vannslange. Hun landet på høyre kne og hørte et knepp. Skader: Røntgen avdekket et brudd i høyre patella (kneskål). Videre forløp: Hun ble operert med osteosyntese for å stabilisere bruddet og innlagt for observasjon. Hun ble utskrevet etter to dager med en skinne, krykker og en plan for rehabilitering."
+    },
+    {
+      "case": "Case 17",
+      "description": "Under en basketballkamp i en idrettshall i gymtimen i Haugesund 11.08.2025 kl. 10:45 falt en 26 år gammel mann og kjente akutte smerter i akillessenen. Han kom i ubalanse under en finte og falt bakover. Skader: MR bekreftet en komplett ruptur av venstre akillessene. Videre forløp: Han ble operert med sutur av senen. Foten ble gipset i en spesiell stilling, og han ble utskrevet samme dag med instruksjoner om å unngå vektbelastning og en plan for poliklinisk oppfølging."
+    },
+    {
+      "case": "Case 18",
+      "description": "En 48 år gammel mann fra Kristiansand falt ned fra en stige mens han renset takrennen hjemme den 22.09.2025 kl. 14:00. Han falt ca. 3 meter og landet på venstre arm og skulder. Han ble hentet med ambulanse. Skader: Komplisert brudd i venstre underarm (ulna og radius), venstre skulder ute av ledd (luksasjon) og et 5 cm langt kutt i hodebunnen. Videre forløp: Bruddet ble operert og fiksert. Skulderen ble reponert under lett sedasjon og kuttet ble sydd. Innlagt for observasjon i ett døgn på grunn av hodeslaget, og utskrevet med smertestillende og henvisning til ortopedisk poliklinikk."
+    },
+    {
+      "case": "Case 19",
+      "description": "En 3-årig jente falt ut fra et vindu i 2. etasje av familiens bolig i Tønsberg den 01.10.2025 kl. 12:05. Moren fant henne på gressplenen; hun var bevisst, men gråt og klaget over smerter i venstre ben. Skader: Røntgen avdekket en fraktur i venstre lårben (femur). Videre forløp: Pasienten ble innlagt på barneavdelingen og behandlet med traksjon for å stabilisere bruddet. Etter noen dager ble hun gipset og utskrevet med grundig veiledning til foreldrene og oppfølging hos barneortopedisk poliklinikk."
+    },
+    {
+      "case": "Case 20",
+      "description": "En 55 år gammel mann ble alvorlig skadet i Sandefjord 15.11.2025 kl. 09:30 da et stillas i 3. etasje delvis kollapset under byggearbeid. Han falt og landet på ryggen. Skader: Fraktur i flere ryggvirvler (L2 og L3), lungekontusjon og flere ribbensbrudd. Videre forløp: Pasienten ble fraktet til traumesenter. CT bekreftet skadene. Han ble operert for ryggvirvelfrakturene og lagt inn på intensivavdeling, med en lang rehabiliteringsprosess foran seg."
+    },
+    {
+      "case": "Case 21",
+      "description": "Etter å ha falt og knust en glassdør i en bygård i Fredrikstad 07.12.2025 kl. 16:00, kuttet en 20 år gammel student seg dypt i håndleddet. Han blødde kraftig fra en pulsåre. Skader: Kuttskade i venstre håndledd med delvis gjennomskåret arterie og sener. Videre forløp: Han ble fraktet med ambulanse, og en håndkirurg ble tilkalt. Han ble operert for å stoppe blødningen og reparere skadene, med en påfølgende lang periode med rehabilitering."
+    },
+    {
+      "case": "Case 22",
+      "description": "En 15 år gammel gutt falt på isen under skøytegåing på en bane i Stavanger 10.01.2026 kl. 13:45, og landet på venstre skulder og arm. Skader: Røntgen viste en dislokasjon av venstre skulderledd og en fraktur i overarmen. Videre forløp: Skulderen ble reponert på akuttmottaket under sedasjon. Han fikk en gips og ble utskrevet med poliklinisk oppfølging for å vurdere om bruddet krevde operasjon."
+    },
+    {
+      "case": "Case 23",
+      "description": "Den 28.02.2026 kl. 09:10 ble en 65 år gammel kvinne påkjørt av en bil mens hun syklet hjem i Lillestrøm. Bilisten overså henne da vedkommende kjørte ut fra en privat vei. Skader: Flere ribbeinsbrudd, punktert lunge og omfattende skrubbsår. Videre forløp: Pasienten ble innlagt på traumesykehus og fikk dren for pneumothorax. Etter stabilisering på intensivavdelingen ble hun overført til kirurgisk avdeling. Langvarig rehabilitering er planlagt."
+    },
+    {
+      "case": "Case 24",
+      "description": "En 22 år gammel mann uten hjelm falt på rullebrett i en skatepark i Moss 17.03.2026 kl. 14:00. Han slo hodet i en betongkant. Skader: Komplisert hjernerystelse med kortvarig bevissthetstap og en dyp flenge i hodebunnen. Videre forløp: CT-undersøkelse viste ingen blødninger, men han ble innlagt for 24 timers observasjon. Flengen ble sydd, og han ble utskrevet med råd om ro."
+    },
+    {
+      "case": "Case 25",
+      "description": "På et gårdsbruk i Indre Østfold 25.04.2026 kl. 10:20 ble en 5-årig gutt skadet. Han hadde klatret opp på en traktor uten at faren merket det, og falt da traktoren begynte å rulle. Skader: Et ukomplisert brudd i venstre leggben (tibia). Videre forløp: Røntgen bekreftet bruddet, og benet ble gipset. Han ble utskrevet samme dag med instruksjoner til foreldrene og avtale om kontroll etter 2 uker."
+    },
+    {
+      "case": "Case 26",
+      "description": "Etter en psykisk krise 19.05.2026 kl. 20:30 i Larvik, forsøkte en 33 år gammel kvinne å sette fyr på seg selv med bensin på en psykisk helseinstitusjon. Skader: 3. grads forbrenning på overkropp og ansikt, samt omfattende inhalasjonsskader. Videre forløp: Hun ble funnet av politiet og raskt fraktet til brannskadeavdelingen. Hun ble intubert og behandlet på intensivavdeling. Flere hudtransplantasjoner ble utført, og hun står foran en lang rehabilitering med tverrfaglig oppfølging."
+    },
+    {
+      "case": "Case 27",
+      "description": "Under et terrengsykkelløp i Arendal 08.06.2026 kl. 13:15, falt en 18 år gammel mann utfor et stup. Han ble funnet av medsyklister. Skader: Bekkenbrudd, flere ribbensbrudd, forslått lunge og omfattende skrubbsår. Videre forløp: Han ble hentet av redningshelikopter og fraktet til et traumesenter. Han ble innlagt på intensiv for konstant overvåkning, og operasjon for bekkenbruddet er planlagt."
+    },
+    {
+      "case": "Case 28",
+      "description": "En 42 år gammel mann spilte fotball på en bane i Karmøy 01.07.2026 kl. 17:55 da han plutselig fikk akutte smerter i leggen og hørte et smell. Skader: Diagnosen var en komplett muskelruptur i venstre legg. Videre forløp: Han ble henvist til en ortoped som anbefalte konservativ behandling. Han ble utskrevet med instruksjoner om å holde beinet høyt, unngå belastning og følge opp hos fysioterapeut."
+    },
+    {
+      "case": "Case 29",
+      "description": "En 28 år gammel mann ble slått i hodet med en flaske under et klammeri utenfor en bar i Porsgrunn, kvelden 23.08.2026 kl. 22:45. Skader: Dyp flenge i hodebunnen og hjernerystelse. Videre forløp: Flengen ble sydd på akuttmottaket. Han ble innlagt for observasjon i 24 timer, politiet ble varslet, og han ble utskrevet i god allmenntilstand."
+    },
+    {
+      "case": "Case 30",
+      "description": "Et fall i egen trapp hjemme i Hamar 14.09.2026 kl. 11:00 førte til skade for en 70 år gammel mann. Han mistet fotfestet og landet på ryggen. Skader: Fraktur i 4. og 5. ryggvirvel. Videre forløp: Han ble fraktet med ambulanse og innlagt. CT bekreftet bruddene. Han ble behandlet med sengeleie, smertelindring og henvist til fysioterapeut."
+    },
+    {
+      "case": "Case 31",
+      "description": "Under et snøfall i Ringerike 20.10.2026 kl. 09:45 falt en 25 år gammel mann på et glatt fortau og klaget over smerter i høyre ankel. Skader: Røntgen viste en spiralfraktur i høyre ankel. Videre forløp: Han ble gipset, fikk krykker og avtale om videre oppfølging hos ortopedisk poliklinikk for gipsbytte og rehabilitering."
+    },
+    {
+      "case": "Case 32",
+      "description": "En 51 år gammel kvinne ble truffet av en gaffeltruck på et lager i Halden 05.11.2026 kl. 15:30. Trucken rygget mens kvinnen var i blindsonen. Hun ble kastet i bakken med store smerter. Skader: Komplisert bekkenbrudd, flere ribbensbrudd og en miltruptur. Videre forløp: Fraktet til traumesenter hvor CT bekreftet skadene. Hun ble operert for bekkenbruddet og milten ble fjernet (splenektomi). Hun ble deretter lagt inn på intensivavdeling."
+    },
+    {
+      "case": "Case 33",
+      "description": "En 10 år gammel gutt i Lillehammer fikk hånden klemt i en bildør 12.11.2026 kl. 18:00 da faren lukket døren uten å se ham på en parkeringsplass. Skader: Brudd i to fingerknokler, klemskader og hematom. Videre forløp: Røntgen bekreftet bruddet. Fingrene ble spjelket og gutten ble utskrevet med informasjon til foreldrene og henvisning til fastlege for kontroll."
+    },
+    {
+      "case": "Case 34",
+      "description": "Sent på kvelden 21.11.2026 kl. 23:15 ble en beruset 38 år gammel mann pågrepet av politiet i Molde mens han forsøkte å sette fyr på et hus. Han pådro seg en brekt arm i sammenstøt med politiet og ble gipset og innlagt på psykiatrisk vurdering og oppfølging av skadene."
+    },
+    {
+      "case": "Case 35",
+      "description": "En 67 år gammel kvinne ble overfalt og ranet utenfor en bank i Gjøvik morgenen 04.12.2026 kl. 08:30. Raneren slo henne i ansiktet og tok vesken hennes. Skader: Nesefraktur og blåmerker rundt øynene. Videre forløp: Hun kom til legevakten hvor politiet ble tilkalt. Nesefrakturen ble reponert, og hun ble utskrevet med smertelindring og henvisning til et krisesenter."
+    },
+    {
+      "case": "Case 36",
+      "description": "Under en jakttur på fjellet ved Kongsberg 18.12.2026 kl. 12:00 falt en 40 år gammel mann og forstuet ankelen. Han ble liggende og vente på redningsmannskaper i flere timer. Skader: Ankeldistorsjon og moderat nedkjøling. Videre forløp: Fraktet til legevakt. Røntgen viste ingen fraktur. Ankelen ble bandasjert, og han ble utskrevet med smertestillende, råd om ro og henvisning til fysioterapeut."
+    },
+    {
+      "case": "Case 37",
+      "description": "En 75 år gammel kvinne falt i egen hage i Horten 27.12.2026 kl. 20:45 og klaget over smerter i venstre håndledd. Skader: En Colles-fraktur i venstre håndledd. Videre forløp: Røntgen bekreftet bruddet, som ble reponert og gipset. Hun ble utskrevet med avtale om gipsbytte om en uke og råd om å kontakte hjemmetjenesten."
+    },
+    {
+      "case": "Case 38",
+      "description": "Under et slagsmål på en pub i Askøy natt til 01.01.2027 kl. 02:30 ble en 28 år gammel mann knivstukket i magen. Skader: Dyp stikkskade i abdomen. Videre forløp: Akutt kirurgisk intervensjon ble utført. Skaden var dyp, men ingen organer var skadet. Han ble lagt inn på kirurgisk avdeling for postoperativ observasjon og utskrevet etter 3 dager med kontrollavtale."
+    },
+    {
+      "case": "Case 39",
+      "description": "En 55 år gammel mann fikk et tre over seg under tømmerhogst i skogene i Lier 08.01.2027 kl. 11:00. En kollega fant ham og varslet nødetatene. Skader: Kompresjonsfraktur i ryggraden, flere ribbensbrudd og indre blødninger. Videre forløp: Pasienten ble fraktet til et traumesenter med helikopter og operert for ryggradsfrakturen. Han ble lagt inn på intensivavdeling med plan om langvarig rehabilitering."
+    },
+    {
+      "case": "Case 40",
+      "description": "En 6 år gammel jente falt av en huske på en lekeplass og slo hodet i et tre i en park i Rana 15.01.2027 kl. 16:20. Skader: Hjernerystelse og et kutt i hodebunnen. Videre forløp: Fraktet til barneavdelingen. Kuttet ble sydd og hun ble observert for hjernerystelse. CT var normal. Foreldrene ble informert om observasjonspunkter før utskrivelse."
+    },
+    {
+      "case": "Case 41",
+      "description": "Under en ishockeykamp i Nittedal 22.01.2027 kl. 10:00 falt en mann falt over kneet til en annen spiller. Skader: Ruptur i fremre korsbånd (ACL) og skade på menisken. Videre forløp: Henvist til ortoped. MR bekreftet skadene, og det ble besluttet å operere. Han ble operert dagen etter, fikk gips og instruksjoner om rehabilitering."
+    },
+    {
+      "case": "Case 42",
+      "description": "En 17 år gammel gutt på moped kolliderte med en bil i et kryss i Sandnes 04.02.2027 kl. 17:00 etter å ha kjørt på rødt lys. Skader: Brudd i høyre lårben og brudd i høyre arm. Videre forløp: Fraktet til traumesenter og operert for lårbenet. Han ble lagt inn på intensivavdeling for overvåkning og står foran en lang rehabiliteringsprosess."
+    },
+    {
+      "case": "Case 43",
+      "description": "En 21 år gammel kjemistudent i Oslo pådro seg en etseskade 16.02.2027 kl. 14:15 under et laboratorieeksperiment på skolen. En flaske med svovelsyre veltet og traff venstre underarm. Skader: 2. grads kjemisk forbrenning på et 10x5 cm stort område. Videre forløp: Armen ble umiddelbart skylt med store mengder vann i nøddusj. Pasienten ble fraktet til akuttmottaket for videre sårstell og smertelindring. Vurdert av plastikkirurg og utskrevet med poliklinisk oppfølging."
+    },
+    {
+      "case": "Case 44",
+      "description": "En 55 år gammel mann i Grimstad snublet i en kantstein under hagearbeid 28.02.2027 kl. 18:30. Han falt på en stor stein og slo ryggen. Skader: Kompresjonsbrudd i ryggvirvel L1. Videre forløp: Fraktet til sykehus med ambulanse. CT bekreftet bruddet. Han ble behandlet konservativt med smertelindring, sengeleie og planlagt oppfølging hos fysioterapeut."
+    },
+    {
+      "case": "Case 45",
+      "description": "En 25 år gammel kvinne mistet kontrollen i en sving og traff en stolpe under skikjøring i en alpinbakke i Bjørnafjorden 05.03.2027 kl. 13:20. Skader: Hjernerystelse og et brudd i høyre krageben. Videre forløp: Fraktet til sykehus. CT av hodet viste ingen blødninger. Kragebenbruddet ble behandlet konservativt. Hun ble utskrevet med fatle og henvist til fastlege for oppfølging."
+    },
+    {
+      "case": "Case 46",
+      "description": "På en byggeplass i Stjørdal 12.03.2027 kl. 09:00 falt en 30 år gammel mann ca. 2 meter og landet på et armeringsjern. Skader: Dyp stikkskade i brystet med perforert lunge. Videre forløp: Fraktet med helikopter til traumesenter, operert og lagt inn på intensivavdeling. Han er i stabil tilstand, men har lang rehabilitering foran seg."
+    },
+    {
+      "case": "Case 47",
+      "description": "Under en tur i parken i Harstad 20.03.2027 kl. 16:45 ble en 44 år gammel kvinne bitt av en hund i bånd som ble skremt. Skader: Dype bittsår på venstre underarm. Videre forløp: Fraktet til legevakt hvor sårene ble renset og sydd. Hun fikk stivkrampesprøyte, antibiotika og råd om sårstell. Dyreeieren ble varslet."
+    },
+    {
+      "case": "Case 48",
+      "description": "En 75 år gammel mann mistet balansen og falt forover på en rulletrapp på et kjøpesenter i Tromsø 01.04.2027 kl. 11:30. Skader: Håndleddsbrudd og en kraftig hjernerystelse. Videre forløp: Fraktet til sykehus. Bruddet ble gipset. CT viste ingen blødninger i hodet. Han ble lagt inn for observasjon i 24 timer og utskrevet med avtale om kontroll hos fastlege."
+    },
+    {
+      "case": "Case 49",
+      "description": "En 28 år gammel mann veltet med en ATV i terrenget og fikk den over seg i Sunnfjord 10.04.2027 kl. 19:00. Han var bevisstløs da ambulansen ankom. Skader: Hodeskade med subduralt hematom og en lungekontusjon. Videre forløp: Fraktet til traumesenter. CT bekreftet skadene. Han ble lagt inn på intensivavdeling, operert for hematomet og er fortsatt innlagt."
+    },
+    {
+      "case": "Case 50",
+      "description": "En 48 år gammel mann kuttet seg på en glassplate som knuste under transport på en byggeplass i Kristiansund 22.04.2027 kl. 07:10. Skader: Flere dype kutt på høyre hånd, med delvis gjennomskårne sener og nerver. Videre forløp: Fraktet til sykehus for håndkirurgi. Han ble lagt inn for postoperativ observasjon, med plan om lang rehabilitering med ergoterapeut."
+    },
+    {
+      "case": "Case 51",
+      "description": "Under en sprangtime i en stall i Nes 03.05.2027 kl. 15:50 falt en 14 år gammel jente av hesten sin da den steilet for en bil. Skader: Brudd i venstre ankel og en hjernerystelse. Videre forløp: Fraktet til legevakt. Røntgen bekreftet bruddet, som ble gipset. CT viste ingen blødninger. Hun ble utskrevet med råd om ro og oppfølging hos ortoped."
+    },
+    {
+      "case": "Case 52",
+      "description": "En 30 år gammel mann ble angrepet med kniv av en ukjent person på gaten i Steinkjer 11.05.2027 kl. 20:30. Skader: Stikkskade i brystet, forslått lunge og ribbensbrudd. Videre forløp: Funnet av forbipasserende og fraktet med ambulanse. Han ble operert for å stoppe blødningen og utskrevet fra kirurgisk avdeling etter 5 dager med kontrollavtale."
+    },
+    {
+      "case": "Case 53",
+      "description": "En 65 år gammel mann mistet fotfestet på et vått trinn og falt i en trapp utenfor hjemmet sitt i Ås 20.05.2027 kl. 12:45. Skader: Brudd i venstre hofte. Videre forløp: Røntgen bekreftet et ukomplisert brudd. Han ble operert med innsetting av protese og utskrevet fra ortopedisk avdeling etter 4 dager med planlagt rehabilitering."
+    },
+    {
+      "case": "Case 54",
+      "description": "Under en tur i skogen i Alta 02.06.2027 kl. 11:15 ble en 20 år gammel kvinne bitt av en hoggorm. Skader: Smerte og hevelse i ankelen. Videre forløp: Fraktet til legevakt for observasjon. Hun ble lagt inn, men hevelsen avtok og hun ble utskrevet etter 24 timer med informasjon om å se etter tegn på infeksjon."
+    },
+    {
+      "case": "Case 55",
+      "description": "En 58 år gammel mann fikk en alvorlig brannskade hjemme i Elverum 15.06.2027 kl. 16:30 mens han grillet i hagen. En gasslekkasje i grillen forårsaket en eksplosjonsartet oppflamming. Skader: Andre- og tredjegrads forbrenning på hender, underarmer og i ansiktet (estimert til 15% av kroppsoverflaten), samt mild inhalasjonsskade. Videre forløp: Fraktet til sykehus og umiddelbart behandlet av et brannskadeteam med smertelindring."
+    },
+    {
+      "case": "Case 56",
+      "description": "Under takarbeid i Stange 28.06.2027 kl. 09:20 falt en 40 år gammel mann ca. 3 meter fra et stillas og landet på ryggen. Skader: Kompresjonsbrudd i ryggvirvel L3 og flere ribbensbrudd. Videre forløp: Fraktet til traumesenter. CT bekreftet bruddene. Han ble behandlet med sengeleie, smertelindring og henvist til fysioterapeut."
+    },
+    {
+      "case": "Case 57",
+      "description": "En 22 år gammel kvinne ble påkjørt av en bil i Narvik 04.07.2027 kl. 18:45 da hun krysset gaten utenfor et fotgjengerfelt. Skader: Brudd i venstre arm, overfladiske kutt på kne og albue. Videre forløp: Fraktet til legevakt. Røntgen bekreftet bruddet, og armen ble gipset. Hun ble utskrevet med råd om å følge opp hos fastlege."
+    },
+    {
+      "case": "Case 58",
+      "description": "På en kveldstur i Klepp 12.07.2027 kl. 23:00 ble en 35 år gammel mann bitt av en sint hund. Skader: Dype bittsår på høyre lår og arm. Videre forløp: Fraktet til legevakt hvor sårene ble renset og sydd. Han fikk stivkrampesprøyte, antibiotika og råd om videre sårstell."
+    },
+    {
+      "case": "Case 59",
+      "description": "En 10 år gammel gutt falt 4 meter fra et tre han klatret i i en hage i Øvre Eiker 20.07.2027 kl. 10:15, og landet på ryggen. Skader: Brudd i ryggvirvel T10 og et håndleddsbrudd. Videre forløp: Fraktet til sykehus. CT bekreftet bruddene. Håndleddet ble gipset, og han ble behandlet med sengeleie. Han er fortsatt innlagt."
+    },
+    {
+      "case": "Case 60",
+      "description": "En 50 år gammel mann fikk en akutt overbelastningsskade i ryggen i Levanger 25.07.2027 kl. 14:00 da han løftet en tung gjenstand med feil teknikk på jobb. Skader: Muskel- og leddbåndskader i korsryggen. Videre forløp: Fraktet til legevakt. Røntgen viste ingen brudd. Han fikk smertestillende, råd om ro og henvisning til fysioterapeut."
+    },
+    {
+      "case": "Case 61",
+      "description": "Etter å ha kjørt for fort inn i en sving på en vei i Nesodden 28.07.2027 kl. 09:30, falt en 48 år gammel mann av sin motorsykkel. Skader: Multitraume med brudd i femur (lårben), ribbensbrudd, og en lungekontusjon. Videre forløp: Fraktet til et traumesenter med ambulanse, operert for bruddet i lårbenet og lagt inn på intensivavdeling. Han har en lang rehabiliteringsprosess foran seg."
+    },
+    {
+      "case": "Case 62",
+      "description": "En 34 år gammel tysk turist ble skadet under en fjelltur på Keiservarden i Bodø 18.07.2026 kl. 13:00, da hun ble angrepet av en havørn. Ørnen stupte for å ta matpakken hennes, og i basketaket traff klørne hodet og skulderen. I sjokket falt hun i tillegg bakover på steinete underlag. Skader: Dype klor-sår i hodebunnen og på venstre skulder, samt et brudd i høyre håndledd (distal radiusfraktur) fra fallet. Videre forløp: Hentet av redningshelikopter.."
+    },
+    {
+      "case": "Case 63",
+      "description": "På et restaurantbesøk i Time kommune 10.08.2027 kl. 11:00 fikk en 25 år gammel mann en stor matbit fast i halsen, noe som førte til en kvelningsskade. Videre forløp: Andre gjester utførte førstehjelp. Han ble fraktet til sykehus for undersøkelse og deretter utskrevet med råd om å være forsiktig når han spiser."
+    },
+    {
+      "case": "Case 64",
+      "description": "Under en fjelltur i Hå 19.08.2027 kl. 15:30 fikk en 55 år gammel mann et steinras over foten og den ble klemt. Videre forløp: Fraktet med redningshelikopter til sykehus for gips og rehabilitering."
+    },
+    {
+      "case": "Case 65",
+      "description": "En 30 år gammel mann ble fysisk angrepet av en kollega etter en krangel på en arbeidsplass i Vestby 03.09.2027 kl. 18:45. Skader: Brudd i nesen, kutt i leppen og blåmerker i ansiktet. Videre forløp: Han kom til legevakten. Politiet ble tilkalt og saken anmeldt. Nesefrakturen ble reponert. Han ble utskrevet med smertelindring og henvist til fastlege."
+    },
+    {
+      "case": "Case 66",
+      "description": "En 19 år gammel kvinne ble overfalt i en park i Stord 15.09.2027 kl. 20:00. En ukjent mann stakk henne i magen med kniv. Skader: Dyp stikkskade i abdomen. Videre forløp: Fraktet med ambulanse til sykehus, operert og lagt inn på kirurgisk avdeling for postoperativ observasjon. Hun er i stabil tilstand."
+    },
+    {
+      "case": "Case 67",
+      "description": "Under en grillfest i en park i Orkland 25.09.2027 kl. 12:30 ble en 34 år gammel kvinne stukket av en veps på halsen. Hun utviklet raskt pustevansker og utslett. Skader: Anafylaktisk sjokk med urtikaria, angioødem og begynnende respirasjonsbesvær. Videre forløp: Ambulanse ble tilkalt, og paramedicer ga adrenalin på stedet. Ved ankomst sykehus var hun stabilisert. Innlagt for observasjon i 24 timer og utskrevet med EpiPen og henvisning til allergolog."
+    },
+    {
+      "case": "Case 68",
+      "description": "En 5 år gammel jente falt ned fra en sklie i en barnehage i Aurskog-Høland 01.10.2027 kl. 11:15. Skader: Brudd i venstre arm. Videre forløp: Røntgen ble tatt på lokalsykehuset og armen ble gipset. Hun ble utskrevet samme dag. Foreldrene ble instruert i gipsstell, og hun ble henvist til barneortopedisk poliklinikk for kontroll om 2 uker."
+    },
+    {
+      "case": "Case 69",
+      "description": "Under arbeid med en sirkelsag i en garasje i Kongsvinger 08.10.2027 kl. 16:45 fikk en 44 år gammel mann høyre pekefinger i sagen. Skader: Delvis amputasjon av høyre pekefinger. Videre forløp: Fraktet til sykehus for operasjon. Han ble lagt inn for postoperativ observasjon, med plan om lang rehabilitering med ergoterapeut."
+    },
+    {
+      "case": "Case 70",
+      "description": "En 4-åring ble funnet livløs i et privat svømmebasseng i Melhus 15.10.2027 kl. 08:30. Faren startet umiddelbart hjerte-lunge-redning. Skader: Nærdrukning med hypoksi og aspirasjon av vann til lungene. Videre forløp: Gutten fikk tilbake egen sirkulasjon. Fraktet med ambulanse til sykehus og lagt inn på barneintensiv avdeling for overvåkning av lungefunksjon og nevrologisk status. Forventes full restitusjon."
+    },
+    {
+      "case": "Case 71",
+      "description": "En 65 år gammel mann falt i en trapp i sitt eget hus i Kinn 25.10.2027 kl. 14:00. Skader: Brudd i venstre ankel. Videre forløp: Fraktet til legevakt hvor røntgen bekreftet bruddet. Ankelen ble gipset, og han fikk krykker. Han ble utskrevet med råd om å kontakte hjemmetjenesten."
+    },
+    {
+      "case": "Case 72",
+      "description": "Under en håndballtrening i Nannestad 02.11.2027 kl. 19:10 fikk en 24 år gammel kvinne en ball hardt mot hånden. Hun kjente umiddelbart en intens smerte i ringfingeren. Skader: Dislokasjon (ute av ledd) i fingerens midtre ledd (PIP-leddet) og et lite avrivningsbrudd. Videre forløp: Hun kom til legevakten. Fingeren ble reponert under lokalbedøvelse og bekreftet med røntgen. Spjelket sammen med nabofingeren ('buddy-taping') og henvist til fysioterapeut for opptrening."
+    },
+    {
+      "case": "Case 73",
+      "description": "Under en fotballkamp i Voss 10.11.2027 kl. 13:20 pådro en 18 år gammel mann seg en akutt overbelastningsskade. Skader: Muskelruptur i hamstring. Videre forløp: Henvist direkte til fysioterapeut med råd om ro og oppfølging."
+    },
+    {
+      "case": "Case 74",
+      "description": "En 25 år gammel kvinne ble bitt av en hund under en tur i skogen i Frogn 18.11.2027 kl. 10:00. Skader: Dype bittsår på høyre lår og arm. Videre forløp: Fraktet til legevakt hvor sårene ble renset og sydd. Hun fikk stivkrampesprøyte, antibiotika og råd om videre sårstell."
+    },
+    {
+      "case": "Case 75",
+      "description": "En 60 år gammel kvinne mistet balansen og falt på isen utenfor en butikk i Vennesla 25.11.2027 kl. 07:45 mens hun bar tunge handleposer. Skader: Brudd i venstre lårben og et håndleddsbrudd. Videre forløp: Fraktet til sykehus. CT bekreftet bruddene. Hun ble operert for lårbenet, og håndleddet ble gipset. Lang rehabilitering er planlagt."
+    },
+    {
+      "case": "Case 76",
+      "description": "En bilulykke inntraff i Verdal 03.12.2027 kl. 15:30 da en 45 år gammel mann mistet kontrollen over bilen i høy fart. Skader: Komplisert brudd i høyre lårben, hodeskade og pneumothorax. Videre forløp: Traumealarm ble utløst. Han ble fraktet til traumesenter, operert for lårbenet og lagt inn på intensivavdeling for overvåkning. Lang rehabilitering venter."
+    },
+    {
+      "case": "Case 77",
+      "description": " En 50 år gammel havnearbeider ble alvorlig skadet på kaia i Bodø 10.12.2027 kl. 11:00, da en fortøyningstrosse røk under stramming. Den tykke trossa traff ham med enorm kraft over brystet og beina før han ble kastet mot en container. Skader: Multiple, kompliserte brudd i begge legger (crusfrakturer), lungekontusjon (blødning i lungevevet) og flere ribbeinsbrudd, samt en moderat hjernerystelse."
+    },
+    {
+      "case": "Case 78",
+      "description": "En 30 år gammel mann uten hjelm falt av et skateboard i en skatepark i Namsos 18.12.2027 kl. 22:15 og slo hodet i betongkanten. Skader: Komplisert hjernerystelse med kortvarig bevissthetstap og dyp flenge i hodebunnen. Videre forløp: CT viste ingen blødninger, men han ble innlagt for 24 timers observasjon. Flengen ble sydd, og han ble utskrevet med råd om ro."
+    },
+    {
+      "case": "Case 79",
+      "description": "En 75 år gammel kvinne i Malvik snublet i et teppe i sin egen stue og falt 27.12.2027 kl. 16:30. Skader: Brudd i venstre hofte og et håndleddsbrudd. Videre forløp: Røntgen bekreftet bruddene. Hun ble operert for hoften, og håndleddet ble gipset. Hun ble lagt inn på ortopedisk avdeling for videre oppfølging og rehabilitering."
+    },
+    {
+      "case": "Case 80",
+      "description": "Natt til 01.01.2028 kl. 01:00 ble en 20 år gammel mann fysisk angrepet av flere personer utenfor en pub i Senja. Han ble slått og sparket. Skader: Brudd i kjeven, flere ribbensbrudd og overfladiske kutt. Videre forløp: Fraktet til sykehus og operert for kjevebruddet. Han ble lagt inn på kirurgisk avdeling for observasjon. Saken ble anmeldt."
+    },
+    {
+      "case": "Case 81",
+      "description": "En 58 år gammel mann falt ca. 4 meter fra en stige under takarbeid i Østre Toten 09.01.2028 kl. 14:45 da han jobbe hjemme. Han landet på ryggen på et hardt underlag. Skader: Kompresjonsbrudd i ryggvirvlene T10 og T11, samt flere ribbensbrudd. Videre forløp: Fraktet til traumesenter. CT bekreftet bruddene. Han ble behandlet konservativt med sengeleie, smertelindring og henvist til fysioterapeut."
+    },
+    {
+      "case": "Case 82",
+      "description": "En 44 år gammel kvinne ble tatt av et snøskred under en topptur i fjellet utenfor Tromsø 17.01.2028 kl. 13:45 på ski. Hun ble begravd under 1,5 meter snø i 20 minutter før hun ble funnet av turfølget sitt ved hjelp av skredsøker. Skader: lett hypoksisk hjerneskade på grunn av oksygenmangel fra snømassene. Videre forløp: Fløyet til UNN med redningshelikopter. Behandlet med aktiv, langsom oppvarming og oksygen. Leggbruddet krevde operasjon. Innlagt på intensivavdelingen for overvåkning av hjerne- og lungefunksjon, med en lang rehabiliteringsperiode foran seg"
+    },
+    {
+      "case": "Case 83",
+      "description": "Under skikjøring i en alpinbakke i Bamble 25.01.2028 kl. 16:00 falt en 25 år gammel mann utfor en skrent og traff et tre. Skader: Bekkenbrudd, flere ribbensbrudd og forslått lunge. Videre forløp: Hentet av redningshelikopter og fraktet til et traumesenter. Han ble innlagt på intensiv for konstant overvåkning, og operasjon for bekkenbruddet er planlagt."
+    },
+    {
+      "case": "Case 84",
+      "description": "En 10 år gammel gutt falt fra et klatrestativ (ca. 3 meters høyde) på en lekeplass i Strand 03.02.2028 kl. 13:20. Skader: Et ukomplisert brudd i venstre leggben (tibia). Videre forløp: Røntgen ble tatt på lokalsykehuset og benet ble gipset. Han ble utskrevet samme dag med instruksjoner til foreldrene og kontrollavtale etter 2 uker."
+    },
+    {
+      "case": "Case 85",
+      "description": "Under en joggetur i Gran 11.02.2028 kl. 17:00 ble en 30 år gammel mann bitt av en aggressiv hund. Skader: Dype bittsår på venstre lår og arm. Videre forløp: Fraktet til legevakt hvor sårene ble renset og sydd. Han fikk stivkrampesprøyte, antibiotika og råd om videre sårstell."
+    },
+    {
+      "case": "Case 86",
+      "description": "En 65 år gammel kvinne på krykker mistet balansen og falt på et islagt fortau utenfor et sykehus i Vestre Toten 19.02.2028 kl. 08:45. Skader: Brudd i venstre hofte. Videre forløp: Røntgen bekreftet bruddet. Hun ble operert med innsetting av protese og lagt inn på ortopedisk avdeling for videre oppfølging og rehabilitering."
+    },
+    {
+      "case": "Case 87",
+      "description": "En 22 år gammel kvinne på el-sparkesykkel ble påkjørt av en bil i et veikryss i Vefsn 28.02.2028 kl. 10:00. Skader: Flere ribbeinsbrudd, punktert lunge og omfattende skrubbsår. Videre forløp: Innlagt på traumesykehus og fikk dren for pneumothorax. Etter stabilisering på intensivavdelingen ble hun overført til kirurgisk avdeling. Langvarig fysioterapi er planlagt."
+    },
+    {
+      "case": "Case 88",
+      "description": "En 45 år gammel elektriker i Hustadvika fikk et elektrisk støt 07.03.2028 kl. 15:30 under arbeid med et sikringsskap. Han ble kastet bakover av strømmen. Skader: 2. grads forbrenning på høyre hånd (inngang) og venstre fot (utgang). Ingen umiddelbare hjerterytmeforstyrrelser. Videre forløp: Fraktet til sykehus med ambulanse. Lagt inn på hjerteovervåkning i 24 timer for å utelukke arytmier. Sårstell for brannskadene. Utskrevet med sykemelding og oppfølging hos fastlege."
+    },
+    {
+      "case": "Case 89",
+      "description": "En 35 år gammel mann mistet balansen og falt forover mens han gikk på rulleskøyter i en park i Notodden 15.03.2028 kl. 11:00. Skader: Brudd i venstre håndledd, hjernerystelse og overfladiske skrubbsår. Videre forløp: Fraktet til sykehus. Bruddet ble gipset. CT viste ingen blødninger. Han ble utskrevet med avtale om kontroll hos fastlege."
+    },
+    {
+      "case": "Case 90",
+      "description": "Da en mann spiste på en buffet i Kvinnherad 22.03.2028 kl. 19:15, satte en 52 år gammel mann et stort stykke kjøtt fast i halsen og fikk full luftveisstans. En annen gjest utførte Heimlich-manøveren og fikk løsnet kjøttstykket. Skader: Ribbeinsbrudd forårsaket av den kraftige Heimlich-manøveren, samt kortvarig oksygenmangel (hypoksi). Videre forløp: Fraktet til sykehus for sjekk. Røntgen bekreftet bruddet. Etter observasjon ble han utskrevet samme kveld med smertestillende og råd om å ta det med ro."
+    },
+    {
+      "case": "Case 91",
+      "description": "En 65 år gammel mann falt på en rullestolrampe utenfor en institusjon i Sogndal 28.03.2028 kl. 14:00, rett etter å ha blitt utskrevet. Skader: Brudd i venstre hofte. Videre forløp: Røntgen bekreftet et ukomplisert brudd. Han ble operert med innsetting av protese og re-innlagt på ortopedisk avdeling for rehabilitering."
+    },
+    {
+      "case": "Case 92",
+      "description": "Under en skitur i sterk kulde i Tysvær 05.04.2028 merket en 29 år gammel kvinne kl. 09:30 at fingrene på høyre hånd ble hvite og følelsesløse. Skader: Overfladisk forfrysning (frostskade) på tre fingre. Huden var hvit og hard, men med bevart kapillærfylning etter oppvarming. Videre forløp: Hun kom seg til en varmestue og startet forsiktig oppvarming. Henvist til legevakt for vurdering. Ingen tegn til dyp vevsskade. Fikk råd om å unngå kuldeeksponering og smertestillende. God prognose."
+    },
+    {
+      "case": "Case 93",
+      "description": "En 37 år gammel snekker i Bømlo fikk en metallsplint i øyet 12.04.2028 kl. 11:00 da han brukte en vinkelsliper uten vernebriller. Skader: Fremmedlegeme (metall) i hornhinnen på høyre øye med en liten rustring. Videre forløp: Henvist akutt til øyelege fra legevakten. Splinten ble fjernet med en nål under mikroskop etter bedøvelse. Rustringen ble frest bort. Pasienten fikk antibiotikasalve og øyelapp. Kontroll avtalt neste dag for å sjekke sårtilheling."
+    },
+    {
+      "case": "Case 94",
+      "description": "En 20 år gammel kvinne ble påkjørt av en bil mens hun syklet hjem fra jobb i Randaberg 19.04.2028 kl. 17:00. Hun ble kastet i bakken med store smerter. Skader: Komplisert bekkenbrudd, flere ribbensbrudd og en miltruptur. Videre forløp: Fraktet til traumesenter. Akutt CT-undersøkelse bekreftet skadene. Hun ble operert for bekkenbruddet og milten ble fjernet (splenektomi). Hun ble deretter lagt inn på intensivavdeling for overvåkning."
+    },
+    {
+      "case": "Case 95",
+      "description": "Sent på kvelden 25.04.2028 kl. 23:15 ble en beruset 30 år gammel mann pågrepet i Nordre Follo mens han forsøkte å sette fyr på seg selv i en gate. Han pådro seg brannskader under forsøket. Skader: 2. grads forbrenning på hender og underarmer. Videre forløp: Fraktet til akuttmottaket under politioppsyn. Sårene ble renset og bandasjert, og han ble innlagt for psykiatrisk vurdering og oppfølging av skadene."
+    },
+    {
+      "case": "Case 96",
+      "description": "En 10 år gammel gutt i Øygarden fikk hånden klemt i en bildør 01.05.2028 kl. 12:00 da faren lukket den uten å se ham. Skader: Brudd i to fingerknokler, klemskader og hematom. Videre forløp: Røntgen bekreftet bruddet. Fingrene ble spjelket og gutten ble utskrevet med informasjon til foreldrene og henvisning til fastlege for kontroll."
+    },
+    {
+      "case": "Case 97",
+      "description": "Et 2 år gammelt barn i Sola ble akutt dårlig med pustebesvær 08.05.2028 kl. 16:00 under lek. Foreldrene mistenkte at barnet hadde svelget en leke. Skader: Fremmedlegeme (liten legokloss) i høyre hovedbronkus. Redusert luftpassasje og atelektase. Videre forløp: Fraktet til sykehus med ambulanse. Røntgen og CT bekreftet mistanken. Barnet ble lagt i narkose, og klossen ble fjernet via bronkoskopi. Lagt inn på barneavdelingen for observasjon og utskrevet dagen etter."
+    },
+    {
+      "case": "Case 98",
+      "description": "En bilmekaniker i Eidsvoll fikk foten i klem 15.05.2028 kl. 11:00 da en bil gled av jekken. Skader: Knusningsskade av høyre fot med multiple frakturer i metatarsalknoklene. Betydelig hevelse og hematom. Videre forløp: Fraktet til akuttmottaket. Røntgen bekreftet skadeomfanget. Han ble lagt inn på ortopedisk avdeling. Foten ble hevet for å redusere hevelse. Operativ fiksasjon ble planlagt når hevelsen hadde gått ned. Langvarig avlastning og opptrening forventet."
+    },
+    {
+      "case": "Case 99",
+      "description": "En 68 år gammel mann ble reddet ut av sin røykfylte leilighet etter en brann i Holmestrand 22.05.2028 kl. 19:15. Han hadde ingen synlige brannskader, men hostet kraftig. Skader: Røykinhalasjon med irritasjon av luftveiene. Mistanke om karbonmonoksidforgiftning. Videre forløp: Fraktet til sykehus. Blodgassanalyser viste forhøyede CO-verdier. Han ble behandlet med 100% oksygen på maske og lagt inn for overvåkning. Utskrevet etter 24 timer i god form."
+    },
+    {
+      "case": "Case 100",
+      "description": "En 29 år gammel kvinne med kjent epilepsi fikk et krampeanfall i Lindesnes 29.05.2028 kl. 10:00 på kjøkkenet hjemme. Under anfallet falt hun og slo hodet mot kjøkkenbenken. Skader: Status epilepticus (langvarig anfall), kutt i pannen og en mild hjernerystelse. Videre forløp: Ambulanse ble tilkalt. Anfallet ble brutt med medikamenter (Stesolid). På sykehuset ble kuttet sydd, og hun ble innlagt på nevrologisk avdeling for observasjon og justering av antiepileptisk medisinering."
+    },
+    {
+      "case": "Case 101",
+      "description": "En 45 år gammel sveiser i Stavanger fikk 2025-03-12 klokken 11:20 en glødende metallsplint i øyet. Splinten penetrerte hornhinnen og skadet linsen, en kritisk skade som utgjorde en overhengende fare for permanent blindhet og krevde øyeblikkelig mikrokirurgi."
+    },
+    {
+      "case": "Case 102",
+      "description": "En 28 år gammel kokk i Bergen fikk et dypt kutt over håndbaken fra en mandolin-kutter 2025-04-05 klokken 19:30. Kuttet skar over tre strekksener, noe som førte til umiddelbart tap av evnen til å strekke ut fingrene og krevde en komplisert operasjon for å unngå varig funksjonsnedsettelse."
+    },
+    {
+      "case": "Case 103",
+      "description": "En 19 år gammel fotballspiller i Trondheim fikk en motspillers kne i låret 2025-09-14 klokken 15:45. Dette forårsaket en massiv blødning som utviklet seg til akutt kompartmentsyndrom, en livstruende tilstand hvor trykket truet blodtilførselen og krevde akutt fasciotomi for å unngå amputasjon."
+    },
+    {
+      "case": "Case 104",
+      "description": "En 52 år gammel anleggsarbeider i Oslo ble truffet av en svingende gravemaskinarm 2025-05-21 klokken 10:00. Slaget ga en ustabil knusningsskade i bekkenet og forårsaket en massiv indre blødning som krevde flere blodoverføringer og en langvarig, komplisert operasjon."
+    },
+    {
+      "case": "Case 105",
+      "description": "En 6-åring i Kristiansand fikk annengrads forbrenning på brystet og magen 2025-07-19 klokken 17:15, da han rev ned en kjele med kokende vann. Skaden dekket 15% av kroppsoverflaten og ble klassifisert som alvorlig, med behov for spesialisert sårpleie på brannskadeavdeling."
+    },
+    {
+      "case": "Case 106",
+      "description": "En 37 år gammel tømrer i Tromsø skjøt seg selv i hånden med en spikerpistol 2025-06-10 klokken 14:00. Den 9 cm lange spikeren knuste et mellomhåndsben og skadet en nerve, noe som medførte fare for permanent nedsatt følelse og grepstyrke."
+    },
+    {
+      "case": "Case 107",
+      "description": "En 63 år gammel bonde på Jæren fikk armen sin trukket inn i en ballepresse 2025-08-22 klokken 11:45. Den traumatiske amputasjonen under albuen var så alvorlig at den forårsaket livstruende blodtap på stedet og krevde øyeblikkelig avsnøring."
+    },
+    {
+      "case": "Case 108",
+      "description": "En 41 år gammel bilmekaniker i Drammen fikk etseskader i ansiktet og på øynene da et bilbatteri eksploderte 2025-02-18 klokken 09:30. Syren forårsaket tredjegrads kjemiske brannskader på hornhinnene, med høy risiko for permanent synsreduksjon."
+    },
+    {
+      "case": "Case 109",
+      "description": "En 25 år gammel kvinne pådro seg en alvorlig piskesnertskade etter å ha blitt påkjørt bakfra på E18 ved Asker 2025-01-20 klokken 08:15. Skaden førte til skade på leddbånd i nakken (grad 3), resulterte i kroniske smerter og nevrologiske utfall i armene."
+    },
+    {
+      "case": "Case 110",
+      "description": "En 58 år gammel hytteeier i Hallingdal fikk et dypt øksehugg i leggen 2025-10-04 klokken 13:00, utenfor hytta si. Hugget forårsaket et komplisert, åpent brudd i skinnebenet og kuttet en arterie, noe som førte til betydelig blodtap og krevde operativ fiksasjon og karkirurgi."
+    },
+    {
+      "case": "Case 111",
+      "description": "En 17 år gammel gutt i Fredrikstad fikk trommehinnen sprengt og pådro seg permanent, invalidiserende tinnitus da en ulovlig kinaputt detonerte 2026-01-01 klokken 00:10. Lydtrykket var så høyt at det ødela sanseceller i det indre øret."
+    },
+    {
+      "case": "Case 112",
+      "description": "En 33 år gammel kajakkpadler utenfor Lofoten fikk en fremre skulderluksasjon 2025-08-01 klokken 16:00. Luksasjonen var så alvorlig at den skadet Bankart-lesjon i leddkapselen, noe som førte til kronisk instabilitet i skulderen."
+    },
+    {
+      "case": "Case 113",
+      "description": "En 29 år gammel syklist i Oslo sentrum brakk kragebeinet og tre ribbein 2025-09-08 klokken 17:05 da en bildør ble åpnet foran ham. Ett av de brukne ribbeinene punkterte lungen (pneumothorax), en potensielt livstruende komplikasjon som krevde thoraxdren."
+    },
+    {
+      "case": "Case 114",
+      "description": "En 22 år gammel student i Tromsø ble bitt i ansiktet av en hund 2026-02-15 klokken 12:45 på vei hjem fra skolen. Bittet forårsaket en omfattende vevsskade med avrivning av deler av kinnet, noe som krevde flere runder med rekonstruktiv plastisk kirurgi."
+    },
+    {
+      "case": "Case 115",
+      "description": "En 48 år gammel mann som drev med vedkløyving utenfor sitt hjem i Bærum 2025-10-11 klokken 15:20, fikk tommelen sin knust. Skaden var en total knusningsamputasjon av det ytterste leddet, noe som gjorde en replantasjon umulig og ga et permanent funksjonstap."
+    },
+    {
+      "case": "Case 116",
+      "description": "En 31 år gammel kvinne fra Tromsø fikk et anafylaktisk sjokk etter et vepsestikk i halsen 2025-07-26 klokken 19:00. Hevelsen i luftveiene var så alvorlig at hun opplevde respirasjonsstans og krevde intubering på stedet for å overleve."
+    },
+    {
+      "case": "Case 117",
+      "description": "En 54 år gammel fisker utenfor Senja fikk et tau strammet rundt foten 2025-08-16 klokken 07:30. Dette forårsaket et trimalleolært ankelbrudd, et av de mest ustabile bruddene, som krevde umiddelbar operasjon med plater og skruer for å unngå feilstilling og tidlig slitasjegikt."
+    },
+    {
+      "case": "Case 118",
+      "description": "En 36 år gammel mann som trente vektløfting i Kristiansand 2025-03-22 klokken 18:00, mistet en 120 kg vektstang på brystet. Støtet brakk brystbenet (sternum) og forårsaket en hjertekontusjon, en potensielt dødelig skade som krevde overvåkning på hjerteintensiven."
+    },
+    {
+      "case": "Case 119",
+      "description": "En 10 år gammel gutt på Sørlandet tråkket på en fjesing i strandkanten 2025-07-28 klokken 14:40. Giften fra piggen forårsaket en ekstrem, systemisk reaksjon med uutholdelige smerter, feber og kramper, noe som krevde sykehusinnleggelse for smertelindring og observasjon."
+    },
+    {
+      "case": "Case 120",
+      "description": "En 44 år gammel kvinne ble påkjørt i et fotgjengerfelt i Bodø 2025-11-05 klokken 09:00. Sammenstøtet forårsaket et alvorlig hodeskade med en epidural blødning, som krevde en akutt kraniotomi for å lette trykket på hjernen og redde livet hennes."
+    },
+    {
+      "case": "Case 121",
+      "description": "En 59 år gammel skogsarbeider i Innlandet ble truffet av en fallende tømmerstokk 2025-09-29 klokken 13:20. Stokken traff ryggen og forårsaket et kompresjonsbrudd i en ryggvirvel (L1) med skade på ryggmargen, noe som resulterte i delvis lammelse i beina."
+    },
+    {
+      "case": "Case 122",
+      "description": "En 23 år gammel mann i militæret fikk alvorlige frostskader (grad 3-4) på hender og føtter under en øvelse i Finnmark 2026-01-30 klokken 05:00. Vevet ble svart og nekrotisk, noe som gjorde amputasjon av flere fingre og tær uunngåelig."
+    },
+    {
+      "case": "Case 123",
+      "description": "En 66 år gammel mann i Haugesund fikk armen revet av i en vinsj om bord i en fritidsbåt 2025-08-10 klokken 12:15. Den traumatiske avulsjonsskaden var total, og armen kunne ikke reddes. Blodtapet var så massivt at han gikk i hypovolemisk sjokk."
+    },
+    {
+      "case": "Case 124",
+      "description": "En 18 år gammel jente som passasjer i en bilulykke på E6 2025-12-23 klokken 16:50, fikk sikkerhetsbeltet til å kutte dypt inn i mageregionen. Dette forårsaket en perforasjon av tynntarmen, en livstruende skade som førte til bukhinnebetennelse og krevde akutt operasjon."
+    },
+    {
+      "case": "Case 125",
+      "description": "En 34 år gammel festivaldeltaker i Tønsberg 2025-07-11 klokken 23:30 ble fanget i en trengsel foran scenen. Presset fra folkemengden var så intenst at han pådro seg traumatisk asfyksi (kvelning), noe som førte til bevisstløshet og hjertestans."
+    },
+    {
+      "case": "Case 126",
+      "description": "En 60 år gammel mann i Ålesund mistet kontrollen over en vinkelsliper 2025-04-26 klokken 11:00 i garasjen sin. Bladet kuttet et dypt sår i låret, skar over den store lårmuskelen (quadriceps) og stoppet bare millimeter fra hovedpulsåren (arteria femoralis)."
+    },
+    {
+      "case": "Case 127",
+      "description": "En 39 år gammel flygeleder på Gardermoen opplevde et akustisk sjokk 2025-11-19 klokken 10:55 da en teknisk feil sendte en øredøvende lydpuls gjennom headsettet. Sjokket forårsaket varig skade på det indre øret, med påfølgende hyperakusis (lydoverfølsomhet) og balanseproblemer."
+    },
+    {
+      "case": "Case 128",
+      "description": "En 12-åring på fotballtrening i Molde fikk en ball skutt fra kloss hold i magen 2025-09-23 klokken 18:00. Støtet var så kraftig at det forårsaket en rift i milten, noe som førte til en alvorlig indre blødning i bukhulen som krevde fjerning av organet (splenektomi)."
+    },
+    {
+      "case": "Case 129",
+      "description": "En 25 år gammel elektriker i Skien fikk et høyspentstøt (230V) 2026-05-28 klokken 10:15. Strømgjennomgangen fra hånd til fot forårsaket dype tredjegrads brannskader ved inngangs- og utgangspunktet og utløste en episode med ventrikkelflimmer (hjertestans)."
+    },
+    {
+      "case": "Case 130",
+      "description": "En 40 år gammel kvinne fikk etsende avløpsåpner sprutet i ansiktet under rengjøring i sitt hjem i Sandefjord 2025-10-30 klokken 20:00. Den basiske væsken forårsaket dype, liquefactive nekrose-brannskader i huden og en alvorlig øyeskade som truet synet permanent."
+    },
+    {
+      "case": "Case 131",
+      "description": "En 30 år gammel forsker i Oslo inhalerte giftig klorgass etter en kjemikalielekkasje 2026-03-13 klokken 15:00. Gassen forårsaket akutt lungesvikt (ARDS), en kritisk tilstand som krevde langvarig behandling med respirator på intensivavdeling."
+    },
+    {
+      "case": "Case 132",
+      "description": "En 17 år gammel gutt som mekket moped i en garasje i Lillehammer 2025-11-22 klokken 21:00, ble omfavnet av flammer da bensindamp antente. Han pådro seg andre- og tredjegrads brannskader på 25% av kroppen, noe som krevde flere hudtransplantasjoner."
+    },
+    {
+      "case": "Case 133",
+      "description": "En 44 år gammel gaffeltruckfører på et lager i Moss 2026-06-09 klokken 14:20, ble truffet av en pall med varer som falt fra stor høyde. Vekten knuste foten hans, med multiple, åpne brudd i mellomfotsbena, en skade med høy risiko for kronisk smertesyndrom (CRPS)."
+    },
+    {
+      "case": "Case 134",
+      "description": "En 57 år geolog på Svalbard ble angrepet av en isbjørn 2025-08-12 klokken 14:00. Angrepet resulterte i en avrevet skalp, dype bittsår i nakken og et knust skulderblad. Skadene var så omfattende at de krevde øyeblikkelig evakuering med helikopter."
+    },
+    {
+      "case": "Case 135",
+      "description": "En 38 år gammel mann på snøscootertur i Hemsedal kolliderte med et tre i høy hastighet 2026-02-13 klokken 14:30. Kollisjonen førte til en alvorlig leverskade (grad IV lacerasjon) og et bekkenbrudd. Det massive blodtapet gjorde tilstanden hans kritisk."
+    },
+    {
+      "case": "Case 136",
+      "description": "En 20 år gammel kvinne i en frontkollisjon i Romerike 2025-12-21 klokken 22:00, pådro seg en ansiktsskade da kollisjonsputen ble utløst. Kraften var så stor at den knuste kinnbenet (zygoma) og øyehulen (orbita), noe som krevde kirurgisk rekonstruksjon med titanplater."
+    },
+    {
+      "case": "Case 137",
+      "description": "En 43 år gammel offshore-arbeider i Nordsjøen fikk hånden i klem i en hydraulisk dør 2026-03-08 klokken 03:30. Klemskaden var en komplett knusningsskade av alle fire fingre, med så omfattende skade på bein, nerver og blodårer at hånden ikke kunne reddes."
+    },
+    {
+      "case": "Case 138",
+      "description": "En 63 år gammel dame ble angrepet av en elgku under en skogstur nær Sognsvann 2025-09-28 klokken 10:15. Hun ble trampet på flere ganger, noe som resulterte i en punktert lunge, ti brukne ribbein (flail chest) og en alvorlig miltruptur."
+    },
+    {
+      "case": "Case 139",
+      "description": "En 32 år gammel brannkonstabel i Oslo fikk en dampeksplosjon i ansiktet 2026-04-15 klokken 02:40. Den overopphetede dampen forårsaket dype brannskader på huden og, mer kritisk, brannskader i øvre og nedre luftveier, noe som førte til akutt hevelse og pustestans."
+    },
+    {
+      "case": "Case 140",
+      "description": "En 18 år gammel mann ble slått i hodet 2026-05-16 klokken 23:50 i Tromsø. Slaget forårsaket et impresjonsbrudd i kraniet, der beinfragmenter ble presset inn mot hjernen og forårsaket en hjernekontusjon. Skaden krevde akutt nevrokirurgi."
+    },
+    {
+      "case": "Case 141",
+      "description": "En 59 år gammel mann på fisketur i Tromsø fikk en fiskekrok dypt inn i øyeeplet 2025-07-31 klokken 15:00. Kroken penetrerte hornhinnen og forårsaket en rift i iris. Fjerningen var en kritisk prosedyre for å unngå totalt synstap."
+    },
+    {
+      "case": "Case 142",
+      "description": "En 34 år gammel kvinne som snorklet i Oslofjorden 2025-08-02 klokken 15:20 ble truffet i hodet av propellen på en båt. Propellen forårsaket multiple, dype kutt som trengte gjennom kraniet og inn i hjernevevet, en ekstremt alvorlig og ofte dødelig skade."
+    },
+    {
+      "case": "Case 143",
+      "description": "En 26 år gammel mann på en skytebane i Bodø 2025-10-18 klokken 17:30 ble truffet i låret av en rikosjetterende kule. Prosjektilet traff og knuste lårbenet (femur), noe som forårsaket akutt, massivt blodtap og krevde en komplisert margnagleoperasjon."
+    },
+    {
+      "case": "Case 144",
+      "description": "En 37 år gammel veiarbeider på E18 ved Lillesand 2025-09-02 klokken 11:00 ble truffet av sidespeilet på en lastebil. Treffet var så kraftig at det forårsaket et komplisert, åpent brudd i overarmen (humerus) og en total avrivning av radialisnerven, med påfølgende dropphånd."
+    },
+    {
+      "case": "Case 145",
+      "description": "En 35 år gammel bilist på E39 ved Stord 2026-02-20 klokken 08:00 fikk en isklump fra en lastebil gjennom frontruten. Isblokken traff ansiktet og knuste nesen og kjeven, og skarpe glassbiter forårsaket dype kutt som krevde over 100 sting."
+    },
+    {
+      "case": "Case 146",
+      "description": "En 28 år gammel mann som jobbet med trykkluft i et verksted i Trondheim 2026-04-23 klokken 16:15, fikk en luftstråle injisert i et sår på hånden. Luften ble presset inn i blodbanen og forårsaket en luftemboli som førte til et hjerneslag, en sjelden, men katastrofal skade."
+    },
+    {
+      "case": "Case 147",
+      "description": "En 42 år gammel søppelkjører i Bergen fikk en akutt, stor skiveprolaps i korsryggen 2025-11-25 klokken 07:45 da han løftet en tung sekk. Prolapsen var så massiv at den forårsaket Cauda Equina-syndrom, en akutt tilstand som krever øyeblikkelig operasjon for å unngå permanent lammelse og tap av blærekontroll."
+    },
+    {
+      "case": "Case 148",
+      "description": "En 29 år gammel mann som drev med isklatring i Rjukan 2026-02-01 klokken 12:45 ble truffet i ansiktet av en stor, fallende isblokk. Isen knuste overkjeven (Le Fort II-fraktur) og forårsaket alvorlige skader på tennene, noe som krevde omfattende ansiktsrekonstruksjon."
+    },
+    {
+      "case": "Case 149",
+      "description": "En 22 år gammel bartender i Oslo fikk en champagnepropp i øyet med stor kraft 2025-12-31 klokken 23:55. Støtet forårsaket en ruptur av øyeeplet, en av de mest alvorlige øyeskadene, som resulterte i umiddelbart og permanent tap av synet på det øyet."
+    },
+    {
+      "case": "Case 150",
+      "description": "En 14-åring på sykkeltur i Marka utenfor Oslo 2025-09-06 klokken 14:00 kjørte inn i en lavthengende gren. Grenen traff halsen, penetrerte huden og forårsaket en rift i halspulsåren (carotis), en ekstremt farlig skade som førte til en livstruende blødning."
+    },
+    {
+      "case": "Case 151",
+      "description": "En 5-åring i Hamar svelget to små, sterke magneter fra et leketøysett 2026-01-05 klokken 18:00. Magnetene festet seg til hverandre gjennom tarmveggene på to forskjellige steder, noe som førte til trykknekrose, perforasjon av tarmen og en alvorlig bukhinnebetennelse."
+    },
+    {
+      "case": "Case 152",
+      "description": "En 7-åring ble bitt i leggen av en hoggorm under en skogstur 2025-06-12 klokken 14:00. Barnet utviklet en sjelden, alvorlig systemisk reaksjon på giften, med sjokk, pustevansker og nyresvikt, og krevde intensivbehandling og motgift for å overleve."
+    },
+    {
+      "case": "Case 153",
+      "description": "En 30 år gammel mann som deltok i en 'strongman'-konkurranse i Drammen 2025-08-09 klokken 15:00, rev av patellasenen (senen under kneskålen) da han forsøkte et tungt løft. Avrivningen var total og forårsaket at kneskålen ble dratt flere centimeter opp på låret, en skade som gjorde det umulig å strekke ut beinet."
+    },
+    {
+      "case": "Case 154",
+      "description": "En 21 år gammel mann ble knivstukket i brystet under en krangel i Bergen sentrum 2026-04-12 klokken 02:30. Kniven penetrerte hjertet og forårsaket en hjertetamponade, en akutt livstruende tilstand der blod fyller hjerteposen og hindrer hjertet i å slå. Han overlevde kun takket være en nødthorakotomi på sykehuset."
+    },
+    {
+      "case": "Case 155",
+      "description": "En 27 år gammel ishockeyspiller i Stavanger fikk et dypt kutt på halsen av en skøyte under en kamp 2026-02-04 klokken 20:00. Kuttet skar over den ytre halsvenen (jugularis externa) og forårsaket en dramatisk og livstruende blødning på isen."
+    },
+    {
+      "case": "Case 156",
+      "description": "En 49 år gammel bibliotekar i Tromsø fikk en tung bokhylle til å velte over seg 2025-11-11 klokken 12:45. Vekten av hyllen og bøkene forårsaket en alvorlig knusningsskade i begge beina, med påfølgende rabdomyolyse (muskelnedbrytning) som førte til akutt nyresvikt."
+    },
+    {
+      "case": "Case 157",
+      "description": "En 10 år gammel gutt fikk hånden sin fanget i en gammeldags kjøttkvern hjemme i Fredrikstad 2026-05-09 klokken 13:15. Kvernen knuste og malte opp fingrene hans, en katastrofal skade som resulterte i amputasjon av fire fingre."
+    },
+    {
+      "case": "Case 158",
+      "description": "En 69 år gammel pensjonist fikk et dypt kutt i leggen av en propell da han startet båtmotoren mens han sto i vannet 2025-07-13 klokken 11:30 i Tromsø. Propellen kuttet tvers av akillessenen og forårsaket en alvorlig 'degloving'-skade der huden og vevet ble revet av beinet."
+    },
+    {
+      "case": "Case 159",
+      "description": "En 46 år gammel mann fikk en stein i hodet som ble kastet opp av en gressklipper 2026-05-24 klokken 14:00 i Bodø. Steinen traff med så stor kraft at den forårsaket et impresjonsbrudd i pannen og skade på hjernens frontallapp, noe som førte til personlighetsforandringer."
+    },
+    {
+      "case": "Case 160",
+      "description": "En 39 år gammel kvinne fikk alvorlige brannskader på lårene 2026-01-11 klokken 10:45 da en kopp med kokende te veltet i fanget hennes under en turbulent flylanding. Skadene var dype annengrads forbrenninger som krevde debridering og hudtransplantasjon."
+    },
+    {
+      "case": "Case 161",
+      "description": "En 23 år gammel mann som testet en hjemmelaget potetkanon 2025-09-20 klokken 18:30, opplevde at PVC-røret eksploderte. Plastsplinter ble skutt inn i overkroppen som fra en granat, og en stor splint penetrerte brystveggen og punkterte en lunge."
+    },
+    {
+      "case": "Case 162",
+      "description": "En 64 år gammel mann ble truffet av et haglskudd på kloss hold under jakt 2025-10-11 klokken 11:15. Ladningen traff ham i ryggen og forårsaket flere hundre små, penetrerende sår, med hagl som satte seg fast i muskulaturen og nær ryggraden, noe som gjorde fjerning umulig og medførte risiko for blyforgiftning over tid."
+    },
+    {
+      "case": "Case 163",
+      "description": "En 52 år gammel bilist ble truffet av en løs tilhenger på E6 ved Sarpsborg 2025-11-28 klokken 15:50. Kollisjonskreftene var så store at de forårsaket bilaterale håndleddsbrudd og et 'dashboard-injury' der kneet ble slått mot dashbordet, noe som knuste kneskålen og rev av det bakre korsbåndet."
+    },
+    {
+      "case": "Case 164",
+      "description": "En 34 år gammel glassblåser i Hadeland fikk en boble av 1100 grader varmt, smeltet glass i ansiktet 2025-10-20 klokken 13:00. Glasset brant seg umiddelbart gjennom huden og ned til beinet i kinnet, en ekstrem tredjegrads brannskade som krevde omfattende rekonstruksjon."
+    },
+    {
+      "case": "Case 165",
+      "description": "En 41 år gammel yrkesdykker i Gulen opplevde en ukontrollert oppstigning 2025-08-19 klokken 12:15. Dette forårsaket en alvorlig arteriell gass-emboli, der bobler i blodet førte til et hjerneslag og lammelser. Tilstanden krevde øyeblikkelig rekompresjon i trykkammer for å unngå permanent hjerneskade."
+    },
+    {
+      "case": "Case 166",
+      "description": "En 20 år gammel kvinne fikk en tannskade da hun bet over en stein i en salat 2025-11-24 klokken 12:30. Kraften i bittet var så uventet at den ikke bare sprakk en jeksel, men også forårsaket et brudd i selve kjevebenet under tannen."
+    },
+    {
+      "case": "Case 167",
+      "description": "En 58 år gammel mann fikk tommelen sin avkuttet da et transportbånd han vedlikeholdt i en fabrikk uventet startet 2026-06-02 klokken 10:20. Amputasjonen var en 'giljotin'-skade, og selv om tommelen ble funnet, var den for skadet til å kunne replanteres."
+    },
+    {
+      "case": "Case 168",
+      "description": "En 29 år gammel paragliderpilot i Voss kolliderte med en fjellside 2025-08-17 klokken 16:00. Sammenstøtet forårsaket et Pilon-brudd i ankelen, en alvorlig knusningsskade i leddflaten som har en svært dårlig prognose og ofte fører til invalidiserende post-traumatisk artritt."
+    },
+    {
+      "case": "Case 169",
+      "description": "En 15-åring på moped i Arendal kjørte inn i et vaijer som var spent over en vei 2025-08-28 klokken 20:45. Vaijeren traff halsen og forårsaket et dypt kutt som nesten førte til halshugging, med alvorlig skade på strupehode, spiserør og store blodkar."
+    },
+    {
+      "case": "Case 170",
+      "description": "En 72 år gammel kvinne fikk en alvorlig brannskade på ryggen 2026-02-10 klokken 21:30 da nattkjolen hennes tok fyr fra en varmeovn. Før hun fikk slukket flammene, hadde hun pådratt seg tredjegrads forbrenninger som krevde fjerning av død hud og store hudtransplantasjoner."
+    },
+    {
+      "case": "Case 171",
+      "description": "En 24 år gammel mann som jobbet på et dekksenter i Gjøvik 2025-10-27 klokken 14:15, ble truffet i ansiktet da et lastebildekk han fylte med luft, eksploderte. Trykkbølgen var så kraftig at den knuste ansiktsskjelettet hans og forårsaket alvorlig hjerneskade."
+    },
+    {
+      "case": "Case 172",
+      "description": "En 36 år gammel kvinne ble truffet av lynet mens hun søkte ly under et tre i Jotunheimen 2025-08-23 klokken 15:00. Lynnedslaget førte til umiddelbar hjertestans, tredjegrads brannskader og nevrologisk skade som påvirket hukommelsen og kognitiv funksjon permanent."
+    },
+    {
+      "case": "Case 173",
+      "description": "En 47 år gammel mann ble begravd i et snøskred under en skitur i Stryn 2026-03-07 klokken 13:45. Han ble liggende under snøen i 20 minutter, noe som førte til alvorlig oksygenmangel (hypoksi) og en anoksisk hjerneskade med varige kognitive svekkelser."
+    },
+    {
+      "case": "Case 174",
+      "description": "En 11-åring fikk en fyrverkerirakett i ansiktet under feiringen av nyttår 2026-01-01 klokken 00:05 i Porsgrunn. Eksplosjonen forårsaket en ruptur av øyeeplet, noe som førte til øyeblikkelig blindhet på det ene øyet, og kruttslam ga permanente arr i ansiktet."
+    },
+    {
+      "case": "Case 175",
+      "description": "En 31 år gammel bonde i Trøndelag ble stanget av en okse 2025-11-13 klokken 09:50. Et av hornene penetrerte brystkassen, punkterte en lunge og skadet hjertet, en kritisk skade som krevde åpen hjertekirurgi."
+    },
+    {
+      "case": "Case 176",
+      "description": "En 26 år gammel kvinne som var passasjer på en motorsykkel 2025-07-20 klokken 16:30, fikk en alvorlig 'degloving'-skade på leggen da foten ble fanget mellom sykkelen og asfalten i en velt. Huden og musklene ble revet av beinet fra kneet til ankelen."
+    },
+    {
+      "case": "Case 177",
+      "description": "En 50 år gammel mann som brukte en høytrykksspyler i Førde 2025-06-21 klokken 12:00, kom for nær med dysen og injiserte vann og smuss dypt inn i underarmen. Dette førte til et ekstremt høyt trykk i vevet, omfattende vevsskade og en alvorlig infeksjon som truet armen."
+    },
+    {
+      "case": "Case 178",
+      "description": "En 4-åring stakk en strikkepinne inn i stikkontakten hjemme i Moss 2026-04-18 klokken 08:40. Strømgjennomgangen forårsaket en alvorlig, dyp elektrisk brannskade i hånden og munnen, der strømmen gikk ut, noe som krevde rekonstruktiv kirurgi."
+    },
+    {
+      "case": "Case 179",
+      "description": "En 33 år gammel kvinne i en båtulykke i Kragerø 2025-07-25 klokken 22:50 ble kastet mot dashbordet. Kraften forårsaket en 'blowout'-fraktur, der gulvet i øyehulen ble knust og øyemuskulaturen kom i klem, noe som førte til dobbeltsyn og krevde akutt operasjon."
+    },
+    {
+      "case": "Case 180",
+      "description": "En 65 år gammel mann som forsøkte å stoppe en løpsk gressklipper i en bakke i Bergen 2025-06-14 klokken 13:20, fikk foten under maskinen. De roterende bladene forårsaket en traumatisk amputasjon av alle tærne på høyre fot."
+    },
+    {
+      "case": "Case 181",
+      "description": "En 28 år gammel mann ble skutt i magen med en signalpenn i Oslo 2026-05-01 klokken 03:00 med et uhell. Det brennende prosjektilet forårsaket ikke bare en penetrerende skade, men også en dyp indre brannskade i tarmene, noe som kompliserte operasjonen betydelig."
+    },
+    {
+      "case": "Case 182",
+      "description": "En 55 år gammel bygningsarbeider ble truffet av en sprukket høytrykksslange for betong 2025-09-17 klokken 14:45 i Trondheim. Trykket i betongen var så høyt at det forårsaket et åpent, forurenset brudd i armen og injiserte betong dypt inn i vevet."
+    },
+    {
+      "case": "Case 183",
+      "description": "En 16 år gammel jente fikk håret sitt fanget i en go-kart motor under et løp i Rudskogen 2025-08-08 klokken 17:00. Motoren rev av hele skalpen hennes fra pannen til nakken, en total avulsjonsskade som krevde øyeblikkelig og omfattende mikrokirurgisk behandling."
+    },
+    {
+      "case": "Case 184",
+      "description": "En 35 år gammel mann fikk armen sin i klem mellom to båter i sterk sjø i Arendal 2025-07-18 klokken 15:50. Knusningskraften var så stor at den knuste begge knoklene i underarmen (radius og ulna) til små fragmenter, et 'pin-cushion' brudd som krevde ekstern fiksasjon."
+    },
+    {
+      "case": "Case 185",
+      "description": "En 68 år gammel mann fikk en akutt aortadisseksjon (rift i hovedpulsåren) mens han løftet en ekstremt tung stein i hagen sin i Bærum 2025-06-28 klokken 11:30. Den plutselige trykkøkningen var den utløsende årsaken til den livstruende tilstanden som krevde øyeblikkelig hjerte-kar-kirurgi."
+    },
+    {
+      "case": "Case 186",
+      "description": "En 43 år gammel kvinne ble truffet av en golfball i tinningen under en turnering i Larvik 2025-08-15 klokken 12:25. Treffet forårsaket en epidural hematom, en akutt blødning mellom kraniet og hjernen som krevde at hun ble boret i hodet for å lette trykket."
+    },
+    {
+      "case": "Case 187",
+      "description": "En 21 år gammel mann ble bitt av en annen person under et slagsmål i Oslo 2026-02-07 klokken 01:45. Bittet kuttet en sene på fingeren (en 'fight bite'), og den svært aggressive bakteriefloraen i menneskemunn førte til en raskt utviklende, ledd-destruerende infeksjon (septisk artritt)."
+    },
+    {
+      "case": "Case 188",
+      "description": "En 9-åring som lekte Tarzan i et tre i Tønsberg 2025-08-03 klokken 16:20, fikk tauet til å stramme seg rundt halsen. Selv om han ikke falt, førte hengetiden på flere sekunder til en alvorlig kvelningsskade (strangulasjon) med petekkiale blødninger i ansiktet og en anoksisk hjerneskade."
+    },
+    {
+      "case": "Case 189",
+      "description": "En 31 år gammel kvinne fikk et dypt kutt i foten av knust glass på en strandfest i Larvik 2025-07-19 klokken 23:10. Kuttet skar over plantarnerven, noe som resulterte i permanent tap av følelse under en stor del av fotsålen."
+    },
+    {
+      "case": "Case 190",
+      "description": "En 40 år gammel mann som jobbet i en grøft i Bergen 2025-10-14 klokken 13:00, ble begravd til brystet da grøften kollapset. Vekten av jorden forårsaket en knusningsskade i brystkassen og traumatisk asfyksi, som førte til hjertestans på grunn av manglende evne til å puste."
+    },
+    {
+      "case": "Case 191",
+      "description": "En 25 år gammel kvinne ble truffet av en løpsk bil under 17. mai-feiringen i Oslo 2026-05-17 klokken 13:00. Bilen presset henne mot en vegg og forårsaket en 'åpen bok'-fraktur i bekkenet, en ekstremt ustabil og livstruende skade med massiv blødning."
+    },
+    {
+      "case": "Case 192",
+      "description": "En 53 år gammel mann fikk en spiker gjennom skoen på en byggeplass i Trondheim 2025-09-26 klokken 10:40. Spikeren var rusten og forurenset, og punkterte foten. Dette førte til en alvorlig stivkrampeinfeksjon (tetanus) da han ikke var vaksinert, en tilstand med smertefulle kramper og høy dødelighet."
+    },
+    {
+      "case": "Case 193",
+      "description": "En 13-åring som lekte med tørris på skoleavslutningen i Asker 2025-06-19 klokken 18:30, fikk en alvorlig frostskade på hendene. Den ekstreme kulden (-78°C) forårsaket umiddelbar, dyp vevsskade (grad 3) med blemmer og fare for permanent nerveskade."
+    },
+    {
+      "case": "Case 194",
+      "description": "En 27 år gammel kvinne som var passasjer i en bil som rullet rundt på E39 2026-03-20 klokken 09:15, fikk armen sin slynget ut av vinduet. Armens vekt og bevegelse forårsaket en total avrivning av nervepleksuset (plexus brachialis) fra ryggmargen, noe som resulterte i en permanent lammet og følelsesløs arm."
+    },
+    {
+      "case": "Case 195",
+      "description": "En 32 år gammel mann som sto nær en eksplosjon i et steinbrudd i Lier 2025-11-06 klokken 11:55, ble utsatt for en kraftig trykkbølge. Bølgen forårsaket en 'blast lung'-skade, med utbredte blødninger og rifter i lungevevet, en alvorlig skade som er usynlig på utsiden, men ofte dødelig."
+    },
+    {
+      "case": "Case 196",
+      "description": "En 48 år gammel kvinne fikk et illebefinnende og falt med ansiktet først ned i en glovarm peis under rengjøring i sitt hjem i Gjøvik 2026-01-24 klokken 12:45. Kontakten med glørne forårsaket dype tredjegrads brannskader i ansiktet, som krevde omfattende kirurgi og førte til permanente, vansirende arr."
+    },
+    {
+      "case": "Case 197",
+      "description": "En 19 år gammel mann ble truffet av en rikosjetterende spiker fra en gressklipper i Sarpsborg 2025-07-01 klokken 15:20. Spikeren traff ham i øyet og penetrerte øyeeplet, noe som førte til en total ødeleggelse av de indre strukturene og umiddelbar, irreversibel blindhet."
+    },
+    {
+      "case": "Case 198",
+      "description": "En 22 år gammel kvinne fikk etseskader på spiserøret 2026-04-25 klokken 23:40 etter å ha drukket fra en flaske hun trodde inneholdt vann på en fest i Oslo. Flasken inneholdt en sterk, lut-basert rengjøringsvæske, som forårsaket permanent arrdannelse og innsnevring av spiserøret."
+    },
+    {
+      "case": "Case 199",
+      "description": "En 57 år gammel mann som arbeidet under en bil, fikk bilen til å falle ned fra jekken 2025-10-17 klokken 16:10 i sitt eget verksted i Bodø. Bilens vekt knuste brystkassen hans, en massiv skade som førte til umiddelbar død på stedet."
+    },
+    {
+      "case": "Case 200",
+      "description": "En 30 år gammel kvinne ble angrepet med syre av en gjerningsmann i Trondheim 2026-05-22 klokken 21:00. Syren traff ansiktet og overkroppen, og forårsaket dype tredjegrads kjemiske brannskader som ødela hud, muskler og synet på begge øynene, en permanent og katastrofal skade."
+    },
+    {
+      "case": "Case 201",
+      "description": "En 28 år gammel baker i Skien fikk hånden sin fanget i en deigeltemaskin 2025-10-20 klokken 05:30. Rotasjonen forårsaket en alvorlig avulsjonsskade (degloving), der hud og muskler ble revet av hånden og underarmen, en skade som krevde akutt mikrokirurgi og flere hudtransplantasjoner."
+    },
+    {
+      "case": "Case 202",
+      "description": "En 19 år gammel jente som var passasjer i en bil, fikk en bråstopp på E18 ved Larvik 2026-02-17 klokken 16:20. Den plutselige bevegelsen førte til at en termos i baksetet ble kastet fremover og traff henne i bakhodet, noe som forårsaket et kraniebrudd og en mindre epidural blødning."
+    },
+    {
+      "case": "Case 203",
+      "description": "En 45 år gammel bonde i Trøndelag ble truffet i brystet av et metallfragment da en slitt vinkelsliperskive eksploderte 2025-11-08 klokken 11:00. Fragmentet penetrerte brystveggen og forårsaket en hemopneumotoraks (blod og luft i lungesekken), en livstruende tilstand."
+    },
+    {
+      "case": "Case 204",
+      "description": "En 33 år gammel kvinne ble bitt i leggen av en løs schäferhund under en joggetur i Bymarka i Trondheim 2026-05-15 klokken 20:10. Bittet var så kraftig at det knuste leggbenet (fibula) og forårsaket omfattende skader på muskelvevet."
+    },
+    {
+      "case": "Case 205",
+      "description": "En 60 år gammel mann som renset et tett avløp med kaustisk soda i sitt hjem i Bergen 2025-12-01 klokken 13:45, fikk en sprut av den sterkt basiske blandingen i ansiktet. Dette resulterte i tredjegrads etseskader på hornhinnen, med permanent blindhet på det ene øyet som resultat."
+    },
+    {
+      "case": "Case 206",
+      "description": "En 22 år gammel student som deltok i et kampsportstevne i Oslo 2026-03-21 klokken 14:00, mottok et feilplassert spark mot halsen. Sparket forårsaket en disseksjon (rift) i halspulsåren (arteria carotis), som førte til et akutt hjerneslag og lammelse på venstre side av kroppen."
+    },
+    {
+      "case": "Case 207",
+      "description": "En 52 år gammel demolérarbeider i Drammen ble truffet av en fallende betongblokk 2025-10-28 klokken 10:15. Blokka traff skulderen hans og forårsaket en total knusning av skulderbladet og kragebeinet, samt en avrivning av nervebunten til armen (plexus brachialis), med påfølgende permanent lammelse."
+    },
+    {
+      "case": "Case 208",
+      "description": "En 8 år gammel gutt fikk en pil fra en kraftig lekebue i øyet under lek i en park i Kristiansand 2026-07-12 klokken 15:30. Pilen penetrerte øyeeplet og ødela linsen og netthinnen, en katastrofal skade som gjorde fjerning av hele øyet (enukleasjon) nødvendig."
+    },
+    {
+      "case": "Case 209",
+      "description": "En 37 år gammel kvinne ble klemt mellom en lastebil og en lasterampe på jobb i Ålesund 2026-04-14 klokken 09:00. Trykket var så intenst at det forårsaket traumatisk asfyksi, en livstruende tilstand der blod ble presset opp i hodet, med synlige petekkiale blødninger og fare for hjerneskade."
+    },
+    {
+      "case": "Case 210",
+      "description": "En 29 år gammel mann som kjørte vannscooter utenfor Tjøme 2026-08-01 klokken 16:50, ble kastet av i høy fart. Fallet i seg selv var udramatisk, men vannstrålen fra scooteren traff ham i endetarmen og forårsaket en alvorlig perforasjon av tykktarmen som krevde akutt operasjon og midlertidig stomi."
+    },
+    {
+      "case": "Case 211",
+      "description": "En 41 år gammel renholder på et verksted i Stavanger 2025-11-26 klokken 17:00, tråkket på en oljesølt plate og skled. I bevegelsen slo hun hodet med stor kraft mot en metallkant. Slaget resulterte i en impresjonsfraktur i kraniet med en underliggende hjernekontusjon, som krevde nevrokirurgisk inngrep."
+    },
+    {
+      "case": "Case 212",
+      "description": "En 16 år gammel jente på skitur i Hemsedal 2026-02-28 klokken 12:30, kolliderte med en snøkanon i høy fart. Sammenstøtet forårsaket en alvorlig miltruptur grad V, som førte til massiv indre blødning og krevde øyeblikkelig fjerning av milten (splenektomi) for å redde livet hennes."
+    },
+    {
+      "case": "Case 213",
+      "description": "En 58 år gammel mann fikk et illebefinnende og mistet bevisstheten mens han brukte en motorsag i hagen sin i Sandefjord 2025-09-20 klokken 14:00. Den løpende sagen falt over beinet hans og forårsaket et dypt kutt som skadet både arterier, nerver og bein, og truet med amputasjon."
+    },
+    {
+      "case": "Case 214",
+      "description": "En 25 år gammel musiker fikk en alvorlig brannskade på leppene og i munnen 2026-01-10 klokken 21:45, da han ved et uhell drakk av et glass med en brennende drink under en forestilling i Oslo. Brannskaden krevde smertefull behandling og påvirket hans evne til å spille instrumentet sitt."
+    },
+    {
+      "case": "Case 215",
+      "description": "En 64 år gammel kvinne i Førde fikk hånden sin knust i en automatisk bildør på et kjøpesenter 2025-12-19 klokken 18:00. Dørens lukkemekanisme sviktet og klemte hånden med så stor kraft at flere mellomhåndsbein ble pulverisert, en skade som krevde innsetting av flere metallplater."
+    },
+    {
+      "case": "Case 216",
+      "description": "En 31 år gammel mann ble truffet av en løpsk propell fra en drone under et arrangement i Trondheim 2026-06-06 klokken 13:15. Den raskt roterende karbonfiberpropellen traff ham i ansiktet og forårsaket et dypt kutt som delte nesen og krevde omfattende plastisk kirurgi."
+    },
+    {
+      "case": "Case 217",
+      "description": "En 49 år gammel industriarbeider i Porsgrunn inhalerte en stor dose ammoniakkgass etter en rørlekkasje 2026-03-03 klokken 08:50. Den akutte eksponeringen forårsaket alvorlige etseskader på lungene og øvre luftveier, noe som førte til akutt lungesvikt (ARDS) og langvarig respiratorbehandling."
+    },
+    {
+      "case": "Case 218",
+      "description": "En 20 år gammel mann som sto på skateboard, holdt seg fast i en bil i fart i et boligfelt i Bærum 2026-05-23 klokken 22:30. Da bilen akselererte, mistet han taket og ble slynget med stor kraft inn i en parkert bil. Sammenstøtet forårsaket et komplekst brudd i lårbenet og en alvorlig hjernerystelse."
+    },
+    {
+      "case": "Case 219",
+      "description": "En 7 år gammel jente fikk alvorlige brannskader da en grill som brukte bioetanol eksploderte under opptenning i hagen hennes i Asker 2026-07-24 klokken 19:00. Flammene ga henne andre- og tredjegrads forbrenninger på armer tilsvarte ca. 25% av kroppsoverflaten, ansikt og overkropp, noe som krevde flere måneder på sykehus."
+    },
+    {
+      "case": "Case 220",
+      "description": "En 35 år gammel mannlig sykepleier ble stukket dypt i låret med en saks av en forvirret pasient på et sykehus i Bergen 2025-11-14 klokken 23:10. Stikket traff lårarterien (arteria femoralis) og forårsaket en pulserende, livstruende blødning som krevde umiddelbar kirurgisk intervensjon."
+    },
+    {
+      "case": "Case 221",
+      "description": "En 44 år gammel kvinne i en bilulykke i Tromsø 2026-01-29 klokken 15:00, ble truffet fra siden. Kollisjonen forårsaket en traumatisk ruptur av hovedpulsåren (aortaruptur) i brystet, en ekstremt dødelig skade som hun kun overlevde på grunn av umiddelbar ankomst til et høyspesialisert sykehus."
+    },
+    {
+      "case": "Case 222",
+      "description": "En 27 år gammel mann fikk hånden revet inn i en elektrisk kjøttkvern under produksjon av pølser i en bedrift i Sarpsborg 2025-09-11 klokken 12:45. Skaden var en katastrofal knusningsamputasjon av alle fingrene og deler av hånden, noe som gjorde den ugjenkjennelig."
+    },
+    {
+      "case": "Case 223",
+      "description": "En 18 år gammel gutt fikk et dypt stikksår i magen fra et metallspyd på et gjerde han forsøkte å klatre over i Haugesund 2026-08-08 klokken 02:00. Spydet penetrerte bukhulen og forårsaket skader på både leveren og tynntarmen, med påfølgende alvorlig bukhinnebetennelse."
+    },
+    {
+      "case": "Case 224",
+      "description": "En 62 år gammel fisker i Lofoten fikk en stor fiskekrok (juksa) gjennom hånden da et kraftig napp rev stangen ut av hendene hans 2026-07-09 klokken 10:20. Kroken penetrerte med mothake, noe som gjorde fjerning umulig uten et kirurgisk inngrep for å unngå massiv vevsskade."
+    },
+    {
+      "case": "Case 225",
+      "description": "En 39 år gammel kvinne ble truffet i hodet av en champagneflaske som ble kastet fra en balkong under en gatefest i Oslo 2026-05-16 klokken 23:00. Treffet forårsaket en åpen skalleskade med synlig skade på hjernen, en kritisk skade som krevde umiddelbar nevrokirurgi."
+    },
+    {
+      "case": "Case 226",
+      "description": "En 50 år gammel mann som jobbet med en høytrykks-fettpresse på et verksted i Mo i Rana 2025-12-10 klokken 14:30, fikk en stråle med fett injisert i fingeren. Selv om inngangssåret var lite, forårsaket det injiserte fettet et ekstremt høyt trykk som ødela vevet innenfra og krevde akutt kirurgisk spalting av hele fingeren."
+    },
+    {
+      "case": "Case 227",
+      "description": "En 23 år gammel kvinne fikk etseskader på hornhinnen og midlertidig blindhet etter å ha fått pepperspray rett i ansiktet under et ran i Bergen 2026-04-03 klokken 01:20 av politiet. Den kjemiske reaksjonen var så kraftig at den krevde langvarig skylling og behandling for å unngå permanente skader."
+    },
+    {
+      "case": "Case 228",
+      "description": "En 14 år gammel gutt som eksperimenterte med kjemikalier i en kjeller i Fredrikstad 2025-11-29 klokken 19:15, forårsaket en uventet eksplosjon. Glassplinter fra en kolbe ble slynget inn i ansiktet og på overkroppen, og en stor splint penetrerte brystet og punkterte en lunge."
+    },
+    {
+      "case": "Case 229",
+      "description": "En 47 år gammel kvinne ble truffet av en løpsk handlevogn med stor fart ned en bakke utenfor et supermarked i Gjøvik 2026-05-09 klokken 17:45. Treffet mot ankelen forårsaket et komplisert brudd (Maisonneuve-fraktur) som destabiliserte hele ankelleddet og krevde omfattende kirurgi."
+    },
+    {
+      "case": "Case 230",
+      "description": "En 30 år gammel mann på jakt i Finnmark 2025-10-04 klokken 13:00, ble skutt i beinet ved et uhell av en jaktkamerat. Riflekulen knuste lårbenet og skadet hovedpulsåren, noe som førte til et katastrofalt blodtap og en kamp mot klokken for å redde både livet og beinet."
+    },
+    {
+      "case": "Case 231",
+      "description": "En 26 år gammel mann fikk alvorlige indre skader etter å ha blitt slått og sparket gjentatte ganger i magen under et overfall i Oslo 2026-02-14 klokken 02:45 på gaten. Sparkene førte til en rift i bukspyttkjertelen, en svært alvorlig skade som kan føre til livstruende indre fordøyelse av vev."
+    },
+    {
+      "case": "Case 232",
+      "description": "En 66 år gammel mann fikk en alvorlig reaksjon da en trykkimpregnert treflis kom dypt inn under neglen på tommelen under hagearbeid i Tønsberg 2026-06-20 klokken 11:30. Kjemikaliene i treverket (arsenikk og krom) forårsaket en alvorlig kjemisk betennelse og vevsnekrose."
+    },
+    {
+      "case": "Case 233",
+      "description": "En 21 år gammel kvinne som var passasjer i en cabriolet som rullet rundt på en landevei i Østfold 2026-08-15 klokken 18:00, fikk en alvorlig hode- og nakkeskade. Mangelen på tak førte til direkte kontakt med asfalten, noe som resulterte i en knusningsskade i en nakkevirvel (C2) og en permanent ryggmargsskade."
+    },
+    {
+      "case": "Case 234",
+      "description": "En 55 år gammel mann ble bitt av en hoggorm i ansiktet da han forsøkte å fjerne den fra terrassen sin i Bamble 2026-07-11 klokken 14:20. Bittstedet førte til en ekstremt rask og alvorlig hevelse som fullstendig blokkerte luftveiene og krevde en akutt trakeotomi (kirurgisk åpning av luftrøret)."
+    },
+    {
+      "case": "Case 235",
+      "description": "En 17 år gammel jente fikk alvorlige brannskader da en bærbar PC hun hadde på fanget, kortsluttet og batteriet eksploderte 2025-11-18 klokken 22:00. Eksplosjonen og den påfølgende brannen forårsaket dype andre- og tredjegrads forbrenninger på begge lårene ca 10% av kroppsoverflaten."
+    },
+    {
+      "case": "Case 236",
+      "description": "En 40 år gammel snekker i Lillehammer fikk ansiktet sitt truffet av et trebord som ble tatt av et ekstremt kraftig vindkast 2026-01-12 klokken 13:00. Treffet var så kraftig at det knuste nesen, kinnbenet og kjeven (Le Fort III-fraktur), og løsnet hele ansiktsskjelettet fra kraniet."
+    },
+    {
+      "case": "Case 237",
+      "description": "En 29 år gammel kvinne ble truffet av en fallende istapp fra et tak i Oslo sentrum 2026-02-10 klokken 10:40. Den spisse istappen penetrerte skulderen hennes som et spyd, og forårsaket en dyp stikkskade som skadet muskler og nerver i rotatorcuffen."
+    },
+    {
+      "case": "Case 238",
+      "description": "En 69 år gammel mann som startet en gammel snøfreser i Tromsø 2025-12-28 klokken 16:00, fikk hånden sin trukket inn i utkaster-rennen da han forsøkte å fjerne en snøklump. De roterende bladene forårsaket en traumatisk amputasjon av fire fingre."
+    },
+    {
+      "case": "Case 239",
+      "description": "En 24 år gammel mann som jobbet på et bilopphuggeri i Fredrikstad 2026-03-26 klokken 15:15, ble truffet av en ukontrollert kollisjonspute som ble utløst ved et uhell. Kraften i eksplosjonen var så voldsom at den brakk begge underarmsbena (radius og ulna) og kastet ham flere meter bakover."
+    },
+    {
+      "case": "Case 240",
+      "description": "En 32 år gammel kvinne fikk et dypt bittsår i armen da hun forsøkte å skille to slåssende hunder i en hundepark i Stavanger 2026-05-30 klokken 18:30. Bittet var så dypt at det knuste en nerve og krevde kirurgisk utforskning og antibiotika for å bekjempe den aggressive bakteriefloraen."
+    },
+    {
+      "case": "Case 241",
+      "description": "En 51 år gammel mann ble spiddet gjennom låret av en metalldel som løsnet fra en trailer på E6 ved Gardermoen 2025-10-15 klokken 12:00. Metalldelen kom gjennom bildøren og penetrerte låret, og stoppet bare millimeter fra hovedpulsåren. Den måtte fjernes kirurgisk på sykehus."
+    },
+    {
+      "case": "Case 242",
+      "description": "En 15 år gammel gutt som deltok i en slåsskamp på en skole i Sandnes 2026-04-21 klokken 13:25, ble slått så hardt i brystet at slaget forårsaket Commotio Cordis, en sjelden, men ofte dødelig tilstand der et slag mot brystet på nøyaktig feil tidspunkt i hjertesyklusen fører til umiddelbar hjertestans."
+    },
+    {
+      "case": "Case 243",
+      "description": "En 36 år gammel kvinne ble truffet i hodet av en forvillet golfkølle under en oppvarming på en golfbane i Bærum 2026-08-22 klokken 11:10. Slaget forårsaket et impresjonsbrudd i kraniet og en subdural blødning som utviklet seg langsomt og krevde akutt operasjon flere timer senere."
+    },
+    {
+      "case": "Case 244",
+      "description": "En 28 år gammel mann fikk en total avrivning av akillessenen da han spilte innebandy i en hall i Bergen 2025-11-22 klokken 20:30. Rykket var så kraftig at det hørtes et smell i hele hallen, og han mistet umiddelbart evnen til å skyve fra med foten. Skaden krevde kirurgisk re-innfesting av senen."
+    },
+    {
+      "case": "Case 245",
+      "description": "En 48 år gammel kvinne ble utsatt for en kraftig damputslipp fra et strykejern på et vaskeri i Trondheim 2026-01-22 klokken 11:50. Den overopphetede dampen ga henne dype andregrads forbrenninger på hånden og underarmen, med alvorlige blemmer og fare for arrdannelse."
+    },
+    {
+      "case": "Case 246",
+      "description": "En 26 år gammel mann som satt på huk foran en peis i hytta si i Valdres 2025-12-26 klokken 19:00, ble truffet i øyet av en glo som spratt ut. Gloen brant seg fast i hornhinnen og forårsaket en alvorlig termisk skade som førte til et permanent arr og redusert syn."
+    },
+    {
+      "case": "Case 247",
+      "description": "En 63 år gammel mann fikk et brudd i lårhalsen da han ble taklet over ende av en stor hund som hoppet opp på ham i en park i Drammen 2026-05-18 klokken 15:00. Selv om det ikke var et fall i tradisjonell forstand, var kraften fra hunden den direkte årsaken til bruddet, som krevde innsetting av en hofteprotese."
+    },
+    {
+      "case": "Case 248",
+      "description": "En 34 år gammel kvinne fikk alvorlige skader da en tung lysekrone falt ned fra taket i en restaurant i Oslo 2026-03-14 klokken 20:45. Lysekronen traff henne i hodet og skulderen, og forårsaket en alvorlig hjernerystelse og et knust kragebein."
+    },
+    {
+      "case": "Case 249",
+      "description": "En 12 år gammel gutt ble truffet i magen av styret på sparkesykkelen sin etter en bråstopp i en skatepark i Stavanger 2026-08-02 klokken 16:15. Støtet var så konsentrert at det forårsaket en rift i tolvfingertarmen (duodenum), en sjelden og svært alvorlig skade."
+    },
+    {
+      "case": "Case 250",
+      "description": "En 42 år gammel mann ble skutt i foten med en harpun under dykking utenfor Kristiansand 2026-07-26 klokken 13:30. Harpunpilen gikk tvers gjennom mellomfoten og spiddet to av mellomfotsbena. Fjerning krevde operasjon for å unngå ytterligere skade."
+    },
+    {
+      "case": "Case 251",
+      "description": "En 27 år gammel kvinne ble truffet av en gjenstand som ble kastet fra et vindu under en krangel i en bygård i Bergen 2026-02-21 klokken 00:30. Gjenstanden, en bærbar høyttaler, traff henne i ansiktet og knuste øyehulen (orbitagulvet), noe som førte til at øyet sank inn og krevde rekonstruksjon med en titanplate."
+    },
+    {
+      "case": "Case 252",
+      "description": "En 53 år gammel mann som jobbet på et sagbruk i Innlandet 2025-09-18 klokken 10:00, fikk armen sin fanget på et transportbånd som førte inn til en flishugger. Han klarte å aktivere nødstoppen, men ikke før armen hadde fått en alvorlig knusningsskade med flere åpne brudd og omfattende muskelskade."
+    },
+    {
+      "case": "Case 253",
+      "description": "En 20 år gammel soldat på skytebanen i Setermoen leir 2026-04-28 klokken 11:20, ble truffet i brystet av en rikosjetterende kule. Selv om han hadde på seg beskyttelsesvest, var kraften i anslaget så stor at den forårsaket en alvorlig lungekontusjon og flere brukne ribbein under vesten."
+    },
+    {
+      "case": "Case 254",
+      "description": "En 38 år gammel kvinne fikk et dypt kutt i leggen da en robotgressklipper kjørte over foten hennes mens hun solte seg i hagen i Bærum 2026-07-19 klokken 14:45. De små, skarpe knivene forårsaket multiple, dype kutt som skadet en viktig nerve og ga nedsatt følelse i foten."
+    },
+    {
+      "case": "Case 255",
+      "description": "En 61 år gammel mann ble truffet av en påhengsmotor som løsnet fra en båt under transport på E39 nær Mandal 2025-10-31 klokken 16:00. Motoren traff fronten på bilen hans, og en del av propellen kom gjennom frontruten og forårsaket et dypt kutt i skulderen hans."
+    },
+    {
+      "case": "Case 256",
+      "description": "En 29 år gammel mann fikk en total ruptur av den store brystmuskelen (pectoralis major) da han mistet grepet under en tung benkpress-øvelse på et treningssenter i Oslo 2026-01-15 klokken 19:00. Avrivningen var komplett fra festet på overarmen, og krevde akutt kirurgisk re-innfesting."
+    },
+    {
+      "case": "Case 257",
+      "description": "En 46 år gammel kvinne ble utsatt for en kraftig eksplosjon da en gassflaske til en terrassevarmer begynte å lekke og ble antent i Fredrikstad 2026-08-29 klokken 21:30. Trykkbølgen fra eksplosjonen sprengte trommehinnene hennes, og hun pådro seg andregrads brannskader i ansiktet og på armene."
+    },
+    {
+      "case": "Case 258",
+      "description": "En 17 år gammel gutt fikk et alvorlig elektrisk brannsår i munnen da han lekte med 'Snusleppe' og en defekt lader til en mobiltelefon 2025-11-25 klokken 22:15. Den elektriske buen mellom laderen og den våte snusen forårsaket en dyp tredjegrads forbrenning som krevde omfattende munnkirurgi."
+    },
+    {
+      "case": "Case 259",
+      "description": "En 54 år gammel mann ble spiddet i setemuskelen av en armeringsjernstang som stakk opp fra et fundament på en byggeplass i Trondheim 2026-06-16 klokken 13:50. Stangen penetrerte dypt og forårsaket en alvorlig skade på isjiasnerven, med påfølgende droppfot og permanente smerter."
+    },
+    {
+      "case": "Case 260",
+      "description": "En 30 år gammel kvinne ble truffet av en T-banedør som lukket seg uventet på Majorstuen stasjon 2026-03-11 klokken 08:30. Kraften i døren var så stor at den forårsaket et brudd i albuen (olecranon), som krevde operasjon med innsetting av skruer og ståltråd."
+    },
+    {
+      "case": "Case 261",
+      "description": "En 25 år gammel mann som deltok i en amatørboksekamp i Bergen 2025-12-06 klokken 21:00, mottok et slag mot øret som forårsaket en netthinneavløsning. Skaden ga en akutt 'gardin'-følelse i synsfeltet og krevde øyeblikkelig laseroperasjon for å forhindre permanent blindhet."
+    },
+    {
+      "case": "Case 262",
+      "description": "En 43 år gammel kvinne fikk et dypt kutt og en knusningsskade i fingeren da hun lukket et tungt, brannsikkert pengeskap på kontoret sitt i Stavanger 2026-05-13 klokken 16:55. Kraften i døren var nok til å knuse det ytterste fingerbenet og forårsake en permanent deformitet."
+    },
+    {
+      "case": "Case 263",
+      "description": "En 21 år gammel mann ble truffet i bakhodet av en biljardkule som ble kastet under en krangel på et utested i Tromsø 2026-04-18 klokken 01:00. Treffet forårsaket et lineært brudd i bakhodeskallen og en hjernerystelse med langvarig post-kommosjonelt syndrom."
+    },
+    {
+      "case": "Case 264",
+      "description": "En 57 år gammel mann som vedlikeholdt en heis i en bygård i Oslo 2025-10-09 klokken 11:30, fikk foten sin i klem mellom heisstolen og sjaktveggen. Klemskaden var så alvorlig at den forårsaket et åpent knusningsbrudd i ankelen og et akutt kompartmentsyndrom som truet foten hans."
+    },
+    {
+      "case": "Case 265",
+      "description": "En 33 år gammel kvinne fikk en alvorlig allergisk reaksjon da hun ved et uhell pustet inn pulver fra en knust pille med penicillin, et stoff hun hadde alvorlig allergi mot, på et apotek i Kristiansand 2026-06-24 klokken 14:10. Reaksjonen var et anafylaktisk sjokk med akutt pustebesvær og bevissthetstap."
+    },
+    {
+      "case": "Case 266",
+      "description": "En 28 år gammel mann som sto nær et lynnedslag under en fjelltur i Rondane 2026-08-23 klokken 16:20, fikk en indirekte skade. Selv om lynet ikke traff ham direkte, forårsaket den intense lydbølgen og trykkbølgen en bilateral ruptur av trommehinnene og en midlertidig lammelse på grunn av det elektriske feltet."
+    },
+    {
+      "case": "Case 267",
+      "description": "En 45 år gammel kvinne ble truffet av en løs takstein under en storm i Bergen 2026-01-19 klokken 22:00. Taksteinen traff henne på skulderen og forårsaket et komplekst brudd i overarmen (humerus) som krevde en margnagle for å stabiliseres."
+    },
+    {
+      "case": "Case 268",
+      "description": "En 19 år gammel gutt fikk en alvorlig skade på kneet da han kolliderte med en motspiller under en fotballkamp i Molde 2025-09-27 klokken 19:45. Kollisjonen resulterte i 'The Unhappy Triad', en alvorlig skade der både fremre korsbånd, mediale menisk og mediale kollateralligament ble revet av samtidig."
+    },
+    {
+      "case": "Case 269",
+      "description": "En 59 år gammel mann fikk alvorlige skader da en gassgrill eksploderte på grunn av en lekkasje i hagen hans i Sandnes 2026-07-04 klokken 18:30. Eksplosjonen kastet ham flere meter bakover og forårsaket andregrads brannskader, samt en punktert lunge fra trykkbølgen."
+    },
+    {
+      "case": "Case 270",
+      "description": "En 36 år gammel kvinne fikk en alvorlig rift i hornhinnen da et barn ved et uhell stakk henne i øyet med en skarp leke på en lekeplass i Drammen 2026-08-11 klokken 12:15. Røntgen avslørte at en liten plastbit fra leken satt igjen inne i øyet og måtte fjernes kirurgisk."
+    },
+    {
+      "case": "Case 271",
+      "description": "En 24 år gammel mann ble bitt i hånden av en annen person under et slagsmål utenfor et utested i Stavanger 2026-02-07 klokken 02:20. Bittet penetrerte leddkapselen på knoken, og den aggressive bakteriefloraen førte til en raskt utviklende septisk artritt som truet med å ødelegge leddet permanent."
+    },
+    {
+      "case": "Case 272",
+      "description": "En 41 år gammel kvinne ble truffet av en bil mens hun syklet i et kryss i Trondheim 2026-05-29 klokken 08:40. Hun ble kastet av sykkelen og landet på hoften, noe som resulterte i et brudd i lårhalsen. En slik skade hos en såpass ung person er svært uvanlig og krevde akutt operasjon med innsetting av skruer."
+    },
+    {
+      "case": "Case 273",
+      "description": "En 60 år gammel mann fikk en alvorlig klemskade da han fikk armen mellom en ferge og fergekaien i Lavik 2026-07-30 klokken 15:55. Trykket var så stort at det forårsaket et akutt kompartmentsyndrom i hele underarmen, en tilstand som krevde øyeblikkelig kirurgi for å redde armen fra amputasjon."
+    },
+    {
+      "case": "Case 274",
+      "description": "En 27 år gammel kvinne fikk et dypt kutt i foten da hun tråkket på en knust flaske som lå gjemt i sanden på en strand i Larvik 2026-08-09 klokken 17:00. Glasset skar over en viktig sene (tibialis posterior), noe som gjorde henne ute av stand til å gå normalt og krevde en komplisert seneoperasjon."
+    },
+    {
+      "case": "Case 275",
+      "description": "En 52 år gammel mannlig lærer ble slått ned bakfra av en tidligere elev i skolegården i Oslo 2025-11-03 klokken 14:30. Slaget mot bakhodet forårsaket et brudd i skallebasis, en svært alvorlig skade som kan føre til lekkasje av spinalvæske og hjernehinnebetennelse."
+    },
+    {
+      "case": "Case 276",
+      "description": "En 35 år gammel kvinne fikk alvorlige brannskader på beina da hun mistet en stor gryte med kokende krabbe i fanget sitt under et selskap i Bergen 2026-08-22 klokken 20:00. Det kokende vannet forårsaket dype andregrads forbrenninger som krevde spesialisert behandling på brannskadeavdelingen.ca 11% av kroppsoveflaten"
+    },
+    {
+      "case": "Case 277",
+      "description": "En 29 år gammel mann som fridykket i Lysefjorden 2026-07-18 klokken 13:20, fikk en 'shallow water blackout' og besvimte like under overflaten. Selv om han ble reddet raskt, førte oksygenmangelen til en anoksisk hjerneskade med langvarige kognitive problemer."
+    },
+    {
+      "case": "Case 278",
+      "description": "En 47 år gammel mann fikk en alvorlig skade da en hydraulisk slange på en traktor sprakk og sprøytet olje med ekstremt høyt trykk inn i hånden hans på en gård i Ringsaker 2025-09-25 klokken 10:50. Den injiserte oljen forårsaket en massiv betennelsesreaksjon og vevsnekrose som krevde fjerning av store deler av muskulaturen i hånden."
+    },
+    {
+      "case": "Case 279",
+      "description": "En 23 år gammel kvinne ble truffet av en rullestol som ble kastet ned en rulletrapp på et kjøpesenter i Lørenskog 2026-02-13 klokken 18:20. Rullestolen traff henne i ryggen og forårsaket et kompresjonsbrudd i en brystryggvirvel, en svært smertefull skade med fare for nevrologiske utfall."
+    },
+    {
+      "case": "Case 280",
+      "description": "En 58 år gammel mann ble angrepet av en hissig svane mens han var i en robåt på et vann i Arendal 2026-06-13 klokken 12:00. Svanen slo ham gjentatte ganger med vingene, og ett av slagene traff ham så hardt i armen at det forårsaket et brudd i underarmsbenet (ulna)."
+    },
+    {
+      "case": "Case 281",
+      "description": "En 31 år gammel kvinne ble skadet da en defekt kontorstol hun satt på plutselig kollapset på jobben i Oslo 2026-01-28 klokken 14:45. Den plutselige bevegelsen og landingen på halebenet forårsaket et brudd i halebenet (coccyx), en svært smertefull og langvarig skade."
+    },
+    {
+      "case": "Case 282",
+      "description": "En 26 år gammel mann som jobbet på en fiskebåt utenfor Vesterålen 2025-12-15 klokken 04:00, fikk et dypt kutt i hånden da han renset fisk. Kuttet ble raskt infisert med en aggressiv marin bakterie (Vibrio vulnificus), som førte til en livstruende, kjøttetende infeksjon (nekrotiserende fasciitt) som krevde umiddelbar kirurgi og aggressiv antibiotikabehandling."
+    },
+    {
+      "case": "Case 283",
+      "description": "En 40 år gammel mann ble truffet i øyet av en sprettende strikk (bungee cord) som løsnet mens han sikret last på en tilhenger i Trondheim 2026-05-02 klokken 17:30. Kroken på strikken traff øyet med enorm kraft og forårsaket en ruptur av øyeeplet, en skade som resulterte i permanent blindhet på øyet."
+    },
+    {
+      "case": "Case 284",
+      "description": "En 30 år gammel kvinne fikk et brudd i brystbenet (sternum) av kraften fra kollisjonsputen da hun kolliderte med en elg på Riksvei 3 i Østerdalen 2025-11-10 klokken 19:45. Bruddet var ustabilt og forårsaket store smerter ved pusting."
+    },
+    {
+      "case": "Case 285",
+      "description": "En 56 år gammel mann ble bitt i hånden av en grevling han prøvde å jage ut av søppelkassen sin i Skien 2026-04-29 klokken 23:00. Grevlingens kraftige kjever knuste flere små bein i hånden og forårsaket dype sår med høy infeksjonsfare."
+    },
+    {
+      "case": "Case 286",
+      "description": "En 22 år gammel kvinne fikk etseskader i halsen og på stemmebåndene etter å ha drukket en drink som var tilsatt en sterk base på et utested i Oslo 2026-02-27 klokken 01:15. Skaden førte til permanent heshet og pusteproblemer."
+    },
+    {
+      "case": "Case 287",
+      "description": "En 44 år gammel mann ble skadet da en pallejekk fullastet med varer rullet over foten hans på et lager i Bergen 2026-06-18 klokken 10:10. Vekten forårsaket en Lisfranc-skade, en alvorlig og kompleks skade på leddene og leddbåndene i mellomfoten, som ofte fører til kroniske smerter og nedsatt funksjon."
+    },
+    {
+      "case": "Case 288",
+      "description": "En 37 år gammel kvinne fikk en alvorlig forbrenning på låret da hun mistet en rettetang som var over 200 grader varm i fanget sitt i sitt hjem i Stavanger 2025-12-29 klokken 08:15. Kontakten var lang nok til å forårsake en dyp tredjegrads brannskade som krevde hudtransplantasjon."
+    },
+    {
+      "case": "Case 289",
+      "description": "En 28 år gammel mann ble truffet i hodet av en ishockeypuck under en kamp i Lillehammer 2026-01-31 klokken 20:20. Pucken traff ham rett over øyet og knuste den orbitale kanten, samt forårsaket en 'blowout'-fraktur der øyemusklene ble fanget, noe som ga akutt dobbeltsyn."
+    },
+    {
+      "case": "Case 290",
+      "description": "En 50 år gammel kvinne ble påkjørt av en el-sparkesykkel i høy fart på et fortau i Oslo 2026-08-14 klokken 15:00. Kollisjonen førte til at hun falt og landet med hele sin tyngde på den utstrakte armen, noe som resulterte i et knust albueledd med flere fragmenter, som krevde en komplisert operasjon."
+    },
+    {
+      "case": "Case 291",
+      "description": "En 33 år gammel mann ble truffet av et stillasrør som falt fra fjerde etasje på en byggeplass i Trondheim 2025-10-02 klokken 14:25. Røret traff ham i ryggen og forårsaket brudd i flere tverrtagger på ryggvirvlene og en alvorlig nyrekontusjon med blod i urinen som resultat."
+    },
+    {
+      "case": "Case 292",
+      "description": "En 26 år gammel kvinne fikk en alvorlig brannskade da en trykkoker eksploderte på kjøkkenet hennes i Bergen 2026-03-09 klokken 18:40. Den glovarme dampen og innholdet ble sprøytet over ansiktet og overkroppen hennes og forårsaket omfattende andregrads forbrenninger.på ca 27% av kroppsoverflaten"
+    },
+    {
+      "case": "Case 293",
+      "description": "En 49 år gammel mann som jobbet på et deponi i Romerike 2026-06-25 klokken 11:00, ble stukket i beinet av en brukt insulinpenn som stakk ut av en søppelsekk. Stikket medførte en betydelig risiko for smitte med blodbårne sykdommer som hepatitt og HIV, og krevde umiddelbar oppstart av post-eksposisjonell profylakse (PEP)."
+    },
+    {
+      "case": "Case 294",
+      "description": "En 21 år gammel mann fikk en permanent hørselsskade da en airbag i en gammel bil han reparerte i en garasje i Skien 2026-01-21 klokken 17:50, eksploderte uventet rett ved siden av hodet hans. Lydtrykket var så ekstremt at det forårsaket et akustisk traume som ødela sansecellene i det indre øret."
+    },
+    {
+      "case": "Case 295",
+      "description": "En 38 år gammel kvinne ble skadet da en automatisk garasjeport begynte å lukke seg mens hun gikk under den i sitt hjem i Asker 2025-12-14 klokken 20:15. Porten traff henne i hodet og nakken og presset henne mot bakken, noe som forårsaket en alvorlig kompresjonsskade på nakkevirvlene med fare for nevrologisk skade."
+    },
+    {
+      "case": "Case 296",
+      "description": "En 55 år gammel mann ble truffet i brystet av et tau som røk under trekking av en annen bil på en fjellovergang i Telemark 2026-02-19 klokken 13:00. Den elastiske energien i tauet ga en piskesnerteffekt som var så kraftig at den brakk flere ribbein og forårsaket en hjertekontusjon."
+    },
+    {
+      "case": "Case 297",
+      "description": "En 29 år gammel kvinne fikk en alvorlig skade på hånden da hun forsøkte å rense en blender som fortsatt var koblet til strøm i sitt hjem i Kristiansand 2026-04-08 klokken 09:30. Knivene ble aktivert og forårsaket dype kutt som kuttet sener og nerver i flere fingre, med permanent nedsatt funksjon som resultat."
+    },
+    {
+      "case": "Case 298",
+      "description": "En 42 år gammel mann ble påkjørt av en snøscooter mens han sto i en skiheiskø i Trysil 2026-02-22 klokken 12:40. Snøscooteren kjørte over beinet hans og forårsaket et alvorlig brudd i både skinnebenet og leggbenet (tibia- og fibulafraktur), som krevde en margnagle for å stabilisere."
+    },
+    {
+      "case": "Case 299",
+      "description": "En 36 år gammel mann fikk en alvorlig øyeskade da en spennrem med metallkrok løsnet og traff ham i ansiktet under sikring av last på en lastebil i Bodø 2025-10-23 klokken 16:10. Kroken traff øyet og forårsaket en ruptur av øyeeplet, en av de mest alvorlige øyeskadene, som resulterte i at synet gikk tapt."
+    },
+    {
+      "case": "Case 300",
+      "description": "En 27 år gammel kvinne ble påkjørt av en båt mens hun svømte nær en populær badeplass i Oslofjorden 2026-07-25 klokken 15:45. Propellen på båten traff henne i ryggen og beina og forårsaket multiple, dype kutt som skadet muskler, nerver og bein, en livstruende skade med massivt blodtap."
+    },
+        {
+        "case": "Case 301",
+        "description": "En 41 år gammel geofysiker på feltarbeid nær Longyearbyen ble 2026-08-10 klokken 13:00 angrepet av en rødrev. Bittet i leggen var dypt, og med risiko for rabiesinfeksjon krevde det umiddelbar evakuering og oppstart av en serie med post-eksponeringsvaksiner."
+      },
+      {
+        "case": "Case 302",
+        "description": "En 29 år gammel bonde i Alvdal fikk armen sin i klem i et hydraulisk løfteapparat på en traktor 2026-05-20 klokken 11:45. Trykket forårsaket et akutt kompartmentsyndrom, som krevde øyeblikkelig kirurgisk spalting av muskelhinnene for å gjenopprette blodsirkulasjonen i armen."
+      },
+      {
+        "case": "Case 303",
+        "description": "En 58 år gammel bibliotekar i Oslo ble truffet i hodet av en tung bok som ble dyttet ut av en hylle i øverste etasje 2026-02-12 klokken 15:20. Treffet forårsaket en hjernerystelse med påfølgende post-kommosjonelt syndrom, inkludert hodepine og kognitive vansker."
+      },
+      {
+        "case": "Case 304",
+        "description": "En 22 år gammel student i Trondheim fikk frostskader på hornhinnene (snøblindhet) 2026-04-05 klokken 14:00 etter en lang skitur i sterk sol uten solbriller. UV-strålingen forårsaket smerte, midlertidig synstap og krevde behandling i et mørklagt rom."
+      },
+      {
+        "case": "Case 305",
+        "description": "En 34 år gammel ansatt på et avfallsanlegg i Bergen ble stukket i hånden av en brukt blodprøvekanyle som lå i en feilsortert pose 2026-03-18 klokken 09:55. Stikkskaden medførte risiko for smitte av HIV og Hepatitt C, og han måtte starte på forebyggende antiviral behandling (PEP)."
+      },
+      {
+        "case": "Case 306",
+        "description": "En 6-åring i Stavanger fikk en kvelningsskade da snoren på hetten til jakken hans hektet seg fast i et lekeapparat 2026-09-02 klokken 13:10. Kvelningen førte til bevisstløshet og krevde HLR fra en barnehageansatt for å få i gang pusten."
+      },
+      {
+        "case": "Case 307",
+        "description": "En 45 år gammel mann som drev med hjemmebrygging i Sandnes, fikk brannskader da en glassballong med varm vørter sprakk 2025-11-22 klokken 20:30. Det varme, sukkerholdige innholdet ga dype annengrads forbrenninger på beina og i underlivet, 12% av kroppen"
+      },
+      {
+        "case": "Case 308",
+        "description": "En 28 år gammel bilmekaniker i Tromsø fikk en punktert lunge (pneumothorax) da et lastebildekk han jobbet med eksploderte 2026-01-20 klokken 11:15. Trykkbølgen fra eksplosjonen forårsaket en 'blast injury' mot brystkassen."
+      },
+      {
+        "case": "Case 309",
+        "description": "En 19 år gammel servitør i Kristiansand fikk et dypt kutt i underarmen da hun mistet et brett med vinglass 2026-07-17 klokken 22:00. Et glasskår kuttet over radialarterien og flere sener, noe som førte til en pulserende blødning og krevde kar- og senekirurgi."
+      },
+      {
+        "case": "Case 310",
+        "description": "En 52 år gammel mann ble bitt i hånden av en sel da han skulle mate den fra en brygge i Lofoten 2026-08-14 klokken 12:40. Bittet var dypt, og bakteriefloraen forårsaket en infeksjon ('sel-finger') som krevde langvarig, spesialisert antibiotikabehandling for å unngå leddestruksjon."
+      },
+      {
+        "case": "Case 311",
+        "description": "En 37 år gammel kvinne ble truffet av en handlevogn som trillet ned en rampe på et kjøpesenter i Lørenskog 2025-12-13 klokken 18:00. Vognen traff akillessenen med stor kraft og forårsaket en totalruptur som krevde kirurgisk behandling."
+      },
+      {
+        "case": "Case 312",
+        "description": "En 25 år gammel mann som jobbet i et fryselager i Oslo, ble utsatt for en lekkasje av flytende nitrogen 2026-04-22 klokken 10:25. Kulden (-196 °C) forårsaket dype kryogene brannskader på foten, med påfølgende vevsnekrose som gjorde amputasjon av to tær nødvendig."
+      },
+      {
+        "case": "Case 313",
+        "description": "En 63 år gammel kvinne fikk et brudd i ankelen da en automatisk skyvedør på et apotek i Bergen lukket seg for tidlig og traff foten hennes 2026-03-05 klokken 14:10. Kraften i døren forårsaket et Weber B-brudd som krevde operasjon."
+      },
+      {
+        "case": "Case 314",
+        "description": "En 31 år gammel mann fikk etseskader i luftveiene etter å ha blandet avløpsåpner med et syrebasert rengjøringsmiddel i et bad i sin leilighet i Trondheim 2025-11-15 klokken 21:00. Den kjemiske reaksjonen skapte varme og giftige gasser som førte til akutt lungesvikt."
+      },
+      {
+        "case": "Case 315",
+        "description": "En 48 år gammel mann som deltok i en dugnad i et borettslag i Bærum, ble truffet i hodet av en hekksaks som falt fra en balkong 2026-09-05 klokken 12:15. Hekksaksen forårsaket et dypt kutt og et impresjonsbrudd i kraniet, noe som krevde nevrokirurgi."
+      },
+      {
+        "case": "Case 316",
+        "description": "En 21 år gammel kvinne fikk en skade på hånden da hun forsøkte å skille to glassboller som hadde kilt seg fast i hverandre på kjøkkenet sitt i Stavanger 2026-02-08 klokken 19:45. Glasset sprakk og et fragment kuttet tvers av medianusnerven, noe som resulterte i tap av følelse og bevegelse i deler av hånden."
+      },
+      {
+        "case": "Case 317",
+        "description": "En 55 år gammel lastebilsjåfør ble klemt mellom sin egen lastebil og en annen trailer på en rasteplass ved E6 i Sarpsborg 2025-12-04 klokken 03:30 da den andre traileren begynte å rulle. Klemulykken forårsaket en knusningsskade i brystkassen og bekkenet, som krevde øyeblikkelig kirurgi."
+      },
+      {
+        "case": "Case 318",
+        "description": "En 16 år gammel gutt fikk en friksjonsskade på leggen da et tau surret seg rundt foten hans under lek med en huske i hagen i Hamar 2026-06-14 klokken 17:20. Den raske bevegelsen skapte varme som ga en dyp tredjegrads brannskade og ødela muskelvevet under."
+      },
+      {
+        "case": "Case 319",
+        "description": "En 43 år gammel baker i Bergen fikk etseskader i øyne og luftveier da en sekk med kaustisk soda revnet og støvet ble virvlet opp 2026-01-27 klokken 05:00. Den kjemiske eksponeringen krevde umiddelbar og langvarig skylling for å unngå synstap."
+      },
+      {
+        "case": "Case 320",
+        "description": "En 24 år gammel mann som trente bueskyting i en klubb i Oslo, skjøt ved et uhell en pil gjennom sin egen venstre underarm 2026-05-17 klokken 19:30. Pilen penetrerte muskulaturen og måtte fjernes på sykehus for å unngå skade på nerver og blodkar."
+      },
+      {
+        "case": "Case 321",
+        "description": "En 50 år gammel fiskeoppdretter på Hitra ble bitt i hånden av en stor kveite under sortering 2025-10-16 klokken 10:00. Bittet var så kraftig at det forårsaket flere knusningsbrudd i fingrene og dype sår som krevde kirurgisk rensing."
+      },
+      {
+        "case": "Case 322",
+        "description": "En 36 år gammel kvinne fikk en allergisk reaksjon etter å ha spist scampi på en restaurant i Tønsberg 2026-04-11 klokken 20:15. Reaksjonen utviklet seg til et anafylaktisk sjokk med akutt pustebesvær og hevelse i halsen."
+      },
+      {
+        "case": "Case 323",
+        "description": "En 62 år gammel mann som restaurerte en veteranbil i sin garasje i Skien, ble klemt da en motorblokk løsnet fra taljen og falt ned 2025-11-29 klokken 14:45. Motorblokken landet på foten hans og knuste mellomfoten, en skade som krevde flere operasjoner."
+      },
+      {
+        "case": "Case 324",
+        "description": "En 27 år gammel kvinne ble truffet i hodet av en svingende bom på en seilbåt under en regatta i Oslofjorden 2026-08-01 klokken 13:30. Slaget forårsaket et brudd i kraniet og en hjerneblødning, noe som gjorde tilstanden hennes ustabil."
+      },
+      {
+        "case": "Case 325",
+        "description": "En 7-åring svelget en liten, magnetisk kule fra et leketøysett i sitt hjem i Drammen 2026-09-12 klokken 16:00. Fordi han hadde svelget en annen magnet tidligere, festet de seg sammen gjennom tarmveggen, noe som forårsaket en perforasjon og bukhinnebetennelse."
+      },
+      {
+        "case": "Case 326",
+        "description": "En 39 år gammel mann ble bitt av en huggorm i fingeren da han plukket sopp i skogen nær Mandal 2026-09-06 klokken 11:50. Hele armen hovnet opp til dobbel størrelse, og han utviklet systemiske symptomer som krevde sykehusinnleggelse og behandling med motgift."
+      },
+      {
+        "case": "Case 327",
+        "description": "En 54 år gammel mann fikk et dypt kutt i låret fra en vinkelsliper da skiven låste seg og maskinen ble kastet tilbake mot ham i verkstedet hans i Haugesund 2026-02-21 klokken 17:05. Kuttet var så dypt at det skar over store deler av lårmuskulaturen."
+      },
+      {
+        "case": "Case 328",
+        "description": "En 20 år gammel kvinne fikk etseskader på huden og i øynene etter å ha blitt sprayet med en ukjent kjemisk væske under et overfall i Trondheim sentrum 2026-04-18 klokken 02:10. Skadene krevde akutt medisinsk behandling for å begrense vevsskade."
+      },
+      {
+        "case": "Case 329",
+        "description": "En 65 år gammel mann ble påkjørt av en ryggende lastebil mens han lastet varer på et industriområde i Porsgrunn 2025-12-11 klokken 10:30. Han ble klemt mot en vegg, noe som resulterte i et knust bekken og indre skader."
+      },
+      {
+        "case": "Case 330",
+        "description": "En 33 år gammel kvinne ble truffet av en løsnet tilhenger som kom over i hennes kjørefelt på E39 ved Sandnes 2026-05-28 klokken 16:45. Kollisjonen forårsaket et komplekst brudd i håndleddet og en whiplash-skade."
+      },
+      {
+        "case": "Case 331",
+        "description": "En 18 år gammel mann fikk brannskader da en e-sigarett eksploderte i bukselommen hans under en skoletime i Bodø 2026-01-26 klokken 13:25. Batteriet forårsaket en dyp tredjegrads forbrenning på låret som krevde hudtransplantasjon."
+      },
+      {
+        "case": "Case 332",
+        "description": "En 47 år gammel kvinne ble bitt i hånden av sin egen katt da hun prøvde å bade den i sin leilighet i Oslo 2026-03-22 klokken 18:00. Bittet var dypt og førte til en infeksjon med Pasteurella-bakterier, som krevde kirurgisk drenering og intravenøs antibiotika."
+      },
+      {
+        "case": "Case 333",
+        "description": "En 26 år gammel mann fikk en øyeskade da en strikk med metallkrok løsnet og traff ham i ansiktet mens han sikret bagasje på biltaket i Romerike 2026-07-04 klokken 09:15. Kroken traff øyet og forårsaket en ruptur av øyeeplet, en skade som førte til permanent blindhet."
+      },
+      {
+        "case": "Case 334",
+        "description": "En 59 år gammel mann ble trampet på av en hest som ble skremt under en ridetur i en skog i Arendal 2026-08-16 klokken 14:30. Hestens vekt forårsaket en knusningsskade på foten med multiple, åpne brudd."
+      },
+      {
+        "case": "Case 335",
+        "description": "En 30 år gammel kvinne fikk etseskader på stemmebåndene etter å ha drukket en drink som var tilsatt en sterk base på et utested i Stavanger 2026-02-28 klokken 01:00. Det førte til permanent heshet og pusteproblemer."
+      },
+      {
+        "case": "Case 336",
+        "description": "En 42 år gammel mann som jobbet i et steinbrudd i Larvik, ble truffet av en trykkbølge fra en uventet detonasjon 2025-11-12 klokken 11:00. Trykkbølgen forårsaket en 'blast lung'-skade med utbredte blødninger i lungevevet."
+      },
+      {
+        "case": "Case 337",
+        "description": "En 23 år gammel kvinne fikk brannskader da en trykkoker eksploderte på kjøkkenet hennes i Bergen 2026-03-10 klokken 18:45. Den varme dampen og innholdet ble sprøytet over ansiktet og overkroppen hennes og forårsaket omfattende annengrads forbrenninger, over 22% av kroppen"
+      },
+      {
+        "case": "Case 338",
+        "description": "En 68 år gammel mann fikk et dypt kutt i leggen da han mistet en vinkelsliper under hagearbeid i Fredrikstad 2026-06-21 klokken 12:40. Kuttet gikk ned til beinet og skadet en større nerve, noe som førte til nedsatt følelse i foten."
+      },
+      {
+        "case": "Case 339",
+        "description": "En 35 år gammel mannlig tømrer i Trondheim fikk et elektrisk støt da han boret gjennom en vegg og traff en skjult strømledning 2026-05-14 klokken 09:20. Strømgjennomgangen forårsaket brannskader på hendene og hjerterytmeforstyrrelser som krevde sykehusobservasjon."
+      },
+      {
+        "case": "Case 340",
+        "description": "En 17 år gammel gutt fikk et kutt i ansiktet fra en knust glassflaske under en krangel på en fest i Moss 2026-04-25 klokken 23:50. Kuttet krevde over 50 sting og resulterte i et permanent arr."
+      },
+      {
+        "case": "Case 341",
+        "description": "En 51 år gammel kvinne ble påkjørt av en el-sparkesykkel i høy fart på et fortau i Oslo 2026-08-15 klokken 15:00. Sammenstøtet førte til et komplisert brudd i håndleddet, som krevde operasjon med innsetting av plate og skruer."
+      },
+      {
+        "case": "Case 342",
+        "description": "En 29 år gammel mann som fridykket i Lysefjorden, fikk en 'shallow water blackout' og besvimte under oppstigning 2026-07-19 klokken 13:25. Oksygenmangelen førte til en anoksisk hjerneskade med langvarige kognitive svekkelser."
+      },
+      {
+        "case": "Case 343",
+        "description": "En 46 år gammel kvinne ble truffet av en løs takstein under en storm i Bergen 2026-01-20 klokken 22:00 mens hun gikk på gaten. Taksteinen traff skulderen og forårsaket et komplekst brudd i overarmen (humerus)."
+      },
+      {
+        "case": "Case 344",
+        "description": "En 60 år gammel mann fikk armen sin i klem mellom en ferge og kaien i Lavik 2026-07-31 klokken 16:00. Klemskaden forårsaket et akutt kompartmentsyndrom i hele underarmen, som krevde øyeblikkelig kirurgi for å unngå amputasjon."
+      },
+      {
+        "case": "Case 345",
+        "description": "En 32 år gammel kvinne fikk et dypt kutt i foten da hun tråkket på en knust flaske på en strand i Larvik 2026-08-10 klokken 17:00. Glasset skar over en viktig sene (tibialis posterior), noe som krevde en komplisert operasjon."
+      },
+      {
+        "case": "Case 346",
+        "description": "En 53 år gammel lærer ble slått ned bakfra av en tidligere elev i skolegården i Oslo 2025-11-04 klokken 14:30. Slaget forårsaket et brudd i skallebasis, en skade som kan føre til lekkasje av spinalvæske."
+      },
+      {
+        "case": "Case 347",
+        "description": "En 28 år gammel mann fikk en skade på hånden da han forsøkte å rense en blender som var koblet til strøm i sitt hjem i Kristiansand 2026-04-09 klokken 09:30. Knivene ble aktivert og kuttet sener og nerver i flere fingre."
+      },
+      {
+        "case": "Case 348",
+        "description": "En 42 år gammel mann ble påkjørt av en snøscooter i en skiheiskø i Trysil 2026-02-23 klokken 12:40. Snøscooteren kjørte over beinet hans og forårsaket et brudd i både skinnebenet og leggbenet."
+      },
+      {
+        "case": "Case 349",
+        "description": "En 36 år gammel mann fikk en øyeskade da en spennrem med metallkrok løsnet og traff ham i ansiktet i Bodø 2025-10-24 klokken 16:10. Kroken forårsaket en ruptur av øyeeplet, som resulterte i at synet gikk tapt."
+      },
+      {
+        "case": "Case 350",
+        "description": "En 27 år gammel kvinne ble påkjørt av en båtpropell mens hun svømte i Oslofjorden 2026-07-26 klokken 15:45. Propellen forårsaket multiple, dype kutt i ryggen og beina, med betydelig blodtap."
+      },
+      {
+        "case": "Case 351",
+        "description": "En 38 år gammel mannlig snekker i Lillehammer fikk fingeren sin delvis amputert av et sagblad på en bordsag 2026-09-15 klokken 13:10. Skaden krevde en akutt operasjon for å forsøke å replantere den avkuttede delen."
+      },
+      {
+        "case": "Case 352",
+        "description": "En 22 år gammel student som deltok i en paintball-turnering i Rakkestad, fikk en paintball skutt rett inn i øyet 2026-08-22 klokken 14:00. Treffet forårsaket en blødning i øyet (hyphema) og permanent skade på synet."
+      },
+      {
+        "case": "Case 353",
+        "description": "En 49 år gammel kvinne ble sparket av en hest hun stelte på en stall i Lier 2026-05-30 klokken 19:15. Sparket traff henne i magen og forårsaket en rift i leveren, en indre skade som krevde sykehusinnleggelse."
+      },
+      {
+        "case": "Case 354",
+        "description": "En 61 år gammel mann fikk en brannskade da en bærbar gassbrenner han brukte på en campingtur i Jotunheimen, veltet og satte fyr på teltet 2026-07-29 klokken 06:30. Han pådro seg andregrads brannskader på armer og ansikt."
+      },
+      {
+        "case": "Case 355",
+        "description": "En 33 år gammel mann ble skadet da en pallejekk fullastet med varer rullet over foten hans på et lager i Bergen 2026-06-19 klokken 10:10. Vekten forårsaket en Lisfranc-skade, en kompleks skade på leddene og leddbåndene i mellomfoten."
+      },
+      {
+        "case": "Case 356",
+        "description": "En 26 år gammel kvinne fikk et brudd i brystbenet (sternum) av kraften fra kollisjonsputen da hun kolliderte med en elg på Riksvei 3 i Østerdalen 2025-11-11 klokken 19:45. Bruddet var ustabilt og forårsaket smerter ved pusting."
+      },
+      {
+        "case": "Case 357",
+        "description": "En 56 år gammel mann ble bitt i hånden av en grevling han prøvde å jage ut av søppelkassen sin i Skien 2026-04-30 klokken 23:00. Grevlingens kjever knuste flere små bein i hånden og forårsaket dype sår med infeksjonsfare."
+      },
+      {
+        "case": "Case 358",
+        "description": "En 44 år gammel kvinne ble skadet da en palle med varer veltet over henne på et varehus i Trondheim 2026-09-18 klokken 11:45. Vekten forårsaket et brudd i bekkenet og en knusningsskade i det ene beinet."
+      },
+      {
+        "case": "Case 359",
+        "description": "En 30 år gammel mann som jobbet som linjemontør, fikk et elektrisk støt fra en høyspentledning i Fauske 2026-08-27 klokken 13:50. Strømgjennomgangen forårsaket dype tredjegrads brannskader ved inngangs- og utgangspunktet, samt hjertestans."
+      },
+      {
+        "case": "Case 360",
+        "description": "En 23 år gammel kvinne ble truffet av en rullestol som ble kastet ned en rulletrapp på et kjøpesenter i Lørenskog 2026-02-14 klokken 18:20. Rullestolen traff henne i ryggen og forårsaket et kompresjonsbrudd i en brystryggvirvel."
+      },
+      {
+        "case": "Case 361",
+        "description": "En 58 år gammel mann ble angrepet av en hissig svane mens han var i en robåt i Arendal 2026-06-14 klokken 12:00. Svanen slo ham gjentatte ganger med vingene, og ett av slagene forårsaket et brudd i underarmsbenet (ulna)."
+      },
+      {
+        "case": "Case 362",
+        "description": "En 31 år gammel kvinne fikk et brudd i halebenet (coccyx) da en defekt kontorstol hun satt på, plutselig kollapset på jobben i Oslo 2026-01-29 klokken 14:45. Skaden var smertefull og langvarig."
+      },
+      {
+        "case": "Case 363",
+        "description": "En 40 år gammel mann ble truffet i øyet av en sprettende strikk (bungee cord) som løsnet mens han sikret last på en tilhenger i Trondheim 2026-05-03 klokken 17:30. Kroken på strikken forårsaket en ruptur av øyeeplet, noe som resulterte i permanent blindhet."
+      },
+      {
+        "case": "Case 364",
+        "description": "En 28 år gammel mann ble truffet i hodet av en ishockeypuck under en kamp i Lillehammer 2026-02-01 klokken 20:20. Pucken knuste den orbitale kanten over øyet og forårsaket en 'blowout'-fraktur med akutt dobbeltsyn."
+      },
+      {
+        "case": "Case 365",
+        "description": "En 33 år gammel mann ble truffet av et stillasrør som falt fra fjerde etasje på en byggeplass i Trondheim 2025-10-03 klokken 14:25. Røret forårsaket brudd i flere tverrtagger på ryggvirvlene og en nyrekontusjon."
+      },
+      {
+        "case": "Case 366",
+        "description": "En 49 år gammel mann ble stukket i beinet av en brukt insulinpenn på et deponi i Romerike 2026-06-26 klokken 11:00. Stikket medførte risiko for smitte med blodbårne sykdommer og krevde oppstart av forebyggende medisin."
+      },
+      {
+        "case": "Case 367",
+        "description": "En 21 år gammel mann fikk en permanent hørselsskade da en airbag i en gammel bil han reparerte, eksploderte uventet rett ved siden av hodet hans i Skien 2026-01-22 klokken 17:50. Lydtrykket forårsaket et akustisk traume."
+      },
+      {
+        "case": "Case 368",
+        "description": "En 38 år gammel kvinne ble skadet da en automatisk garasjeport begynte å lukke seg mens hun gikk under den i Asker 2025-12-15 klokken 20:15. Porten forårsaket en kompresjonsskade på nakkevirvlene."
+      },
+      {
+        "case": "Case 369",
+        "description": "En 55 år gammel mann ble truffet i brystet av et tau som røk under trekking av en annen bil på en fjellovergang i Telemark 2026-02-20 klokken 13:00. Piskesnerteffekten fra tauet brakk flere ribbein og forårsaket en hjertekontusjon."
+      },
+      {
+        "case": "Case 370",
+        "description": "En 32 år gammel mann fikk en brannskade på hendene da han åpnet radiatoren på en overopphetet bil på en rasteplass i Gudbrandsdalen 2026-07-22 klokken 16:30. Den kokende kjølevæsken sprutet ut og forårsaket dype annengrads forbrenninger, 11% av kroppen"
+      },
+      {
+        "case": "Case 371",
+        "description": "En 24 år gammel kvinne ble skadet da en stor reklameskjerm løsnet fra en vegg og falt ned på et torg i Oslo sentrum 2026-09-10 klokken 12:50. Skjermen traff henne og forårsaket et komplisert brudd i leggen og en hjernerystelse."
+      },
+      {
+        "case": "Case 372",
+        "description": "En 48 år gammel mann som jobbet på et smelteverk i Mo i Rana, fikk en sprut av smeltet metall på armen 2026-03-25 klokken 08:40. Metallet brant seg gjennom verneklærne og forårsaket en dyp tredjegrads brannskade ned til beinet."
+      },
+      {
+        "case": "Case 373",
+        "description": "En 31 år gammel kvinne ble truffet av en golfball i tinningen under en turnering i Larvik 2026-08-15 klokken 12:25. Treffet forårsaket en epidural hematom, en blødning som krevde at hun ble boret i hodet for å lette trykket."
+      },
+      {
+        "case": "Case 374",
+        "description": "En 28 år gammel mann som jobbet i skogen nær Elverum, ble truffet av et tre som falt i feil retning 2025-10-30 klokken 10:15. Treet landet over beina hans og forårsaket knusningsskader i begge lårbeina."
+      },
+      {
+        "case": "Case 375",
+        "description": "En 57 år gammel kvinne fikk et dypt kutt i hånden da hun forsøkte å åpne et østersskjell med en kniv på kjøkkenet sitt i Stavanger 2025-12-31 klokken 18:00. Kniven glapp og penetrerte hånden, hvor den kuttet en viktig nerve."
+      },
+      {
+        "case": "Case 376",
+        "description": "En 25 år gammel mann som jobbet på en byggeplass i Bergen, fikk foten sin spiddet av et armeringsjern som stakk opp av bakken 2026-06-12 klokken 14:00. Jernet gikk tvers gjennom foten og måtte kuttes før transport til sykehus."
+      },
+      {
+        "case": "Case 377",
+        "description": "En 40 år gammel kvinne ble skadet da en heis hun var i, plutselig stoppet brått mellom to etasjer i en bygning i Oslo 2026-02-18 klokken 09:00. Den brå stoppen kastet henne mot veggen og forårsaket et brudd i halebenet."
+      },
+      {
+        "case": "Case 378",
+        "description": "En 66 år gammel mann ble bitt av sin egen hund da han prøvde å ta fra den et bein i sitt hjem i Trondheim 2026-05-24 klokken 19:30. Bittet i armen var så dypt at det forårsaket et åpent brudd i underarmsbenet."
+      },
+      {
+        "case": "Case 379",
+        "description": "En 34 år gammel kvinne ble truffet av en løpsk gokart under et firmaarrangement på Rudskogen 2026-08-29 klokken 15:30. Gokarten traff henne i beina og forårsaket brudd i både skinneben og leggben på begge sider."
+      },
+      {
+        "case": "Case 380",
+        "description": "En 29 år gammel mann fikk skader da en gassflaske eksploderte mens han sveiset på et verksted i Sandefjord 2026-04-28 klokken 11:45. Eksplosjonen forårsaket brannskader og slengte ham mot en vegg, noe som resulterte i en hodeskade."
+      },
+      {
+        "case": "Case 381",
+        "description": "En 53 år gammel kvinne ble skadet da en stor isblokk falt fra taket på en bygård og traff henne i hodet i Tromsø 2026-03-15 klokken 12:10. Isblokken forårsaket et kraniebrudd og en hjerneblødning."
+      },
+      {
+        "case": "Case 382",
+        "description": "En 27 år gammel mann fikk en skade da en spennfjær fra en garasjeport løsnet og traff ham i ansiktet i Bærum 2025-11-08 klokken 16:20. Fjæren brakk kjeven hans på to steder og slo ut flere tenner."
+      },
+      {
+        "case": "Case 383",
+        "description": "En 45 år gammel mann ble skadet da en stor bølge slo inn over dekk på en fiskebåt i Nordsjøen 2026-01-15 klokken 04:30. Bølgen kastet ham mot en vinsj og forårsaket flere brukne ribbein og en punktert lunge."
+      },
+      {
+        "case": "Case 384",
+        "description": "En 31 år gammel kvinne fikk et dypt kutt i beinet da hun ble truffet av en løpsk robotgressklipper i hagen sin i Asker 2026-07-12 klokken 14:00. Knivene på gressklipperen forårsaket et dypt sår som krevde mange sting, 11 cm langt sår"
+      },
+      {
+        "case": "Case 385",
+        "description": "En 60 år gammel mann fikk en skade da han fikk armen i klem i en vedkløyver ved hytta si i Hallingdal 2025-10-11 klokken 13:30. Kløyveren knuste underarmen hans og forårsaket flere åpne brudd."
+      },
+      {
+        "case": "Case 386",
+        "description": "En 24 år gammel kvinne ble skadet da hun ble presset mot et gjerde under en konsert i Oslo Spektrum 2026-03-07 klokken 22:15. Presset fra folkemengden var så stort at hun brakk 4 ribbein"
+      },
+      {
+        "case": "Case 387",
+        "description": "En 41 år gammel mann ble bitt i ansiktet av en hund han prøvde å skille fra en annen hund i en park i Drammen 2026-05-10 klokken 18:45. Bittet forårsaket et stort sår i kinnet som krevde plastisk kirurgi."
+      },
+      {
+        "case": "Case 388",
+        "description": "En 58 år gammel kvinne fikk en forbrenning da hun mistet en kjele med kokende suppe over foten sin på kjøkkenet i sitt hjem i Bergen 2025-12-20 klokken 17:50. Forbrenningen var en dyp annengrads skade, på 12% av kroppsoverflaten"
+      },
+      {
+        "case": "Case 389",
+        "description": "En 32 år gammel mann fikk en skade da en tung vektskive falt ned på foten hans på et treningssenter i Trondheim 2026-02-15 klokken 19:00. Vektskiven knuste flere av tærne hans."
+      },
+      {
+        "case": "Case 390",
+        "description": "En 28 år gammel kvinne ble skadet da en bil rygget på henne på en parkeringsplass utenfor et kjøpesenter i Sandvika 2026-04-12 klokken 16:30. Bilen traff henne i kneet og forårsaket en leddbåndskade."
+      },
+      {
+        "case": "Case 391",
+        "description": "En 50 år gammel mann fikk en skade da han fikk et illebefinnende og traff hodet i en glassdør i sitt hjem i Stavanger 2026-01-05 klokken 21:00. Glassdøren knuste og forårsaket dype kutt i ansiktet og på halsen."
+      },
+      {
+        "case": "Case 392",
+        "description": "En 37 år gammel kvinne ble skadet da en stor gren brakk av et tre og falt ned på bilen hun satt i under en storm i Kristiansand 2025-11-25 klokken 23:30. Grenen knuste taket på bilen og forårsaket en nakkeskade."
+      },
+      {
+        "case": "Case 393",
+        "description": "En 29 år gammel mann fikk en skade da han ble truffet av en handlevogn på rullebåndet på et supermarked i Oslo 2026-03-28 klokken 17:15. Handlevognen traff ham i leggen og forårsaket et dypt sår og en muskelskade."
+      },
+      {
+        "case": "Case 394",
+        "description": "En 46 år gammel mann ble skadet da en stige han sto på, veltet og han ble klemt mellom stigen og en vegg i sitt hjem i Trondheim 2026-05-22 klokken 11:30. Klemskaden forårsaket et brudd i et ribbein."
+      },
+      {
+        "case": "Case 395",
+        "description": "En 33 år gammel kvinne fikk en skade da hun ble truffet av en ball i hodet under en volleyballkamp i Bergen 2026-04-19 klokken 20:45. Ballen traff henne så hardt at hun fikk en hjernerystelse og mistet bevisstheten."
+      },
+      {
+        "case": "Case 396",
+        "description": "En 52 år gammel mann ble skadet da han fikk et illebefinnende og kjørte av veien med bilen sin på E18 ved Drammen 2026-02-11 klokken 08:20. Kollisjonen med autovernet forårsaket et brudd i brystbenet."
+      },
+      {
+        "case": "Case 397",
+        "description": "En 26 år gammel mann fikk en skade da han ble truffet av en flaske i hodet under en krangel på et utested i Oslo 2026-05-01 klokken 02:00. Flasken forårsaket et dypt kutt og en hjernerystelse."
+      },
+      {
+        "case": "Case 398",
+        "description": "En 43 år gammel kvinne ble skadet da en stor bølge slo henne over ende på en strand på Jæren 2026-07-28 klokken 14:40. Bølgen var så kraftig at hun fikk skulderen ut av ledd."
+      },
+      {
+        "case": "Case 399",
+        "description": "En 35 år gammel mann fikk en skade da han ble truffet av en løpsk ATV under et arrangement i Våler 2026-08-30 klokken 16:00. ATV-en traff ham i beina og forårsaket brudd i begge leggene."
+      },
+      {
+        "case": "Case 400",
+        "description": "En 28 år gammel kvinne ble skadet da en stor hund hoppet opp på henne og hun ble kastet bakover og traff hodet i en betongkant i en park i Oslo 2026-06-28 klokken 19:20. Sammenstøtet forårsaket et kraniebrudd."
+      },
+            {
+        "case": "Case 401",
+        "description": "En 41 år gammel bibliotekar i Bodø falt fra en rullestige mens hun plasserte bøker i en høy hylle 2025-08-20 klokken 14:10. Fallet resulterte i et moderat brudd i halebeinet og en forstuing i håndleddet."
+      },
+      {
+        "case": "Case 402",
+        "description": "En 24 år gammel turist fra Norge ble alvorlig brent av en kubemanet under bading i Thailand 2025-02-15 klokken 12:30. Skaden krevde umiddelbar sykehusinnleggelse og behandling for den sterke giften."
+      },
+      {
+        "case": "Case 403",
+        "description": "Et 5 år gammelt barn fikk fingrene i klem i en rulletrapp på et kjøpesenter i Tromsø 2025-09-12 klokken 16:45. Hendelsen forårsaket alvorlige klemskader og flere brudd i fingrene."
+      },
+      {
+        "case": "Case 404",
+        "description": "En 38 år gammel vindturbintekniker fikk et illebefinnende grunnet heteslag under vedlikeholdsarbeid inne i en vindturbin på Fosen (Åfjord) 2025-07-22 klokken 13:00. Den akutte overbelastningen av varme krevde medisinsk evakuering."
+      },
+      {
+        "case": "Case 405",
+        "description": "En 29 år gammel turgåer ble truffet av lynet mens han søkte ly under et tre under et plutselig tordenvær i Bymarka i Trondheim 2025-08-05 klokken 17:20. Han pådro seg alvorlige brannskader og hjertestans."
+      },
+      {
+        "case": "Case 406",
+        "description": "En 45 år gammel mann som drev med hjemmebrygging av øl, fikk annengrads forbrenning på beina, på 11% av kroppsoverflaten, da en kjele med kokende vørter veltet på kjøkkenet hans i Stavanger 2025-03-01 klokken 19:00."
+      },
+      {
+        "case": "Case 407",
+        "description": "En 19 år gammel frivillig på en musikkfestival i Oslo ble skadet da et scenelys falt ned og traff henne i skulderen 2025-06-28 klokken 22:15. Hun fikk et brudd i kragebeinet."
+      },
+      {
+        "case": "Case 408",
+        "description": "En 33 år gammel person ble innlagt på sykehus i Bergen 2025-05-10 klokken 11:40 etter å ha svelget en etsende væske i et selvmordsforsøk. dette førte til store etseskader på spiserør og magesekk, som krevde behandling. "
+      },
+      {
+        "case": "Case 409",
+        "description": "En 58 år gammel pendler på et fullt lokaltog i Oslo falt og som førte til brudd i hoftekulen da toget foretok en nødstopp 2025-01-29 klokken 08:20."
+      },
+      {
+        "case": "Case 410",
+        "description": "En 52 år gammel arkeolog forstuet ankelen kraftig da hun tråkket feil i en utgravningsgrøft på et feltarbeid i Tønsberg 2025-09-02 klokken 10:30."
+      },
+      {
+        "case": "Case 411",
+        "description": "En 27 år gammel renovasjonsarbeider i Kristiansand fikk et dypt kutt i armen fra en glassplate som var feilaktig kastet i restavfallet 2025-04-11 klokken 09:00."
+      },
+      {
+        "case": "Case 412",
+        "description": "En 7 år gammel gutt fikk en alvorlig allergisk reaksjon (anafylaksi) etter å ha blitt stukket av en jordveps på en lekeplass i Sandnes 2025-08-14 klokken 15:00."
+      },
+      {
+        "case": "Case 413",
+        "description": "En 62 år gammel kvinne ble angrepet og bitt i leggen av en løs hund mens hun gikk tur i et boligområde i Skien 2025-09-25 klokken 18:45."
+      },
+      {
+        "case": "Case 414",
+        "description": "En 35 år gammel bilmekaniker fikk en alvorlig klemskade på hånden da et motorpanser uventet smalt igjen mens han jobbet i et verksted i Drammen 2025-02-18 klokken 13:25."
+      },
+      {
+        "case": "Case 415",
+        "description": "En 22 år gammel student ble slått ned bakfra av en ukjent gjerningsperson på vei hjem fra et studentarrangement i Trondheim 2025-10-11 klokken 02:30. Han pådro seg en hjernerystelse."
+      },
+      {
+        "case": "Case 416",
+        "description": "En 48 år gammel rørlegger pådro seg en akutt ryggskade (prolaps) da han løftet en tung varmtvannsbereder i en enebolig i Bærum 2025-06-03 klokken 11:15."
+      },
+      {
+        "case": "Case 417",
+        "description": "En 82 år gammel dement mann på et sykehjem i Lillehammer fikk 3. grads brannsakder etter å ha veltet en kopp med skåldhet te over seg selv 2025-01-20 klokken 09:00."
+      },
+      {
+        "case": "Case 418",
+        "description": "En 16 år gammel jente på lett motorsykkel mistet kontrollen på vått løv i en sving og kolliderte med et gjerde i Arendal 2025-10-25 klokken 16:00. Hun brakk begge armene."
+      },
+      {
+        "case": "Case 419",
+        "description": "En 31 år gammel mann ble funnet med alvorlige kuttskader i sin leilighet i Haugesund 2025-07-14. Skadene ble vurdert som selvpåførte med en kniv."
+      },
+      {
+        "case": "Case 420",
+        "description": "En 44 år gammel kvinne snublet i en fortauskant mens hun løp for å rekke bussen i Bergen 2025-09-18 klokken 07:55, og slo ut to fortenner i fallet."
+      },
+      {
+        "case": "Case 421",
+        "description": "En 28 år gammel ansatt ved et oppdrettsanlegg i Hitra kommune falt i sjøen fra en merde 2025-05-19 klokken 10:00 og holdt på å drukne før han ble reddet av kolleger. Han var alvorlig nedkjølt til 31 grader i kroppstemperatur"
+      },
+      {
+        "case": "Case 422",
+        "description": "En 14 år gammel gutt fikk et dypt kutt i foten av et skarpt skjell da han badet på en strand i Larvik 2025-07-30 klokken 14:30. Kuttet måtte sys."
+      },
+      {
+        "case": "Case 423",
+        "description": "En 55 år gammel langtransportsjåfør ble alvorlig skadet da lastebilen hans veltet på glatt føre på E6 i Saltdal kommune 2025-01-15 klokken 04:20."
+      },
+      {
+        "case": "Case 424",
+        "description": "En 3-åring i en barnehage i Oslo fikk et lite, rundt batteri i halsen 2025-09-08 klokken 11:00. Batteriet ble fjernet på sykehus før det forårsaket alvorlig etseskade."
+      },
+      {
+        "case": "Case 425",
+        "description": "En 39 år gammel kvinne ble påkjørt av en el-sparkesyklist i høy fart på et fortau i Oslo 2025-08-29 klokken 17:10. Hun falt og pådro seg et komplisert ankelbrudd."
+      },
+      {
+        "case": "Case 426",
+        "description": "En 67 år gammel mann som drev med vedkløyving i hagen sin i Ringsaker, fikk øksa i foten 2025-10-04 klokken 12:45, noe som forårsaket et dypt kutt og seneskade."
+      },
+      {
+        "case": "Case 427",
+        "description": "En 25 år gammel kvinne ble utsatt for grov vold av sin samboer i deres felles hjem i Fredrikstad 2025-04-19 klokken 23:00, og pådro seg brudd i nesen og flere ribbein."
+      },
+      {
+        "case": "Case 428",
+        "description": "En 20 år gammel mann som stod på skateboard, mistet balansen i en nedoverbakke i et boligfelt i Asker 2025-06-21 klokken 20:30 og pådro seg et alvorlig hodeskallebrudd."
+      },
+      {
+        "case": "Case 429",
+        "description": "En 42 år gammel fabrikkarbeider i Sarpsborg fikk armen trukket inn i et transportbånd 2025-03-24 klokken 14:50. Armen ble alvorlig skadet og måtte senere amputeres."
+      },
+      {
+        "case": "Case 430",
+        "description": "En 18 år gammel jente kollapset av heteslag under en fotballturnering på Ekebergsletta (Oslo) 2025-08-02 klokken 15:00. Skaden skyldtes akutt overbelastning fra varme og anstrengelse."
+      },
+      {
+        "case": "Case 431",
+        "description": "En 51 år gammel elektriker fikk et kraftig elektrisk støt og brannskader da han kom borti en strømførende kabel under arbeid i en bygård i Trondheim 2025-02-11 klokken 10:15."
+      },
+      {
+        "case": "Case 432",
+        "description": "En 77 år gammel kvinne snublet i en løs brostein på torget i Gjøvik 2025-09-16 klokken 11:30 og pådro seg et brudd i hoften."
+      },
+      {
+        "case": "Case 433",
+        "description": "En 30 år gammel kvinne ble bitt av en flått under en skogstur i Nordre Follo kommune 2025-07-12, og utviklet senere en alvorlig Borrelia-infeksjon som krevde langvarig behandling."
+      },
+      {
+        "case": "Case 434",
+        "description": "En 23 år gammel mann som var passasjer i en personbil, ble alvorlig skadet da bilen kjørte av veien og rullet rundt på en landevei i Indre Østfold kommune 2025-05-30 klokken 01:00."
+      },
+      {
+        "case": "Case 435",
+        "description": "En 28 år gammel person ble funnet bevisstløs med hodeskade i en park i Oslo, trolig etter et fall. Personen husker ingenting. Skjedde rundt 2025-09-20."
+      },
+      {
+        "case": "Case 436",
+        "description": "En 12 år gammel gutt brakk armen da han falt av en Segway han prøvde for første gang på en parkeringsplass i Lørenskog 2025-08-17 klokken 13:00."
+      },
+      {
+        "case": "Case 437",
+        "description": "En 63 år gammel mann fikk alvorlig pustebesvær etter å ha pustet inn giftig røyk fra brennende plast i sin egen garasje i Molde 2025-04-05 klokken 18:20."
+      },
+      {
+        "case": "Case 438",
+        "description": "En 36 år gammel mann ble skadet da en gassgrill eksploderte under opptenning på terrassen hans i Kristiansand 2025-06-24 klokken 19:15. Han fikk andregrads forbrenninger i ansiktet og på armene, på 13% av kroppen"
+      },
+      {
+        "case": "Case 439",
+        "description": "En 21 år gammel kvinne ble skadet under en pågripelse av politiet i Bergen sentrum 2025-07-27 klokken 03:00. Hun gjorde motstand og fikk armen vridd, noe som førte til en forstuing."
+      },
+      {
+        "case": "Case 440",
+        "description": "En 47 år gammel kvinne, ansatt i hjemmesykepleien, skled på et isete fortau på vei mellom to pasienter i Harstad 2025-01-22 klokken 10:45 og brakk ankelen."
+      },
+      {
+        "case": "Case 441",
+        "description": "En 10 år gammel jente fikk en fiskekrok i fingeren under en fisketur med familien ved et vann i Vinje kommune 2025-08-09 klokken 12:00. Kroken måtte fjernes kirurgisk."
+      },
+      {
+        "case": "Case 442",
+        "description": "En 26 år gammel mann ble overfalt av flere personer utenfor et gatekjøkken i Sarpsborg 2025-09-07 klokken 02:45. Han ble påført flere spark mot kroppen, noe som resulterte i et brukket ribbein."
+      },
+      {
+        "case": "Case 443",
+        "description": "En 59 år gammel mann falt ned en kjellertrapp i sitt eget hjem i Halden 2025-10-14 klokken 21:30. Fallet resulterte i et alvorlig kraniebrudd og bevissthetstap."
+      },
+      {
+        "case": "Case 444",
+        "description": "En 32 år gammel kvinne som var gravid i 8. måned, snublet i en leke i stuen og falt 2025-03-11 i sin bolig i Ålesund. Fallet førte til for tidlig fødsel og er registrert som en ulykkesskade."
+      },
+      {
+        "case": "Case 445",
+        "description": "En 29 år gammel mann som kjørte en gaffeltruck på et lager i Drammen, kolliderte med en reol som veltet over ham 2025-06-12 klokken 11:00. Han fikk alvorlige knusningsskader i beina."
+      },
+      {
+        "case": "Case 446",
+        "description": "En 17 år gammel gutt fikk et alvorlig astmaanfall som følge av eksponering for røyk under en gymtime med brannøvelse på skolen i Porsgrunn 2025-04-28 klokken 13:20."
+      },
+      {
+        "case": "Case 447",
+        "description": "En 40 år gammel person inntok en bevisst overdose av heroin i en leilighet i Oslo 2025-08-22. Vedkommende ble funnet og gjenopplivet med motgift, men hadde pådratt seg en hjerneskade."
+      },
+      {
+        "case": "Case 448",
+        "description": "En 68 år gammel mannlig pensjonist ble truffet av en golfball i hodet mens han spilte på en golfbane i Bærum 2025-09-05 klokken 14:00. Han fikk en moderat hjernerystelse."
+      },
+      {
+        "case": "Case 449",
+        "description": "En 8 år gammel gutt veltet på en vanlig sparkesykkel i skolegården under et friminutt i Bodø 2025-09-23 klokken 10:15 og brakk håndleddet."
+      },
+      {
+        "case": "Case 450",
+        "description": "En 34 år gammel kvinne ble påkjørt i et fotgjengerfelt av en mopedist som ikke overholdt vikeplikten i Tønsberg 2025-05-15 klokken 16:30. Hun fikk et brudd i leggen."
+      },
+      {
+        "case": "Case 451",
+        "description": "En 53 år gammel hytteeier i Trysil fikk et tre over seg under trefelling på egen tomt 2025-10-18 klokken 11:45. Han ble alvorlig skadet med brudd i rygg og bekken."
+      },
+      {
+        "case": "Case 452",
+        "description": "En 27 år gammel mann, ansatt ved et avfallsanlegg, ble eksponert for en ukjent kjemisk gass som lakk fra en beholder 2025-02-27 klokken 09:20 i Fredrikstad, noe som førte til alvorlig lungeirritasjon."
+      },
+      {
+        "case": "Case 453",
+        "description": "En 22 år gammel kvinne ble utsatt for en voldtekt i en park i Oslo 2025-07-19 klokken 01:30. I tillegg til de psykiske traumene, pådro hun seg fysiske skader i form av kvelningsmerker og sår."
+      },
+      {
+        "case": "Case 454",
+        "description": "En 75 år gammel mann falt og slo seg kraftig under avstigning fra en ferge ved kai i Horten 2025-08-11 klokken 15:20. Han fikk et komplisert brudd i skulderen."
+      },
+      {
+        "case": "Case 455",
+        "description": "En 19 år gammel lærling i malerfaget falt fra toppen av en gardintrapp under arbeid i en leilighet i Sandnes 2025-03-06 klokken 13:00 og landet på en malingsboks, noe som resulterte i et ribbeinsbrudd."
+      },
+      {
+        "case": "Case 456",
+        "description": "En 49 år gammel kvinne fikk et dypt kutt i hånden da en porselenskopp knuste mens hun vasket opp hjemme i sin bolig i Skien 2025-09-26 klokken 18:00. Kuttet blødde kraftig og krevde flere sting."
+      },
+      {
+        "case": "Case 457",
+        "description": "En 28 år gammel mann pådro seg en alvorlig vridningsskade i kneet (avrevet korsbånd) under en innebandykamp i en idrettshall i Lørenskog 2025-10-30 klokken 20:15."
+      },
+      {
+        "case": "Case 458",
+        "description": "En 66 år gammel kvinne som var passasjer i en taxi, ble skadet da bilen ble påkjørt fra siden i et kryss i Stavanger 2025-01-18 klokken 14:45. Hun fikk en nakkesleng (liten skade)."
+      },
+      {
+        "case": "Case 459",
+        "description": "En 33 år gammel kokk på en restaurant i Trondheim fikk et dypt kutt i tommelen fra en mandolin-kutter under forberedelser 2025-08-16 klokken 17:30. Skaden var så alvorlig at fingertuppen nesten ble kuttet av."
+      },
+      {
+        "case": "Case 460",
+        "description": "En 24 år gammel mann skjøt seg selv i foten med en spikerpistol ved et uhell under oppussing av sitt eget hus i Moss 2025-06-07 klokken 12:20."
+      },
+      {
+        "case": "Case 461",
+        "description": "En 46 år gammel person ble funnet bevisstløs med alkoholforgiftning etter et julebord med jobben på et hotell i Bergen 2025-12-06. Hendelsen ble klassifisert som overdose."
+      },
+      {
+        "case": "Case 462",
+        "description": "En 15 år gammel gutt ble truffet i øyet av en paintballkule under et spill uten tilstrekkelig verneutstyr på et uorganisert arrangement i en skog i Bamble 2025-09-13 klokken 16:00. Han fikk en alvorlig øyeskade."
+      },
+      {
+        "case": "Case 463",
+        "description": "En 70 år gammel kvinne ble alvorlig nedkjølt (hypotermi) etter å ha falt i sin kalde leilighet i Hammerfest og blitt liggende på gulvet i flere timer før hun ble funnet 2025-02-02."
+      },
+      {
+        "case": "Case 464",
+        "description": "En 37 år gammel mannlig helsefagarbeider ble slått i ansiktet av en utagerende pasient på en psykiatrisk avdeling i Oslo 2025-05-23 klokken 22:00. Han fikk et kutt over øyet."
+      },
+      {
+        "case": "Case 465",
+        "description": "En 29 år gammel kvinne på en el-sykkel kolliderte med en bil som rygget ut fra en oppkjørsel i et boligfelt i Lillestrøm 2025-08-27 klokken 08:40. Hun ble kastet av sykkelen og brakk albuen."
+      },
+      {
+        "case": "Case 466",
+        "description": "En 9 år gammel jente falt ned fra et klatrestativ i en skolegård i Kristiansund 2025-09-10 klokken 12:15 og landet på en annen elev. Begge pådro seg mindre skader som forstuinger og skrubbsår."
+      },
+      {
+        "case": "Case 467",
+        "description": "En 57 år gammel mann ble tatt av et understrøm og holdt på å drukne under bading på en strand i Portugal 2025-07-24 klokken 13:00. Han ble reddet av livvakter."
+      },
+      {
+        "case": "Case 468",
+        "description": "En 31 år gammel kvinne ble funnet med en ukjent skade. Hun ble innlagt på sykehus, men kunne ikke redegjøre for hendelsesforløpet."
+      },
+      {
+        "case": "Case 469",
+        "description": "En 25 år gammel mann, profesjonell e-sportutøver, fikk et akutt anfall av karpaltunnelsyndrom under en turnering i Oslo 2025-11-22, klassifisert som akutt overbelastning fra arbeid."
+      },
+      {
+        "case": "Case 470",
+        "description": "En 60 år gammel kvinne fikk et illebefinnende og falt mens hun gikk i trappene på Nationaltheatret stasjon i Oslo 2025-04-14 klokken 16:10. Fallet førte til et brudd i overarmen."
+      },
+      {
+        "case": "Case 471",
+        "description": "En 13 år gammel jente fikk 3. grads brannskade på låret da en venn sprayet deodorant på huden hennes og tente på som en 'lek' på en privat adresse i Sandefjord 2025-09-27 klokken 20:00."
+      },
+      {
+        "case": "Case 472",
+        "description": "En 38 år gammel mann som drev med hanggliding, krasjlandet i et tre i fjellet i Volda kommune 2025-08-10 klokken 15:30. Han ble hengende fast og pådro seg flere brudd bla. i lårbeinet"
+      },
+      {
+        "case": "Case 473",
+        "description": "En 43 år gammel skogsarbeider i Alvdal kommune ble truffet i hodet av en fallende gren 2025-10-08 klokken 09:40. Hjelmen tok av for det verste, men han fikk en moderat hjernerystelse med kortvarig bevissthetstap."
+      },
+      {
+        "case": "Case 474",
+        "description": "En 26 år gammel mann i militæret ble skadet under en øvelse i Setermoen leir (Målselv) da han snublet under forflytning i ulendt terreng om natten 2025-03-13 klokken 02:00. Han forstuet ankelen."
+      },
+      {
+        "case": "Case 475",
+        "description": "En 50 år gammel kvinne ble skadet i en kjedekollisjon på E18 i Asker under rushtrafikken 2025-01-31 klokken 16:20. Hun satt i den midterste av tre biler og fikk en kraftig nakkesleng."
+      },
+      {
+        "case": "Case 476",
+        "description": "En 18 år gammel russ ble slått i ansiktet med en flaske under et masseslagsmål på et russetreff i Stavanger 2025-05-16 klokken 23:45. Han fikk et dypt kutt og en skade på øyet."
+      },
+      {
+        "case": "Case 477",
+        "description": "En 30 år gammel mannlig innsatt i et fengsel i Ullersmo (Ullensaker) ble skadet under et basketak med en annen innsatt 2025-06-14 klokken 12:30. Han fikk et brudd i en finger."
+      },
+      {
+        "case": "Case 478",
+        "description": "En 23 år gammel kvinne, ansatt i en klesbutikk, fikk en stabel med kleshengere over seg fra en overfylt hylle 2025-09-19 klokken 13:10 i Bodø. Hun fikk et kutt i pannen."
+      },
+      {
+        "case": "Case 479",
+        "description": "En 7-åring veltet på trehjulssykkel i barnehagen i Hamar 2025-08-25 klokken 14:00 og skrapte opp albuen og kneet."
+      },
+      {
+        "case": "Case 480",
+        "description": "En 28 år gammel mann ble bevisst forgiftet av en annen person på en privat fest i Bærum 2025-10-11. Stoffet i drinken hans førte til bevisstløshet."
+      },
+      {
+        "case": "Case 481",
+        "description": "En 61 år gammel mann fikk et illebefinnende og falt på isen under en fisketur på et frossent vann i Nore og Uvdal kommune 2025-02-22 klokken 11:50. Han slo hodet og fikk en alvorlig hodeskade med en fraktur i skallebasis"
+      },
+      {
+        "case": "Case 482",
+        "description": "En 21 år gammel kvinne veltet på rulleski under en treningstur på en gang- og sykkelvei i Lillehammer 2025-09-03 klokken 19:00, og pådro seg et brudd i håndleddet."
+      },
+      {
+        "case": "Case 483",
+        "description": "En 35 år gammel forsker ved et laboratorium i Oslo fikk en syresprut på hånden 2025-04-29 klokken 15:00. Til tross for rask skylling, fikk hun en moderat etseskade."
+      },
+      {
+        "case": "Case 484",
+        "description": "En 48 år gammel mann ble alvorlig skadet da han ble klemt mellom en båt og bryggen under fortøyning i en småbåthavn i Færder kommune 2025-07-26 klokken 17:00."
+      },
+      {
+        "case": "Case 485",
+        "description": "En 27 år gammel kvinne pådro seg en forstrekning i låret da hun plutselig måtte løpe for å hente igjen sin bortløpne hund i en park i Drammen 2025-09-14 klokken 18:30."
+      },
+      {
+        "case": "Case 486",
+        "description": "En 54 år gammel mann falt av en hest som steilet under en organisert ridetur i fjellet i Oppdal 2025-08-23 klokken 13:45. Fallet resulterte i et bekkenbrudd og brudd i lårbeine"
+      },
+      {
+        "case": "Case 487",
+        "description": "En 16 år gammel gutt fikk et dypt kutt i foten da han tråkket på et knust ølglass på en strandfest i Larvik 2025-07-18 klokken 23:00."
+      },
+      {
+        "case": "Case 488",
+        "description": "En 39 år gammel person ble funnet med alvorlige skader etter å ha hoppet foran et tog i Lier kommune 2025-01-24. ."
+      },
+      {
+        "case": "Case 489",
+        "description": "En 65 år gammel kvinne, passasjer i en bil, ble skadet da føreren mistet kontrollen på grunn av vannplaning på E39 i Lyngdal 2025-10-21 klokken 16:50. Bilen traff autovernet og hun fikk brudd i flere ribbein."
+      },
+      {
+        "case": "Case 490",
+        "description": "En 4-åring falt og slo hodet mot et bordbein i barnehagen i Trondheim 2025-09-26 klokken 09:30. Han fikk et kutt i pannen som måtte limes."
+      },
+      {
+        "case": "Case 491",
+        "description": "En 36 år gammel mann fikk en alvorlig reaksjon da han ble stukket av en svensk 'huggorm' (vipera berus) under en fjelltur i Sverige (utlandet) 2025-08-03."
+      },
+      {
+        "case": "Case 492",
+        "description": "En 28 år gammel mannlig lærer ble dyttet ned en trapp av en utagerende elev på en ungdomsskole i Skien 2025-03-19 klokken 11:20. Han brakk armen i fallet."
+      },
+      {
+        "case": "Case 493",
+        "description": "En 56 år gammel kvinne fikk et brudd i foten da hun tråkket feil i en ujevn utkjørsel dekket av snø utenfor sitt hjem i Tromsø 2025-02-12 klokken 08:15."
+      },
+      {
+        "case": "Case 494",
+        "description": "En 20 år gammel mann pådro seg en hjernerystelse da han skallet i en medspiller under en ishockeytrening i en ishall i Stavanger 2025-11-10 klokken 19:45."
+      },
+      {
+        "case": "Case 495",
+        "description": "En 47 år gammel mann ble bitt i hånden da han forsøkte å skille to slåssende hunder i en hundepark i Oslo 2025-09-06 klokken 18:00. Bittet var dypt og krevde antibiotikabehandling."
+      },
+      {
+        "case": "Case 496",
+        "description": "En 32 år gammel fisker på en tråler på Finnmarkskysten (uspesifisert hav) fikk en vaier over beinet da trålen skulle hales inn 2025-04-09 klokken 05:00. Han fikk et åpent brudd i legge"
+      },
+      {
+        "case": "Case 497",
+        "description": "En 19 år gammel jente mistet kontrollen over bilen sin på en øde, isete vei og kjørte i en snøfonn. Skadestedet kunne ikke fastslås nøyaktig. Skjedde ca. 2025-02-05."
+      },
+      {
+        "case": "Case 498",
+        "description": "En 24 år gammel kvinne ble skadet da hun ble fanget i en trengsel under en konsert i Oslo Spektrum 2025-10-17 klokken 21:30. Hun fikk pustevansker og ble påført klemskader."
+      },
+      {
+        "case": "Case 499",
+        "description": "En 72 år gammel kvinne ble frastjålet vesken sin i Bodø sentrum 2025-09-26 klokken 11:00. I basketaket ble hun dyttet over ende og brakk håndleddet. "
+      },
+      {
+        "case": "Case 500",
+        "description": "En 58 år gammel mann fikk en akutt og alvorlig allergisk reaksjon på et medikament han fikk hos tannlegen i Bergen 2025-06-17 klokken 10:20."
+      }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "oppgavebeskrivelse": "Ikke returner markdown, bare json!! Bare returner JSON objektet, ikke send en respons med noe annnet! Basert på en gitt saksbeskrivelse, fyll ut feltene i JSON-strukturen under for å lage et komplett JSON-objekt for saken.",
+  "output_krav": "Returner KUN en gyldig JSON-liste som inneholder det ene, ferdigutfylte objektet. Svaret skal ikke inneholde tekst før eller etter JSON-koden, og skal ikke være formatert som markdown. Du får bare velge alternativer som er for de feltene!",
+  "json_mal": {
+    "case_number": {
+      "beskrivelse": "Et unikt tall for saken. Dette er en fortløpende sak-ID som skiller hver skade fra de andre. Den skal være den samme som case nummeret",
+      "format_regel": "Verdien må være et heltall (integer), ikke en streng."
+    },
+    "skadetidspunkt": {
+      "beskrivelse": "Dato og klokkeslett for når skaden skjedde. Tidspunktet skal registreres så nøyaktig som mulig, men kan være estimert ut fra tilgjengelig informasjon. Hvis tidspunkt er ukjent så registerer det som Ukjent skadetidspunkt",
+      "format_regel": "Verdien må være i ISO 8601-format (f.eks. 'YYYY-MM-DDTHH:MM:SS')."
+    },
+    "skadekommune": {
+      "beskrivelse": "Kommunen der skaden fant sted. Bruk kommunenummer som gjelder etter 2023 (ikke gamle). Påkrevd dersom Kontaktårsak skade = 'Ulykkesskade' eller 'Vold, overfall'. Hvis skade skjedde i utlandet brukes Utlandet, 2599. For ukjent kommune brukes Ukjent, 9999. For uspesifisert hav brukes Hav, 2399.",
+      "format_regel": "Skriv som 'Bynavn, kommunenummer'. Eksempel: 'Tromsø, 5501'."
+    },
+    "kontaktårsak": {
+      "beskrivelse": "Årsaken til skaden. Angir om skaden skyldes ulykke, villet handling, vold eller annet.",
+      "alternativer": {
+        "Ulykkesskade": "En ufrivillig hendelse forårsaket av en hurtigvirkende kraft eller påvirkning. Omfatter også akutt fysisk overbelastning (forløftning, forvridning, kollaps), forgiftning ved uhell, dyreangrep, og overeksponering av varme, kulde eller stråling (kortvarig).",
+        "Villet egenskade": "Selvpåført skade, inkludert selvmordsforsøk, selvmord, villet forgiftning, overdose av alkohol, narkotika eller andre stoffer.",
+        "Vold, overfall": "Skader fra vold, mishandling, slagsmål, drapsforsøk eller mord. Omfatter også slagsmål mellom barn. Voldsomme leker skal likevel registreres som 'Ulykkesskade'.",
+        "Skade etter lovhjemlet inngripen, krigshandling": "Skader som oppstår i sammenstøt med politi eller annen ordensmakt, samt skader i krigshandlinger.",
+        "Ukjent kontaktårsak": "Brukes dersom årsaken til skaden ikke kan fastslås."
+      }
+    },
+    "Aktivitet": {
+      "beskrivelse": "Hovedaktiviteten personen var i da skaden skjedde. aktivitet Feltet skal ikke Registreres dersom Kontaktårsak = 'Villet egenskade'. Dette feltet kan ikke stå blankt",
+      "alternativer": {
+        "Inntektsgivende arbeid": "Alle former for lønnet arbeid, både hovedyrke og biyrke. Inkluderer lærlinger, profesjonelle idrettsutøvere, militærtjeneste og arbeid i familiebedrift selv uten lønn. Pauser og måltider i arbeidstiden regnes også.",
+        "Utdanning, også i barnehage og SFO": "Undervisning eller opphold i utdanning, barnehage eller SFO. Omfatter skoleturer som ikke er idrett, i skog og mark, hjemmearbeid knyttet til undervisning, og pauser i skoletiden.",
+        "Sport, idrett og mosjon i utdanning": "Organisert fysisk aktivitet i utdanningstiden: gym, idrett og konkurranser på skole eller universitet.",
+        "Sport, idrett og mosjon i fritid": "Organisert eller systematisk fysisk aktivitet i fritid, inkludert trening og konkurranser (fotball, slalåm, håndball). Ekskluderer turer i skog og mark, sjakk og bridge, barns lek med sportsutstyr som å stå på rulleskøyter.",
+        "Friluftsliv, jakt og fiske i fritid": "Aktiviteter i naturen som turer, bærtur, fisketur. Skiller seg fra idrett ved at det ikke er organisert trening eller konkurranse.",
+        "Annen aktivitet (lek, hobby, hus- og hagearbeid etc.)": "Dagligdagse aktiviteter i fritid, som lek, hobbyer, husarbeid, hagearbeid, reiser, måltider og hvile. Biltur til og fra jobb osv.",
+        "Ukjent aktivitet": "Brukes dersom aktivitet ikke er kjent."
+      }
+    },
+    "Bransje": {
+      "beskrivelse": "Arbeidsgivers bransje. Angis kun hvis Aktivitet = 'Inntektsgivende arbeid'.",
+      "format_regel": "Hvis Aktivitet ≠ 'Inntektsgivende arbeid', bruk en tom streng ('').",
+      "alternativer": {
+        "Jordbruk, skogbruk og fiske": "Omfatter bruken av planteressursene og de animalske ressursene, inkludert aktiviteter i forbindelse med dyrking av vekster, husdyrhold og -avl, produksjon av tømmer og høsting/utnyttelse av andre planter, dyr og animalske produkter fra en gård eller fra naturen. Omfatter fiske, fangst og fiskeoppdrett",
+        "Industri": "Industriproduksjon omfatter fysisk eller kjemisk omdanning av materialer, stoffer eller deler til nye produkter, selv om dette ikke kan brukes som det eneste kriteriet for industriproduksjon, de omdannede materialene, stoffene eller deler av råmaterialer som stammer fra jordbruk, skogbruk, fiske, bergverksdrift eller fra annen industriproduksjon. Vesentlig omdanning eller renovering av produkter betraktes vanligvis som industriproduksjon. Enhetene innenfor industriproduksjon betegnes ofte som anlegg eller fabrikker og nytter typisk motordrevne maskiner og motordrevne håndverksmaskiner.",
+        "Bygge- og anleggsvirksomhet": "Næringshovedområdet omfatter generell bygge- og anleggsvirksomhet og bygge- og anleggsvirksomhet som krever spesialisering. Den omfatter nybygging, reparasjoner, tilbygging og ombygging, oppføring av prefabrikkerte bygninger eller konstruksjoner på stedet, samt bygninger og konstruksjoner av mer midlertidig karakter. Generell bygge- og anleggsvirksomhet omfatter oppføring av boligbygninger, kontor- og forretningsbygninger, lager- og industribygninger, offentlige bygninger, driftsbygninger til jordbruket mv. eller anlegg som veier, bruer, tunneler, jernbaner, lufthavner, havner og andre vannprosjekter, vanningssystemer, kloakksystemer, industrianlegg, rørledninger og kraftledninger, idrettsanlegg mv. Arbeidet kan utføres for egen regning eller på honorar- eller kontraktbasis. Deler av arbeidet og alt praktisk arbeid kan settes bort til underentreprenører. Enheter som har det overordnede ansvar for et byggeprosjekt er gruppert her. Næringshovedområdet omfatter også reparasjon og vedlikehold av bygninger og anlegg. Næringshovedområdet omfatter også utvikling av byggeprosjekter i forbindelse med bygge- og anleggsarbeider ved å samle de økonomiske, tekniske og fysiske midler som skal til for å gjennomføre byggeprosjektet for senere salg. Hvis disse aktivitetene ikke utføres for senere salg av byggeprosjektene, men derimot til eget bruk (f.eks. utleie av lokaler eller produksjonsvirksomhet) grupperes enhetene ikke her, men i henhold til driften, dvs. eiendomsdrift, type produksjonsvirksomhet osv",
+        "Transport og lagring": "Næringshovedområdet omfatter passasjer- og godstransport (med eller uten ruteplan) med jernbane, rørtransport, veitransport, skipsfart eller luftfart og tjenester i tilknytning til dette som transportsentraler, godsterminaler, parkeringsanlegg og lagerdrift mv. Næringshovedområdet omfatter også utleie av transportutstyr med sjåfør eller operatør. Post- og kurervirksomhet er også inkludert",
+        "Helse- og sosialtjenester": "Omfatter helse- og sosialtjenester: en lang rekke aktiviteter fra helsetjenester utøvet av utdannede leger på sykehus og andre institusjoner med opphold som innebære",
+        "Overnattings- og serveringsvirksomhet": "Hoteller, restauranter, campingplasser, serveringssteder.",
+        "Undervisning": "Skoler, barnehager, universiteter og annen undervisning.",
+        "Annen bransje": "Omfatter: Bergverksdrift og utvinning Elektrisitets-, gass-, damp- og varmtvannforsyning, Vannforsyning, avløps- og renovasjonsvirksomhet , Varehandel, reparasjon av motorvogner,  Informasjon og kommunikasjon, Finansierings- og forsikringsvirksomhet, Forretningsmessig virksomhet, Offentlig administrasjon og forsvar, Kulturell virksomhet, Annen tjenesteyting ,Lønnet arbeid i private husholdninger, Internasjonale organisasjoner og organer.",
+        "Ukjent bransje": "Brukes når arbeidsgivers bransje ikke kan er nevt i casen."
+      }
+    },
+    "skadested": {
+      "beskrivelse": "Skadestedet er det stedet hvor skadehendelsen oppsto eller startet. Eksempel: Hvis en bil kjører utfor veien og havner i en elv er veien å betrakte som skadestedet",
+      "alternativer": {
+        "Vei, gate, fortau, gang/sykkelvei - trafikkulykke, dvs. kjøretøy i bevegelse var innblandet, (også sykkelvelt)": "Gate, vei som er åpen for alminnelig ferdsel, også i trikk. Eksklusiv:  I vogn på skinner for tog, T-bane (annet skadested), Traktorvei, turvei i friluftsområde (fri natur..), , Privat avkjørsel til bolig (bolig ute) og gårdsveg (jordbruksbedrift..)",
+        "Vei, gate, fortau, gang/sykkelvei - ikke trafikkulykke": "Gate, vei som er åpen for alminnelig ferdsel, også i trikk. Eksklusiv:  I vogn på skinner for tog, T-bane (annet skadested), Traktorvei, turvei i friluftsområde (fri natur..), , Privat avkjørsel til bolig (bolig ute) og gårdsveg (jordbruksbedrift..)",
+        "Bolig inne": "Bolig, fritidshus, hytte, vernet bolig for enkelthusholdninger, trapp inne. Eksklusiv: driftsbygninger som fjøs, låve (Jordbruksbedrift, skogbruk), midlertidig opphold i hotell (Annet skadested ), bygning under oppførelse (Annet skadested ), fellesboform for pleie og omsorg (Institusjon, sykehus, syke-,aldershjem)",
+        "Bolig ute": "Utvendige bygningsdeler som utvendig trapp, altan, tak, stillas, stige. Innkjørsel, gårdsplass, uthus, hage, boligområde med gangareal.",
+        "Jordbruksbedrift, skogbruk": "Gårdstun, driftsbygninger, dyrket mark, gårdsvei, gartneri, område for reindrift. Eksklusiv: Bolig inne, Bolig ute,Hage, Utmark (Fri natur, utmark..)",
+        "Institusjon, sykehus, syke-, aldershjem": "Fritidshjem, ungdomsklubb, døgninstitusjoner for barn og unge, sykehus og helseinstitusjon, kaserne, fengsel, offentlig tilgjengelig kontor, foreningslokale, museum, kirke.",
+        "Lekeplass": "Opparbeidet lekeplass på skole, SFO, barnehage, park, boligområde, hage (inkl trampoline), byggelekeplass",
+        "Skole, barnehage, SFO": "Skolegård, barnehage eller SFO. Ekskluderer idrettsanlegg og lekeplass i skole og barnehage.",
+        "Sport-, idrettsområde (også på skole / universitet)": "Idrettsanlegg, svømmehall, ballbaner, slalåmbakker, golfbaner.",
+        "Fri natur, utmark, hav, sjø og vann": "Utmark, skog, fjellområde, sti, turvei, preparerte skiløyper, campingplass, militært øvingsområde, brygge, sjøhus, strand, fartøy til vanns og til kai, oljeplattformer",
+        "Annet skadested": "Transportområde som stasjon, flyplass, i vogn på skinner (tog, t-bane), parkeringsplass, bensinstasjon. Produksjonsområde som verksted, gruve og anlegg. Butikk, hotell, restaurant, park og fornøyelsesområde.",
+        "Ukjent skadested": "Brukes dersom sted ikke er kjent eller nevt."
+      }
+    },
+    "skademekanisme": {
+      "beskrivelse": "Hvordan skaden fysisk oppstod i selve skadeøyeblikket.",
+      "alternativer": {
+        "Fall fra høyde - også i / fra trapp og fra sykkel / sparkesykkel": "Fall fra et høyere nivå, inkludert trapper, sykkel og sparkesykkel.",
+        "Fall fra egen høyde": "Fall på samme nivå: bakken, gulv, ski, skøyter. Ekskluderer vridning uten fall.",
+        "Sammenstøt, påkjørsel": "Slag og støt/ fra kjørende transportmiddel, sammenstøt med personer, dyr slag, spark av menneske, dyr",
+        "Klemt, fanget, knust": "Klemt i dør, maskin eller annet utstyr, fanget fast eller overkjørt av en ting. Også hvis det er et sammenstøt av noe som ikke er en menneske eller kjøretøy",
+        "Kutt (ikke fall), bitt (ikke giftig), stikk, skutt": "Skade fra skarpe gjenstander, prosjektiler, dyrebitt, kloring, insektsstikk (ikke giftige).",
+        "Kvelning, drukning": "Blokkert luftvei, begravd i snø/jord/korn, drukning eller nærdrukning.",
+        "Åpen ild, flamme, røyk": "Eksponering for brann, flammer eller røyk. Ekskluderer forbrenning fra væske eller varme overflater.",
+        "Akutt overbelastning": "Skader pga. plutselig belastning, vridning eller voldsom bevegelse. Ekskluderer langvarig overbelastning mer enn 48 timer.",
+        "Annen skademekanisme": "Andre skader som forgiftning, elektrisitet, stråling, giftige dyr/planter, naturkrefter, forbrenning av varm væske.",
+        "Ukjent skademekanisme": "Brukes dersom mekanismen ikke kan fastslås."
+      }
+    },
+    "fremkomstmiddel": {
+      "beskrivelse": "Fremkomstmiddel den skadede brukte da ulykken skjedde. Skal alltid registreres. Hvis ikke et kjøretøy var involvert i skade så bruk 'Ikke relevant'.",
+      "format_regel": "Fremkomstmiddel skal kun nevnes hvis det var en trafikkulykke, hvis ikke bruk verdien 'Ikke relevant'.",
+      "alternativer": {
+        "Til fots": "Skadet som fotgjenger.",
+        "Sykkel": "Vanlig sykkel.",
+        "El-sykkel": "Elektrisk sykkel.",
+        "Sparkesykkel": "Manuell sparkesykkel.",
+        "Elektrisk sparkesykkel": "Motorisert sparkesykkel.",
+        "Moped": "Mopedkjøretøy.",
+        "Motorsykkel": "Motorsykkel.",
+        "Personbil/Varebil": "Bil eller varebil.",
+        "Lastebil": "Lastebil eller tungtransport.",
+        "Buss": "Buss.",
+        "Trikk/tog/bane": "Trikk, tog eller bane.",
+        "ATV «firhjuling»": "Firehjuls terrengkjøretøy (ATV).",
+        "Snøskuter": "Snøscooter.",
+        "Ski/snøbrett mv.": "Ski, snøbrett og lignende.",
+        "Traktor / landbruksmaskin": "Traktor eller annen landbruksmaskin.",
+        "Rullebrett / rulleskøyter / rulleski": "Skateboard, rulleskøyter eller rulleski.",
+        "Vannskuter": "Vannskuter.",
+        "Båt": "Båt eller annet fartøy.",
+        "Hest": "Ridning eller hestekjøretøy.",
+        "Annet spesifisert": "Annet kjøretøy ikke på listen.",
+        "Ukjent": "Brukes dersom fremkomstmiddel er ukjent.",
+        "Ikke relevant": "Brukes dersom ingen fremkomstmiddel var involvert (f.eks. fall innendørs)."
+      }
+    },
+    "alvorlighetsgrad": {
+      "beskrivelse": "Skadens alvorlighetsgrad basert på forenklet Abbreviated Injury Scale (AIS). Dersom man er usikker og har valget mellom to skadegrader for en skade, skal man alltid velge den mildeste skadegraden.",
+      "alternativer": {
+        "Liten skade (AIS 1)": "Overfladiske skader på øyet og dets omgivelser: Tannskader, Hodeskade uten bevisstløshet, Dislokasjon, forstuvning og forstrekning i ekstremitetene, brudd i fingre og tær, Mindre kutt og kontusjoner, Brannskader med 1. grads forbrenning alle aldre. 2. og 3. grads forbrenninger < 10 % av kroppsoverflaten. Unntak for barn < 5 år, som kategoriseres som moderat skade, Forgiftning uten behandling, eksklusive infeksiøse gastroenteritter",
+        "Moderat skade (AIS 2)": "Omfattende øyeskader, Hodeskade med kortvarig bevissthetstap, Ukompliserte (lukkede) brudd i: (Ansikt, Virvelsøylen, Bekkenringen (stabil), Overarm, Underarm, Legg, Ankel), Inntil to ribbeinsbrudd og/eller brudd i brystbein, Mindre pneumothorax, Mindre skader på tarm, milt, lever, øvrige buk- og kjønnsorganer, Kutt > 10 cm lengde, Brannskader, 2. og 3. grads forbrenning 10-19 % av kroppen. Unntak barn < 5 år som kategorisere som alvorlig, AIS 3+, Forgiftning med bevisstløshet, reaksjon på smerte",
+        "Alvorlig skade (AIS 3+)": "Omfattende brudd i ansiktsskjelett (Le Fort eller Panfaciale frakturer), Kraniebrudd med impresjon, eller brudd i skallebasis,  Intrakraniell blødning, kontusjon, ødem (CT-/MR- verifisert), Skade av virvelsøylen med alle typer nevrologiske utfall (sensorisk og motorisk), Tre eller flere ribbeinsbrudd, Skade av viktige organer i brysthulen (hjerte, lunge, bronkier, trachea, øsofagus), Hemothorax, Større pneumothorax, Større skader på tarm eller øvrige bukorganer, Ustabil bekkenfraktur, Brudd i lårhals eller lårben, Åpne brudd i ekstremiteter (Unntak: Åpne brudd på fingre og tær (kategoriseres som AIS 1) og Åpne brudd i kneskål, og enkle brudd i skaft på over- og underarm samt enkle brudd på fibula (AIS 2)), Større karskader proksimalt for albue eller kne, Amputasjon proksimalt for håndledd eller ankel, Alvorlige hud- og bløtdelsskader, inklusive degloveringsskader (hud og underhud revet løs fra underliggende fascie), Brannskader med 2. og 3. grads forbrenning, o ≥ 20 % av kroppsoverflaten, o ≥ 10 % av kroppsoverflaten hos barn < 5 år, Forgiftning med dyp bevisstløshet, ingen reaksjon på smertestimulering, Asfyksiskader (henging, kvelning, drukning, fremmedlegeme), Alvorlig nedkjøling (< 32 ⁰C)",
+        "Ukjent alvorlighetsgrad": "Brukes dersom skadens alvorlighetsgrad ikke kan fastslås."
+      }
+    }
+  }
+}
