@@ -56,7 +56,7 @@ Both scripts parse model JSON outputs, normalize field values, and compute exact
 
 ## Fine-Tuned Models
 
-Fine-tuned open-weight models are available on Hugging Face: [huggingface.co/havaskj](https://huggingface.co/havaskj)
+Fine-tuned open-weight models are available on Hugging Face: [huggingface.co/havask](https://huggingface.co/havask)
 
 ## Citation
 
