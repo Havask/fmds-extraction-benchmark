@@ -1,0 +1,96 @@
+
+Granite: 
+
+Overall exact-match: avg 0.0000, std 0.0000
+Avg field accuracy: avg 0.4621, std 0.0000
+
+
+Aktivitet: avg 0.2806, std 0.0000
+Bransje: avg 0.8839, std 0.0000
+alvorlighetsgrad: avg 0.5161, std 0.0000
+fremkomstmiddel: avg 0.2419, std 0.0000
+kontaktårsak: avg 0.8613, std 0.0000
+skademekanisme: avg 0.2355, std 0.0000
+skadested: avg 0.0677, std 0.0000
+skadetidspunkt: avg 0.6097, std 0.0000
+
+
+Meta: 
+
+Overall exact-match: avg 0.0032, std 0.0000
+Avg field accuracy: avg 0.4988, std 0.0000
+Aktivitet: avg 0.3548, std 0.0000
+Bransje: avg 0.5968, std 0.0000
+alvorlighetsgrad: avg 0.4548, std 0.0000
+fremkomstmiddel: avg 0.5516, std 0.0000
+kontaktårsak: avg 0.9258, std 0.0000
+skademekanisme: avg 0.4226, std 0.0000
+skadested: avg 0.1839, std 0.0000
+skadetidspunkt: avg 0.5000, std 0.0000
+
+Phi:
+
+Overall exact-match: avg 0.0323, std 0.0000
+Avg field accuracy: avg 0.7065, std 0.0000
+Aktivitet: avg 0.7613, std 0.0000
+Bransje: avg 0.8774, std 0.0000
+alvorlighetsgrad: avg 0.7161, std 0.0000
+fremkomstmiddel: avg 0.8484, std 0.0000
+kontaktårsak: avg 0.9484, std 0.0000
+skademekanisme: avg 0.5355, std 0.0000
+skadested: avg 0.2968, std 0.0000
+skadetidspunkt: avg 0.6677, std 0.0000
+
+
+minstral 7b:
+
+Overall exact-match: avg 0.0000, std 0.0000
+Avg field accuracy: avg 0.3770, std 0.0000
+Aktivitet: avg 0.1613, std 0.0000
+Bransje: avg 0.1194, std 0.0000
+alvorlighetsgrad: avg 0.5419, std 0.0000
+fremkomstmiddel: avg 0.4581, std 0.0000
+kontaktårsak: avg 0.9419, std 0.0000
+skademekanisme: avg 0.2516, std 0.0000
+skadested: avg 0.0903, std 0.0000
+skadetidspunkt: avg 0.4516, std 0.0000
+
+
+Ministral 3: 
+
+Overall exact-match: avg 0.0097, std 0.0000
+Avg field accuracy: avg 0.5779, std 0.0005
+Aktivitet: avg 0.5140, std 0.0018
+Bransje: avg 0.8419, std 0.0000
+alvorlighetsgrad: avg 0.6043, std 0.0019
+fremkomstmiddel: avg 0.5409, std 0.0074
+kontaktårsak: avg 0.7409, std 0.0038
+skademekanisme: avg 0.5935, std 0.0000
+skadested: avg 0.1602, std 0.0018
+skadetidspunkt: avg 0.6279, std 0.0018
+
+ministral 8
+
+Overall exact-match: avg 0.0548, std 0.0000
+Avg field accuracy: avg 0.7024, std 0.0000
+Aktivitet: avg 0.7516, std 0.0000
+Bransje: avg 0.8710, std 0.0000
+alvorlighetsgrad: avg 0.4290, std 0.0000
+fremkomstmiddel: avg 0.8677, std 0.0000
+kontaktårsak: avg 0.9161, std 0.0000
+skademekanisme: avg 0.6290, std 0.0000
+skadested: avg 0.4097, std 0.0000
+skadetidspunkt: avg 0.7452, std 0.0000
+
+ministral 14b
+
+Overall exact-match: avg 0.0806, std 0.0000
+Avg field accuracy: avg 0.7290, std 0.0000
+Aktivitet: avg 0.7452, std 0.0000
+Bransje: avg 0.8645, std 0.0000
+alvorlighetsgrad: avg 0.5839, std 0.0000
+fremkomstmiddel: avg 0.8258, std 0.0000
+kontaktårsak: avg 0.9516, std 0.0000
+skademekanisme: avg 0.6581, std 0.0000
+skadested: avg 0.4419, std 0.0000
+skadetidspunkt: avg 0.7613, std 0.0000
